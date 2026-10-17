@@ -1,0 +1,45 @@
+# 2026–27 NBA rosters, injuries, and teammate opportunity
+
+Snapshot retrieval is feasible without credentials. On 2026-10-07 21:59 UTC, ESPN's public site API returned 2027 preseason data for all 30 NBA teams. I saved each unmodified response with its retrieval time, source timestamp, URL, HTTP status, and SHA-256 under `raw/`. The normalized roster CSV has 606 players (18–21 per team); 315 roster rows do not appear in the supplied Hashtag ranked-player HTML after case/punctuation-insensitive name matching. This supplies a wider teammate pool for modeling. Hashtag and ESPN use different player ID namespaces; the name comparison is only a coverage aid, and nine names in the 300-player Hashtag list did not match an ESPN roster name.
+
+The roster endpoint is ESPN's view of team rosters, not the fantasy league's player pool or a league-certified final opening-night roster. Each player's full record is retained in raw JSON, including contract information when ESPN provides it. Team-roster pages were season-validated (`season.year == 2027`) and all 30 succeeded. The public ESPN API does not publish a formal schema/availability contract, so keep the raw payload and tolerate fields changing.
+
+## Files
+
+- `rosters_2026-27.csv`: one row per ESPN roster athlete; includes team, ESPN ID, name, position, jersey, roster status, age/experience, season, and whether the name appears in the supplied Hashtag ranks.
+- `injuries_2026-27.csv`: normalized ESPN injury-event records; one row per source event.
+- `injuries_latest_event_2026-27.csv`: latest available ESPN event per player/team, retaining its event date and injury details.
+- `refresh_snapshots.py`: manual refresh command; saves timestamped raw API JSON and metadata, then updates the normalized CSVs. Run from the repo root with `python3 research/rosters_injuries/refresh_snapshots.py`.
+- `raw/`: timestamped original ESPN API responses plus per-response metadata. Existing unversioned files are the initial exploratory fetch; timestamped files are produced by the refresh script.
+
+The ESPN injury endpoint returned 101 event records for 26 team groups; four teams had no group. The feed's own timestamp was `2026-10-07T21:59:38Z`; the underlying event dates span `2026-02-09` through `2026-10-07`. Treat this as injury/news history with reported statuses, not a live availability board. A months-old `Out` or `Day-To-Day` item must not be carried forward as today's status. An absent team group or absent player entry also does not establish health.
+
+## Retrieval and source checks
+
+The roster source is `https://site.api.espn.com/apis/site/v2/sports/basketball/nba/teams/{abbreviation}/roster?season=2027`; the team index is `https://site.api.espn.com/apis/site/v2/sports/basketball/nba/teams?limit=1000`. ESPN returned HTTP 200 with season year 2027 for all 30. Injury events came from `https://site.api.espn.com/apis/site/v2/sports/basketball/nba/injuries`, HTTP 200. These calls were actually made and their raw responses are saved.
+
+The NBA Stats `CommonTeamRoster` endpoint is the natural second roster source (`https://stats.nba.com/stats/commonteamroster?LeagueID=00&Season=2026-27&TeamID=...`); its team/season parameters and player fields are described in the [nba_api endpoint reference](https://github.com/swar/nba_api/blob/master/docs/nba_api/stats/endpoints/commonteamroster.md). A live request from this environment timed out after 15–30 seconds, so it is documented as a fallback, not represented as verified current output. NBA Stats' public `PlayerVsPlayer` endpoint documents `OnOffCourt` splits for a target player with a selected player on/off court and exposes base/advanced/usage measure types ([endpoint reference](https://github.com/swar/nba_api/blob/master/docs/nba_api/stats/endpoints/playervsplayer.md)). Its current connectivity and 2025–26 data payload were not verified in this run.
+
+The [NBA official injury-report page](https://official.nba.com/nba-injury-report-2025-26-season/) describes team reporting duties and continuing updates. It specifies a prior-day 5 p.m. local deadline (1 p.m. on the game day for the second night of a back-to-back) and game-day windows, and links timestamped PDFs during the season. The corresponding presumed 2026–27 page returned HTTP 404 at retrieval, so no official current-season report could be saved. The 2025–26 page is evidence for the reporting process, not 2026–27 player statuses. For the present preseason snapshot, ESPN is the available live feed; game-day official reporting should be preferred once the official 2026–27 page/report is published.
+
+NBA schedule publication confirms the 2026–27 season is live ([NBA schedule release](https://www.nba.com/news/2026-27-schedule-team-by-team-index)). These are preseason rosters and reports: cuts, signings, two-way assignments, rest, and exhibition decisions can change quickly. The available feed must be refreshed near draft/day-of-game decisions.
+
+## Teammate opportunity model
+
+Model each player's per-game category projection as **scenario minutes × scenario category rate**, with a team-possession/pace adjustment where appropriate. Do not multiply every fantasy category by usage rate.
+
+1. Set a healthy-role prior from the latest full regular season and previous seasons, with minutes per game and category rates kept separate. Use NBA/ESPN regular-season box scores and advanced usage rate where available. Do not use preseason per-game production as a stable skill estimate.
+2. For a teammate `x` who may miss or return, estimate player `i`'s category rate in minutes with `x` on court and with `x` off court. Prefer direct player-vs-player on/off splits; derive rates from totals divided by minutes/possessions rather than subtracting per-game averages. For a scenario with several absences, combine only independently supported effects and reduce the combined adjustment for overlapping minutes/interactions.
+3. Shrink the observed split toward the healthy-role prior: `adjusted_delta = n_eff / (n_eff + K) * observed_delta + K / (n_eff + K) * prior_delta`. `n_eff` should be usable on-court minutes or possessions in the relevant split, not just the number of games. A practical starting prior is 120 split minutes (K), then validate it against held-out seasons. If the split has little exposure, the prior dominates. Record the unshrunk difference, sample size, and applied weight so fragile signals are visible.
+4. Project minutes as a separate availability/rotation scenario. For a regulation game the team budget is 240 player-minutes; distribute a missing player's expected minutes among plausible replacements and the remaining rotation, then renormalize to 240. Weight expected minutes by probability of playing, and use a separate overtime allowance if needed. A returning starter may take minutes from named replacements; it need not change every teammate's rate.
+5. Apply category-specific effects. Points and FGA/FTA can respond to usage; assists respond to creation opportunities and teammate shot conversion; rebounds depend on missed shots, position, and time on court; steals and blocks depend on defensive role and possessions. FG%/FT% should be projected from makes and attempts, not by scaling the percentage. Turnovers can rise with creation load. Keep stocks and efficiency rates independent unless on/off evidence supports a change.
+6. For injuries, keep an availability probability/status scenario separate from role. An official `Out` report can set availability to zero for that game; ESPN news-event status without a fresh report should only widen the scenario range or trigger a refresh. For returns, ramp minutes when team reports/player restrictions support it rather than applying a full-minute restoration immediately.
+
+The 240-minute budget is a team constraint; it does not imply that all of an absent player's usage or production transfers to one teammate. Several absent players can create new roles, lineup combinations, pace, and shot quality. Use team/player on-off estimates as a prior adjustment and retain a conservative baseline when small samples or new teammates make the split non-comparable. Hashtag's qualitative teammate notes remain context and are not added as another numeric adjustment; only measured, season-tagged NBA/ESPN split data should drive the quantitative delta.
+
+## Limits and next data
+
+- No official 2026–27 injury-report page/PDF was available at the direct NBA URL; the ESPN injuries feed is event-oriented and stale entries are present.
+- NBA Stats live roster and on/off calls timed out here. Their endpoint shapes are documented, but no current on/off deltas were computed; do not treat the model formulas as validated coefficients.
+- ESPN roster status does not guarantee final NBA active-list eligibility or fantasy eligibility. Confirm two-way/contract and transactions for edge cases; refresh and diff raw snapshots when camps close and again before draft day.
+- No 2026–27 regular-season sample exists yet. Use 2025–26 and earlier regular-season splits as priors, then begin shrinking in live 2026–27 evidence once meaningful sample accrues.

@@ -1,0 +1,11 @@
+{
+  "retrieved_at_utc": "2026-10-07T21:59:37+00:00",
+  "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/teams/mil/roster?season=2027",
+  "http_status": 200,
+  "sha256": "24748463250e0027bf034cc805ded7147d9b6aff3003c4285b2aa2fff82d611d",
+  "season_id": 2027,
+  "source_timestamp": "2026-10-07T21:58:36Z",
+  "team_id": "15",
+  "team_abbreviation": "MIL",
+  "player_count": 21
+}

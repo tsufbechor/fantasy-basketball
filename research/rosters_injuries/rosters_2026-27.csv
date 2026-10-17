@@ -1,0 +1,607 @@
+team_abbreviation,team_name,player_id,player_name,position,jersey,roster_status,roster_status_type,age,experience_years,season_id,in_hashtag_ranked_file,source
+ATL,Atlanta Hawks,4278039,Nickeil Alexander-Walker,G,7,Active,active,28,8,2027,True,ESPN team roster API
+ATL,Atlanta Hawks,4712902,Cameron Corhen,F,,Active,active,22,0,2027,False,ESPN team roster API
+ATL,Atlanta Hawks,4869342,Dyson Daniels,G,5,Active,active,23,5,2027,True,ESPN team roster API
+ATL,Atlanta Hawks,4431941,RayJ Dennis,G,10,Active,active,25,3,2027,False,ESPN team roster API
+ATL,Atlanta Hawks,4397020,Luguentz Dort,G,0,Active,active,27,8,2027,True,ESPN team roster API
+ATL,Atlanta Hawks,5106262,Zuby Ejiofor,F,20,Active,active,22,0,2027,False,ESPN team roster API
+ATL,Atlanta Hawks,2578185,Dorian Finney-Smith,F,8,Active,active,33,11,2027,False,ESPN team roster API
+ATL,Atlanta Hawks,5149077,Kingston Flemings,G,4,Active,active,19,0,2027,False,ESPN team roster API
+ATL,Atlanta Hawks,4585618,Keshon Gilbert,G,51,Active,active,23,2,2027,False,ESPN team roster API
+ATL,Atlanta Hawks,4712863,Mouhamed Gueye,F,18,Active,active,23,4,2027,True,ESPN team roster API
+ATL,Atlanta Hawks,4701230,Jalen Johnson,F,1,Active,active,24,6,2027,True,ESPN team roster API
+ATL,Atlanta Hawks,4683857,Kobe Johnson,G,12,Active,active,23,0,2027,False,ESPN team roster API
+ATL,Atlanta Hawks,4280151,Corey Kispert,F,24,Active,active,27,6,2027,False,ESPN team roster API
+ATL,Atlanta Hawks,3146557,Jock Landale,C,31,Active,active,30,6,2027,False,ESPN team roster API
+ATL,Atlanta Hawks,2490149,CJ McCollum,G,3,Active,active,35,14,2027,True,ESPN team roster API
+ATL,Atlanta Hawks,4873201,Asa Newell,F,14,Active,active,21,2,2027,False,ESPN team roster API
+ATL,Atlanta Hawks,4431680,Onyeka Okongwu,F,17,Active,active,25,7,2027,True,ESPN team roster API
+ATL,Atlanta Hawks,5105571,Henri Veesaar,C,13,Active,active,22,0,2027,False,ESPN team roster API
+ATL,Atlanta Hawks,4397183,Aaron Wiggins,G,2,Active,active,27,6,2027,True,ESPN team roster API
+ATL,Atlanta Hawks,4431714,Jalen Wilson,F,22,Active,active,25,4,2027,False,ESPN team roster API
+BKN,Brooklyn Nets,5105626,Tyler Bilodeau,F,34,Active,active,22,0,2027,False,ESPN team roster API
+BKN,Brooklyn Nets,5101761,Mikel Brown Jr.,G,0,Active,active,20,0,2027,True,ESPN team roster API
+BKN,Brooklyn Nets,4712896,Noah Clowney,F,21,Active,active,22,4,2027,True,ESPN team roster API
+BKN,Brooklyn Nets,4432189,Dain Dainja,F,42,Active,active,24,0,2027,False,ESPN team roster API
+BKN,Brooklyn Nets,5175643,Egor Demin,G,8,Active,active,20,2,2027,True,ESPN team roster API
+BKN,Brooklyn Nets,4702177,Keon Ellis,G,1,Active,active,26,5,2027,True,ESPN team roster API
+BKN,Brooklyn Nets,4870564,Joshua Jefferson,F,9,Active,active,22,0,2027,False,ESPN team roster API
+BKN,Brooklyn Nets,5174655,Chaney Johnson,F,31,Active,active,24,2,2027,False,ESPN team roster API
+BKN,Brooklyn Nets,3907823,Terance Mann,G,14,Active,active,29,8,2027,True,ESPN team roster API
+BKN,Brooklyn Nets,4687718,Josh Minott,F,00,Active,active,23,5,2027,False,ESPN team roster API
+BKN,Brooklyn Nets,4702670,Grant Nelson,F,16,Active,active,24,2,2027,False,ESPN team roster API
+BKN,Brooklyn Nets,4278104,Michael Porter Jr.,F,17,Active,active,28,8,2027,True,ESPN team roster API
+BKN,Brooklyn Nets,5037873,Drake Powell,G,4,Active,active,21,2,2027,False,ESPN team roster API
+BKN,Brooklyn Nets,3064514,Julius Randle,F,30,Active,active,31,13,2027,True,ESPN team roster API
+BKN,Brooklyn Nets,5242502,Ben Saraf,G,77,Active,active,20,2,2027,False,ESPN team roster API
+BKN,Brooklyn Nets,4432194,Day'Ron Sharpe,C,20,Active,active,24,6,2027,True,ESPN team roster API
+BKN,Brooklyn Nets,5279130,Nolan Traore,G,10,Active,active,20,2,2027,False,ESPN team roster API
+BKN,Brooklyn Nets,3150844,Moritz Wagner,C,13,Active,active,29,9,2027,True,ESPN team roster API
+BKN,Brooklyn Nets,5107173,Danny Wolf,F,2,Active,active,22,2,2027,True,ESPN team roster API
+BOS,Boston Celtics,4433188,Devin Carter,G,99,Active,active,24,3,2027,False,ESPN team roster API
+BOS,Boston Celtics,5142621,Chris Cenac Jr.,F,12,Active,active,19,0,2027,False,ESPN team roster API
+BOS,Boston Celtics,3195,Mike Conley,G,45,Active,active,38,20,2027,False,ESPN team roster API
+BOS,Boston Celtics,4837238,Tucker DeVries,F,26,Active,active,23,0,2027,False,ESPN team roster API
+BOS,Boston Celtics,4277951,Luka Garza,C,52,Active,active,27,6,2027,True,ESPN team roster API
+BOS,Boston Celtics,4251,Paul George,F,13,Active,active,36,17,2027,True,ESPN team roster API
+BOS,Boston Celtics,5175647,Hugo Gonzalez,G,28,Active,active,20,2,2027,False,ESPN team roster API
+BOS,Boston Celtics,5176420,Hayden Gray,G,44,Active,active,23,2,2027,False,ESPN team roster API
+BOS,Boston Celtics,4397251,Ron Harper Jr.,G,8,Active,active,26,5,2027,False,ESPN team roster API
+BOS,Boston Celtics,4065804,Sam Hauser,F,30,Active,active,28,6,2027,True,ESPN team roster API
+BOS,Boston Celtics,4398356,Gabe McGlothan,F,41,Active,active,27,0,2027,False,ESPN team roster API
+BOS,Boston Celtics,5106283,Dillon Mitchell,F,20,Active,active,23,0,2027,False,ESPN team roster API
+BOS,Boston Celtics,4066354,Payton Pritchard,G,11,Active,active,28,7,2027,True,ESPN team roster API
+BOS,Boston Celtics,4397424,Neemias Queta,C,88,Active,active,27,6,2027,True,ESPN team roster API
+BOS,Boston Celtics,4351852,Mitchell Robinson,C,4,Active,active,28,9,2027,True,ESPN team roster API
+BOS,Boston Celtics,4593841,Baylor Scheierman,G,55,Active,active,26,3,2027,False,ESPN team roster API
+BOS,Boston Celtics,4065648,Jayson Tatum,F,0,Active,active,28,10,2027,True,ESPN team roster API
+BOS,Boston Celtics,5106272,Milos Uzan,G,29,Active,active,23,0,2027,False,ESPN team roster API
+BOS,Boston Celtics,4683689,Jordan Walsh,G,27,Active,active,22,4,2027,True,ESPN team roster API
+BOS,Boston Celtics,3078576,Derrick White,G,9,Active,active,32,10,2027,True,ESPN team roster API
+BOS,Boston Celtics,4702745,Amari Williams,F,77,Active,active,24,2,2027,False,ESPN team roster API
+CHA,Charlotte Hornets,3135045,Grayson Allen,G,8,Active,active,30,9,2027,True,ESPN team roster API
+CHA,Charlotte Hornets,5060701,Christian Anderson,G,5,Active,active,20,0,2027,False,ESPN team roster API
+CHA,Charlotte Hornets,4684269,Kylan Boswell,G,18,Active,active,21,0,2027,False,ESPN team roster API
+CHA,Charlotte Hornets,2578239,Pat Connaughton,G,21,Active,active,33,12,2027,False,ESPN team roster API
+CHA,Charlotte Hornets,4433249,Moussa Diabate,F,14,Active,active,24,5,2027,False,ESPN team roster API
+CHA,Charlotte Hornets,4897504,Wyatt Fricks,F,23,Active,active,23,0,2027,False,ESPN team roster API
+CHA,Charlotte Hornets,4701225,PJ Hall,C,16,Active,active,24,3,2027,False,ESPN team roster API
+CHA,Charlotte Hornets,4602025,Sion James,G,4,Active,active,23,2,2027,False,ESPN team roster API
+CHA,Charlotte Hornets,4278729,Jarkel Joiner,G,20,Active,active,27,4,2027,False,ESPN team roster API
+CHA,Charlotte Hornets,4576060,Ryan Kalkbrenner,C,11,Active,active,24,2,2027,True,ESPN team roster API
+CHA,Charlotte Hornets,5061575,Kon Knueppel,G,7,Active,active,21,2,2027,True,ESPN team roster API
+CHA,Charlotte Hornets,5239590,Liam McNeeley,G,33,Active,active,20,2,2027,False,ESPN team roster API
+CHA,Charlotte Hornets,4433287,Brandon Miller,F,24,Active,active,23,4,2027,True,ESPN team roster API
+CHA,Charlotte Hornets,2583632,Royce O'Neale,F,00,Active,active,33,10,2027,True,ESPN team roster API
+CHA,Charlotte Hornets,4396971,Naz Reid,C,0,Active,active,27,8,2027,True,ESPN team roster API
+CHA,Charlotte Hornets,5211176,Tidjane Salaun,F,31,Active,active,21,3,2027,False,ESPN team roster API
+CHA,Charlotte Hornets,3032979,Dennis Schroder,G,17,Active,active,33,14,2027,False,ESPN team roster API
+CHA,Charlotte Hornets,5281370,Hannes Steinbach,F,22,Active,active,20,0,2027,False,ESPN team roster API
+CHA,Charlotte Hornets,4395651,Coby White,G,3,Active,active,26,8,2027,True,ESPN team roster API
+CHA,Charlotte Hornets,4066218,Grant Williams,F,2,Active,active,27,8,2027,False,ESPN team roster API
+CHI,Chicago Bulls,5105555,Tobe Awaka,F,19,Active,active,22,0,2027,False,ESPN team roster API
+CHI,Chicago Bulls,4432162,Brandon Boston Jr.,G,13,Active,active,24,4,2027,False,ESPN team roster API
+CHI,Chicago Bulls,4711294,Matas Buzelis,F,14,Active,active,21,3,2027,True,ESPN team roster API
+CHI,Chicago Bulls,4278067,Nic Claxton,C,9,Active,active,27,8,2027,False,ESPN team roster API
+CHI,Chicago Bulls,4066650,Zach Collins,F,12,Active,active,28,10,2027,True,ESPN team roster API
+CHI,Chicago Bulls,5242496,Noa Essengue,F,2,Active,active,19,2,2027,False,ESPN team roster API
+CHI,Chicago Bulls,4871145,Josh Giddey,G,3,Active,active,23,6,2027,True,ESPN team roster API
+CHI,Chicago Bulls,2990984,Buddy Hield,G,,Active,active,33,12,2027,False,ESPN team roster API
+CHI,Chicago Bulls,4395626,Tre Jones,G,30,Active,active,26,7,2027,True,ESPN team roster API
+CHI,Chicago Bulls,5044385,Leonard Miller,F,11,Active,active,22,4,2027,True,ESPN team roster API
+CHI,Chicago Bulls,4432822,Isaac Okoro,F,35,Active,active,25,7,2027,True,ESPN team roster API
+CHI,Chicago Bulls,4397689,Drew Peterson,F,21,Active,active,26,2,2027,False,ESPN team roster API
+CHI,Chicago Bulls,2595516,Norman Powell,G,24,Active,active,33,12,2027,True,ESPN team roster API
+CHI,Chicago Bulls,4593049,Orlando Robinson,C,00,Active,active,26,3,2027,False,ESPN team roster API
+CHI,Chicago Bulls,4898010,Jaylin Sellers,G,22,Active,active,23,0,2027,False,ESPN team roster API
+CHI,Chicago Bulls,4397189,Jalen Smith,F,25,Active,active,26,7,2027,True,ESPN team roster API
+CHI,Chicago Bulls,4848625,Dailyn Swain,G,5,Active,active,21,0,2027,False,ESPN team roster API
+CHI,Chicago Bulls,4431687,Patrick Williams,F,44,Active,active,25,7,2027,False,ESPN team roster API
+CHI,Chicago Bulls,5095151,Caleb Wilson,F,8,Active,active,20,0,2027,True,ESPN team roster API
+CLE,Cleveland Cavaliers,4593815,Rashaun Agee,F,19,Active,active,25,0,2027,False,ESPN team roster API
+CLE,Cleveland Cavaliers,4066328,Jarrett Allen,C,31,Active,active,28,10,2027,True,ESPN team roster API
+CLE,Cleveland Cavaliers,4702099,Zack Austin,F,55,Active,active,25,0,2027,False,ESPN team roster API
+CLE,Cleveland Cavaliers,3934723,Thomas Bryant,C,3,Active,active,29,10,2027,True,ESPN team roster API
+CLE,Cleveland Cavaliers,4997530,Khalifa Diop,C,18,Active,active,24,0,2027,False,ESPN team roster API
+CLE,Cleveland Cavaliers,4431734,Tristan Enaruna,F,21,Active,active,25,2,2027,False,ESPN team roster API
+CLE,Cleveland Cavaliers,3992,James Harden,G,1,Active,active,37,18,2027,True,ESPN team roster API
+CLE,Cleveland Cavaliers,2995706,Mario Hezonja,F,33,Active,active,31,6,2027,False,ESPN team roster API
+CLE,Cleveland Cavaliers,4898369,Curtis Jones,G,14,Active,active,25,2,2027,False,ESPN team roster API
+CLE,Cleveland Cavaliers,4066757,Sam Merrill,G,5,Active,active,30,7,2027,True,ESPN team roster API
+CLE,Cleveland Cavaliers,5177362,Riley Minix,F,12,Active,active,26,3,2027,False,ESPN team roster API
+CLE,Cleveland Cavaliers,3908809,Donovan Mitchell,G,45,Active,active,30,10,2027,True,ESPN team roster API
+CLE,Cleveland Cavaliers,4432158,Evan Mobley,C,4,Active,active,25,6,2027,True,ESPN team roster API
+CLE,Cleveland Cavaliers,4701233,Craig Porter Jr.,G,9,Active,active,26,4,2027,True,ESPN team roster API
+CLE,Cleveland Cavaliers,5023693,Tyrese Proctor,G,24,Active,active,22,2,2027,False,ESPN team roster API
+CLE,Cleveland Cavaliers,4701845,Kadary Richmond,G,16,Active,active,25,2,2027,False,ESPN team roster API
+CLE,Cleveland Cavaliers,5041951,Meleek Thomas,G,15,Active,active,20,0,2027,False,ESPN team roster API
+CLE,Cleveland Cavaliers,5106268,Nae'Qwan Tomlin,F,35,Active,active,25,3,2027,False,ESPN team roster API
+CLE,Cleveland Cavaliers,4683747,Jaylon Tyson,G,20,Active,active,23,3,2027,True,ESPN team roster API
+CLE,Cleveland Cavaliers,5106261,Ernest Udeh Jr.,C,39,Active,active,22,0,2027,False,ESPN team roster API
+CLE,Cleveland Cavaliers,4576087,Peyton Watson,G,8,Active,active,24,5,2027,True,ESPN team roster API
+DAL,Dallas Mavericks,4593125,Santi Aldama,F,34,Active,active,25,6,2027,True,ESPN team roster API
+DAL,Dallas Mavericks,5148538,Tarik Biberovic,F,13,Active,active,25,0,2027,False,ESPN team roster API
+DAL,Dallas Mavericks,4432582,Max Christie,G,0,Active,active,23,5,2027,True,ESPN team roster API
+DAL,Dallas Mavericks,4701208,Moussa Cisse,C,30,Active,active,24,2,2027,False,ESPN team roster API
+DAL,Dallas Mavericks,5279129,Sergio de Larrea,F,55,Active,active,20,0,2027,False,ESPN team roster API
+DAL,Dallas Mavericks,5041939,Cooper Flagg,F,32,Active,active,19,2,2027,True,ESPN team roster API
+DAL,Dallas Mavericks,4278049,Daniel Gafford,F,21,Active,active,28,8,2027,True,ESPN team roster API
+DAL,Dallas Mavericks,5105806,Jett Howard,G,9,Active,active,23,4,2027,False,ESPN team roster API
+DAL,Dallas Mavericks,6442,Kyrie Irving,G,11,Active,active,34,15,2027,True,ESPN team roster API
+DAL,Dallas Mavericks,4873153,Morez Johnson Jr.,F,14,Active,active,20,0,2027,False,ESPN team roster API
+DAL,Dallas Mavericks,5106040,Tobi Lawal,F,33,Active,active,23,0,2027,False,ESPN team roster API
+DAL,Dallas Mavericks,4683688,Dereck Lively II,C,2,Active,active,22,4,2027,True,ESPN team roster API
+DAL,Dallas Mavericks,4431775,Seth Lundy,G,5,Active,active,26,2,2027,False,ESPN team roster API
+DAL,Dallas Mavericks,4278594,Naji Marshall,F,3,Active,active,28,7,2027,True,ESPN team roster API
+DAL,Dallas Mavericks,3138160,Caleb Martin,F,16,Active,active,31,8,2027,False,ESPN team roster API
+DAL,Dallas Mavericks,4898238,John Poulakidas,G,1,Active,active,23,2,2027,False,ESPN team roster API
+DAL,Dallas Mavericks,2531367,Dwight Powell,F,7,Active,active,35,13,2027,False,ESPN team roster API
+DAL,Dallas Mavericks,5211175,Zaccharie Risacher,F,10,Active,active,21,3,2027,True,ESPN team roster API
+DAL,Dallas Mavericks,4432107,Marcus Sasser,G,8,Active,active,26,4,2027,False,ESPN team roster API
+DAL,Dallas Mavericks,4278078,P.J. Washington,F,25,Active,active,28,8,2027,True,ESPN team roster API
+DEN,Denver Nuggets,4277848,Marvin Bagley III,F,3,Active,active,27,9,2027,True,ESPN team roster API
+DEN,Denver Nuggets,4431767,Christian Braun,G,0,Active,active,25,5,2027,True,ESPN team roster API
+DEN,Denver Nuggets,4698719,Trevon Brazile,F,7,Active,active,23,0,2027,False,ESPN team roster API
+DEN,Denver Nuggets,3978,DeMar DeRozan,G,10,Active,active,37,18,2027,True,ESPN team roster API
+DEN,Denver Nuggets,4065813,Alpha Diallo,F,11,Active,active,29,0,2027,False,ESPN team roster API
+DEN,Denver Nuggets,4395667,Dane Goodwin,G,20,Active,active,26,0,2027,False,ESPN team roster API
+DEN,Denver Nuggets,3064290,Aaron Gordon,F,32,Active,active,31,13,2027,True,ESPN team roster API
+DEN,Denver Nuggets,4432976,Coleman Hawkins,F,43,Active,active,24,0,2027,False,ESPN team roster API
+DEN,Denver Nuggets,4433607,DaRon Holmes II,F,14,Active,active,24,2,2027,False,ESPN team roster API
+DEN,Denver Nuggets,4565698,Bryce Hopkins,F,13,Active,active,24,0,2027,False,ESPN team roster API
+DEN,Denver Nuggets,3138196,Cameron Johnson,F,23,Active,active,30,8,2027,True,ESPN team roster API
+DEN,Denver Nuggets,3112335,Nikola Jokic,C,15,Active,active,31,12,2027,True,ESPN team roster API
+DEN,Denver Nuggets,4592427,Spencer Jones,F,21,Active,active,25,3,2027,True,ESPN team roster API
+DEN,Denver Nuggets,3135046,Tyus Jones,G,5,Active,active,30,12,2027,False,ESPN team roster API
+DEN,Denver Nuggets,4432872,Emanuel Miller,F,8,Active,active,26,3,2027,False,ESPN team roster API
+DEN,Denver Nuggets,3936299,Jamal Murray,G,27,Active,active,29,10,2027,True,ESPN team roster API
+DEN,Denver Nuggets,4433629,Ryan Nembhard,G,,Active,active,23,2,2027,False,ESPN team roster API
+DEN,Denver Nuggets,4431690,Zeke Nnaji,F,22,Active,active,25,7,2027,False,ESPN team roster API
+DEN,Denver Nuggets,4432181,Julian Strawther,G,1,Active,active,24,4,2027,False,ESPN team roster API
+DEN,Denver Nuggets,4277890,Lonnie Walker IV,G,4,Active,active,27,8,2027,False,ESPN team roster API
+DEN,Denver Nuggets,5105592,Cam Whitmore,F,00,Active,active,22,4,2027,False,ESPN team roster API
+DET,Detroit Pistons,3908845,John Collins,F,20,Active,active,29,10,2027,True,ESPN team roster API
+DET,Detroit Pistons,4432166,Cade Cunningham,G,2,Active,active,25,6,2027,True,ESPN team roster API
+DET,Detroit Pistons,4433621,Jalen Duren,C,0,Active,active,22,5,2027,True,ESPN team roster API
+DET,Detroit Pistons,2596112,Javonte Green,G,31,Active,active,33,7,2027,True,ESPN team roster API
+DET,Detroit Pistons,4397449,Elijah Harkless,G,94,Active,active,26,2,2027,False,ESPN team roster API
+DET,Detroit Pistons,4683771,Ronald Holland II,F,5,Active,active,21,3,2027,False,ESPN team roster API
+DET,Detroit Pistons,4066372,Kevin Huerter,G,27,Active,active,28,9,2027,True,ESPN team roster API
+DET,Detroit Pistons,5107199,Daniss Jenkins,G,24,Active,active,25,3,2027,True,ESPN team roster API
+DET,Detroit Pistons,4395702,Isaiah Joe,G,17,Active,active,27,7,2027,True,ESPN team roster API
+DET,Detroit Pistons,5107818,Isaac Jones,C,13,Active,active,26,3,2027,False,ESPN team roster API
+DET,Detroit Pistons,4700852,Chaz Lanier,G,8,Active,active,24,2,2027,False,ESPN team roster API
+DET,Detroit Pistons,5258459,Ebuka Okorie,G,23,Active,active,19,0,2027,False,ESPN team roster API
+DET,Detroit Pistons,5037878,Ugonna Onyenso,C,34,Active,active,22,0,2027,False,ESPN team roster API
+DET,Detroit Pistons,2990962,Taurean Prince,F,12,Active,active,32,10,2027,False,ESPN team roster API
+DET,Detroit Pistons,4278562,Paul Reed,F,7,Active,active,27,7,2027,True,ESPN team roster API
+DET,Detroit Pistons,3157465,Duncan Robinson,F,55,Active,active,32,9,2027,True,ESPN team roster API
+DET,Detroit Pistons,4397882,Tolu Smith,F,35,Active,active,26,3,2027,False,ESPN team roster API
+DET,Detroit Pistons,4684742,Ausar Thompson,G,9,Active,active,23,4,2027,True,ESPN team roster API
+DET,Detroit Pistons,4592843,Brice Williams,F,25,Active,active,25,2,2027,False,ESPN team roster API
+GS,Golden State Warriors,4397886,Charles Bassey,C,28,Active,active,25,6,2027,True,ESPN team roster API
+GS,Golden State Warriors,6430,Jimmy Butler III,F,10,Active,active,37,16,2027,True,ESPN team roster API
+GS,Golden State Warriors,4433149,LJ Cryer,G,18,Active,active,24,2,2027,False,ESPN team roster API
+GS,Golden State Warriors,3975,Stephen Curry,G,30,Active,active,38,18,2027,True,ESPN team roster API
+GS,Golden State Warriors,6589,Draymond Green,F,23,Active,active,36,15,2027,True,ESPN team roster API
+GS,Golden State Warriors,3213,Al Horford,C,20,Active,active,40,20,2027,True,ESPN team roster API
+GS,Golden State Warriors,4703396,Graham Ike,F,,Active,active,24,0,2027,False,ESPN team roster API
+GS,Golden State Warriors,4696317,Miles Kelly,G,26,Active,active,23,2,2027,False,ESPN team roster API
+GS,Golden State Warriors,5175737,Yaxel Lendeborg,F,1,Active,active,24,0,2027,True,ESPN team roster API
+GS,Golden State Warriors,4897449,Malevy Leons,F,33,Active,active,27,3,2027,False,ESPN team roster API
+GS,Golden State Warriors,4066436,De'Anthony Melton,G,8,Active,active,28,9,2027,True,ESPN team roster API
+GS,Golden State Warriors,4432171,Moses Moody,G,4,Active,active,24,6,2027,True,ESPN team roster API
+GS,Golden State Warriors,2990969,Georges Niang,F,32,Active,active,33,11,2027,False,ESPN team roster API
+GS,Golden State Warriors,3134903,Gary Payton II,G,0,Active,active,33,11,2027,True,ESPN team roster API
+GS,Golden State Warriors,4709138,Brandin Podziemski,G,2,Active,active,23,4,2027,True,ESPN team roster API
+GS,Golden State Warriors,3102531,Kristaps Porzingis,C,7,Active,active,31,12,2027,True,ESPN team roster API
+GS,Golden State Warriors,4897262,Will Richard,G,3,Active,active,23,2,2027,True,ESPN team roster API
+GS,Golden State Warriors,4997536,Gui Santos,F,15,Active,active,24,4,2027,True,ESPN team roster API
+GS,Golden State Warriors,4433159,Dalen Terry,G,21,Active,active,24,5,2027,False,ESPN team roster API
+GS,Golden State Warriors,5170949,Alex Toohey,F,22,Active,active,22,2,2027,False,ESPN team roster API
+GS,Golden State Warriors,4397040,Brandon Williams,G,12,Active,active,26,5,2027,False,ESPN team roster API
+HOU,Houston Rockets,2991235,Steven Adams,C,12,Active,active,33,14,2027,True,ESPN team roster API
+HOU,Houston Rockets,3037789,Bogdan Bogdanovic,G,31,Active,active,34,10,2027,False,ESPN team roster API
+HOU,Houston Rockets,3102529,Clint Capela,C,30,Active,active,32,13,2027,False,ESPN team roster API
+HOU,Houston Rockets,4683860,Quadir Copeland,G,25,Active,active,23,0,2027,False,ESPN team roster API
+HOU,Houston Rockets,4592857,Isaiah Crawford,F,27,Active,active,24,3,2027,False,ESPN team roster API
+HOU,Houston Rockets,3202,Kevin Durant,F,7,Active,active,38,20,2027,True,ESPN team roster API
+HOU,Houston Rockets,4433192,Tari Eason,F,17,Active,active,25,5,2027,True,ESPN team roster API
+HOU,Houston Rockets,4709131,Sean Pedulla,G,0,Active,active,23,2,2027,False,ESPN team roster API
+HOU,Houston Rockets,5105553,Julian Phillips,F,3,Active,active,22,6,2027,False,ESPN team roster API
+HOU,Houston Rockets,4871144,Alperen Sengun,C,28,Active,active,24,6,2027,False,ESPN team roster API
+HOU,Houston Rockets,4711272,Reed Sheppard,G,15,Active,active,22,3,2027,True,ESPN team roster API
+HOU,Houston Rockets,2990992,Marcus Smart,G,36,Active,active,32,13,2027,True,ESPN team roster API
+HOU,Houston Rockets,4432639,Jabari Smith Jr.,F,10,Active,active,23,5,2027,True,ESPN team roster API
+HOU,Houston Rockets,3136777,Jae'Sean Tate,F,8,Active,active,30,7,2027,False,ESPN team roster API
+HOU,Houston Rockets,4684740,Amen Thompson,G,1,Active,active,23,4,2027,True,ESPN team roster API
+HOU,Houston Rockets,5105837,Bruce Thornton,G,2,Active,active,23,0,2027,False,ESPN team roster API
+HOU,Houston Rockets,4432827,Oscar Tshiebwe,C,9,Active,active,26,4,2027,False,ESPN team roster API
+HOU,Houston Rockets,2991230,Fred VanVleet,G,5,Active,active,32,9,2027,True,ESPN team roster API
+IND,Indiana Pacers,4431752,Kobe Brown,G,24,Active,active,26,4,2027,False,ESPN team roster API
+IND,Indiana Pacers,5157066,Johnny Furphy,G,12,Active,active,21,3,2027,False,ESPN team roster API
+IND,Indiana Pacers,4396993,Tyrese Haliburton,G,0,Active,active,26,7,2027,True,ESPN team roster API
+IND,Indiana Pacers,4065731,Jay Huff,C,32,Active,active,29,5,2027,True,ESPN team roster API
+IND,Indiana Pacers,4592829,Quenton Jackson,G,29,Active,active,28,5,2027,False,ESPN team roster API
+IND,Indiana Pacers,3999,James Johnson,F,16,Active,active,39,17,2027,False,ESPN team roster API
+IND,Indiana Pacers,2530530,T.J. McConnell,G,9,Active,active,34,12,2027,True,ESPN team roster API
+IND,Indiana Pacers,2580365,Larry Nance Jr.,F,22,Active,active,33,12,2027,False,ESPN team roster API
+IND,Indiana Pacers,4395712,Andrew Nembhard,G,2,Active,active,26,5,2027,True,ESPN team roster API
+IND,Indiana Pacers,4396909,Aaron Nesmith,G,23,Active,active,26,7,2027,True,ESPN team roster API
+IND,Indiana Pacers,3133603,Kelly Oubre Jr.,G,10,Active,active,30,12,2027,True,ESPN team roster API
+IND,Indiana Pacers,4433076,Ben Sheppard,G,26,Active,active,25,4,2027,False,ESPN team roster API
+IND,Indiana Pacers,3149673,Pascal Siakam,F,43,Active,active,32,11,2027,True,ESPN team roster API
+IND,Indiana Pacers,4398207,Jalen Slawson,F,18,Active,active,26,3,2027,False,ESPN team roster API
+IND,Indiana Pacers,5105854,Braden Smith,G,18,Active,active,23,0,2027,False,ESPN team roster API
+IND,Indiana Pacers,4278355,Obi Toppin,F,1,Active,active,28,7,2027,True,ESPN team roster API
+IND,Indiana Pacers,5106060,Jarace Walker,F,5,Active,active,23,4,2027,True,ESPN team roster API
+IND,Indiana Pacers,4017837,Ivica Zubac,C,40,Active,active,29,11,2027,True,ESPN team roster API
+LAC,LA Clippers,6580,Bradley Beal,G,3,Active,active,33,15,2027,True,ESPN team roster API
+LAC,LA Clippers,4845363,Cam Christie,G,24,Active,active,21,3,2027,False,ESPN team roster API
+LAC,LA Clippers,5106258,Gradey Dick,G,9,Active,active,22,4,2027,False,ESPN team roster API
+LAC,LA Clippers,2991139,Kris Dunn,G,8,Active,active,32,11,2027,True,ESPN team roster API
+LAC,LA Clippers,4396907,Darius Garland,G,10,Active,active,26,8,2027,True,ESPN team roster API
+LAC,LA Clippers,4066648,Rui Hachimura,F,28,Active,active,28,8,2027,True,ESPN team roster API
+LAC,LA Clippers,3913176,Brandon Ingram,F,7,Active,active,29,11,2027,True,ESPN team roster API
+LAC,LA Clippers,4432170,Isaiah Jackson,F,23,Active,active,24,6,2027,True,ESPN team roster API
+LAC,LA Clippers,3936099,Derrick Jones Jr.,F,5,Active,active,29,11,2027,True,ESPN team roster API
+LAC,LA Clippers,5159895,Yuki Kawamura,G,17,Active,active,25,3,2027,False,ESPN team roster API
+LAC,LA Clippers,3448,Brook Lopez,C,11,Active,active,38,19,2027,True,ESPN team roster API
+LAC,LA Clippers,5105832,Nick Martinelli,F,12,Active,active,22,0,2027,False,ESPN team roster API
+LAC,LA Clippers,5075626,Baba Miller,F,18,Active,active,22,0,2027,False,ESPN team roster API
+LAC,LA Clippers,4396818,Jordan Miller,G,22,Active,active,26,4,2027,False,ESPN team roster API
+LAC,LA Clippers,5108024,Yanic Konan Niederhauser,C,14,Active,active,23,2,2027,True,ESPN team roster API
+LAC,LA Clippers,4398390,Jalen Pickett,G,21,Active,active,26,4,2027,False,ESPN team roster API
+LAC,LA Clippers,4702352,Kobe Sanders,G,4,Active,active,24,2,2027,True,ESPN team roster API
+LAC,LA Clippers,4065778,Max Strus,G,31,Active,active,30,8,2027,True,ESPN team roster API
+LAC,LA Clippers,5254165,Keaton Wagler,G,1,Active,active,19,0,2027,True,ESPN team roster API
+LAC,LA Clippers,4683935,Blake Wesley,G,20,Active,active,23,5,2027,False,ESPN team roster API
+LAL,Los Angeles Lakers,5113969,Cameron Carr,G,43,Active,active,21,0,2027,False,ESPN team roster API
+LAL,Los Angeles Lakers,3945274,Luka Doncic,G,77,Active,active,27,9,2027,True,ESPN team roster API
+LAL,Los Angeles Lakers,4397014,Quentin Grimes,G,5,Active,active,26,6,2027,True,ESPN team roster API
+LAL,Los Angeles Lakers,4868423,Jaden Hardy,G,7,Active,active,24,5,2027,False,ESPN team roster API
+LAL,Los Angeles Lakers,4683774,Bronny James,G,9,Active,active,22,3,2027,False,ESPN team roster API
+LAL,Los Angeles Lakers,4433599,Arthur Kaluma,F,47,Active,active,24,2,2027,False,ESPN team roster API
+LAL,Los Angeles Lakers,4433136,Walker Kessler,C,14,Active,active,25,5,2027,True,ESPN team roster API
+LAL,Los Angeles Lakers,4897943,Dalton Knecht,F,4,Active,active,25,3,2027,False,ESPN team roster API
+LAL,Los Angeles Lakers,5107258,William Kyle III,F,45,Active,active,22,0,2027,False,ESPN team roster API
+LAL,Los Angeles Lakers,4592691,Jake LaRavia,F,12,Active,active,24,5,2027,True,ESPN team roster API
+LAL,Los Angeles Lakers,3155535,Kevon Looney,F,55,Active,active,30,12,2027,False,ESPN team roster API
+LAL,Los Angeles Lakers,4278580,Sandro Mamukelashvili,F,54,Active,active,27,6,2027,True,ESPN team roster API
+LAL,Los Angeles Lakers,4702972,Chris Manon,G,30,Active,active,24,2,2027,False,ESPN team roster API
+LAL,Los Angeles Lakers,5114350,AK Okereke,F,31,Active,active,23,0,2027,False,ESPN team roster API
+LAL,Los Angeles Lakers,4066457,Austin Reaves,G,15,Active,active,28,6,2027,True,ESPN team roster API
+LAL,Los Angeles Lakers,4277811,Collin Sexton,G,10,Active,active,27,9,2027,True,ESPN team roster API
+LAL,Los Angeles Lakers,4397134,Cole Swider,F,41,Active,active,27,4,2027,False,ESPN team roster API
+LAL,Los Angeles Lakers,5060631,Adou Thiero,F,1,Active,active,22,2,2027,False,ESPN team roster API
+LAL,Los Angeles Lakers,3907498,Matisse Thybulle,G,26,Active,active,29,8,2027,True,ESPN team roster API
+LAL,Los Angeles Lakers,4278077,Jarred Vanderbilt,F,2,Active,active,27,9,2027,True,ESPN team roster API
+LAL,Los Angeles Lakers,4433137,Ziaire Williams,F,11,Active,active,25,6,2027,True,ESPN team roster API
+MEM,Memphis Grizzlies,5041935,Cameron Boozer,F,27,Active,active,19,0,2027,True,ESPN team roster API
+MEM,Memphis Grizzlies,4896372,Walter Clayton Jr.,G,4,Active,active,23,2,2027,True,ESPN team roster API
+MEM,Memphis Grizzlies,5105817,Carson Cooper,C,20,Active,active,22,0,2027,False,ESPN team roster API
+MEM,Memphis Grizzlies,4903027,Cedric Coward,F,23,Active,active,23,2,2027,True,ESPN team roster API
+MEM,Memphis Grizzlies,4600663,Zach Edey,C,14,Active,active,24,3,2027,True,ESPN team roster API
+MEM,Memphis Grizzlies,2991070,Jerami Grant,F,3,Active,active,32,13,2027,True,ESPN team roster API
+MEM,Memphis Grizzlies,4683750,Jordan Hawkins,G,19,Active,active,24,4,2027,False,ESPN team roster API
+MEM,Memphis Grizzlies,4684806,Taylor Hendricks,F,22,Active,active,22,4,2027,True,ESPN team roster API
+MEM,Memphis Grizzlies,5105550,GG Jackson,F,45,Active,active,21,4,2027,False,ESPN team roster API
+MEM,Memphis Grizzlies,4065733,Ty Jerome,G,2,Active,active,29,8,2027,True,ESPN team roster API
+MEM,Memphis Grizzlies,5231919,Karim Lopez,F,35,Active,active,19,0,2027,False,ESPN team roster API
+MEM,Memphis Grizzlies,4683934,Jahmai Mashack,G,21,Active,active,23,2,2027,False,ESPN team roster API
+MEM,Memphis Grizzlies,4594326,Kris Murray,F,17,Active,active,26,4,2027,False,ESPN team roster API
+MEM,Memphis Grizzlies,4432185,Micah Peavy,G,7,Active,active,25,2,2027,False,ESPN team roster API
+MEM,Memphis Grizzlies,4431785,Scotty Pippen Jr.,G,1,Active,active,25,5,2027,True,ESPN team roster API
+MEM,Memphis Grizzlies,4593016,Quinten Post,C,41,Active,active,26,3,2027,True,ESPN team roster API
+MEM,Memphis Grizzlies,4595400,Olivier-Maxence Prosper,F,18,Active,active,24,4,2027,False,ESPN team roster API
+MEM,Memphis Grizzlies,4781746,Javon Small,G,10,Active,active,23,2,2027,True,ESPN team roster API
+MEM,Memphis Grizzlies,4433083,Cam Spencer,G,24,Active,active,26,3,2027,True,ESPN team roster API
+MEM,Memphis Grizzlies,4432810,Isaiah Stewart,C,28,Active,active,25,7,2027,True,ESPN team roster API
+MEM,Memphis Grizzlies,5112087,Jaylen Wells,F,0,Active,active,23,3,2027,True,ESPN team roster API
+MIA,Miami Heat,4066261,Bam Adebayo,C,13,Active,active,29,9,2027,True,ESPN team roster API
+MIA,Miami Heat,3032977,Giannis Antetokounmpo,F,7,Active,active,31,13,2027,True,ESPN team roster API
+MIA,Miami Heat,5107157,Ryan Conwell,G,4,Active,active,22,0,2027,False,ESPN team roster API
+MIA,Miami Heat,4837356,Tre Donaldson,G,24,Active,active,22,0,2027,False,ESPN team roster API
+MIA,Miami Heat,3899664,Simone Fontecchio,F,0,Active,active,30,4,2027,True,ESPN team roster API
+MIA,Miami Heat,4431772,Myron Gardner,F,15,Active,active,25,1,2027,False,ESPN team roster API
+MIA,Miami Heat,4700818,Vladislav Goldin,C,50,Active,active,25,1,2027,False,ESPN team roster API
+MIA,Miami Heat,4702784,J'Vonne Hadley,F,14,Active,active,24,0,2027,False,ESPN team roster API
+MIA,Miami Heat,2528210,Tim Hardaway Jr.,G,10,Active,active,34,13,2027,True,ESPN team roster API
+MIA,Miami Heat,4431786,Keshad Johnson,F,16,Active,active,25,2,2027,False,ESPN team roster API
+MIA,Miami Heat,4997528,Nikola Jovic,F,5,Active,active,23,4,2027,True,ESPN team roster API
+MIA,Miami Heat,4601025,Pelle Larsson,G,9,Active,active,25,2,2027,True,ESPN team roster API
+MIA,Miami Heat,4898237,Bez Mbeng,G,19,Active,active,23,0,2027,False,ESPN team roster API
+MIA,Miami Heat,4278053,Davion Mitchell,G,45,Active,active,28,5,2027,True,ESPN team roster API
+MIA,Miami Heat,3064482,Bobby Portis,F,95,Active,active,31,11,2027,True,ESPN team roster API
+MIA,Miami Heat,4431720,Lester Quinones,G,25,Active,active,25,3,2027,False,ESPN team roster API
+MIA,Miami Heat,4278076,Nick Richards,C,8,Active,active,28,6,2027,False,ESPN team roster API
+MIA,Miami Heat,4693954,Ian Schieffelin,F,20,Active,active,23,0,2027,False,ESPN team roster API
+MIA,Miami Heat,4066993,Dru Smith,G,12,Active,active,28,4,2027,True,ESPN team roster API
+MIA,Miami Heat,6475,Klay Thompson,G,11,Active,active,36,15,2027,True,ESPN team roster API
+MIA,Miami Heat,3059319,Andrew Wiggins,F,22,Active,active,31,12,2027,True,ESPN team roster API
+MIL,Milwaukee Bucks,5164559,Nate Ament,F,15,Active,active,19,0,2027,False,ESPN team roster API
+MIL,Milwaukee Bucks,5082206,Brayden Burries,G,0,Active,active,21,0,2027,True,ESPN team roster API
+MIL,Milwaukee Bucks,4432588,John Butler Jr.,F,27,Active,active,23,2,2027,False,ESPN team roster API
+MIL,Milwaukee Bucks,4997526,Ousmane Dieng,F,21,Active,active,23,5,2027,False,ESPN team roster API
+MIL,Milwaukee Bucks,4397475,AJ Green,G,20,Active,active,27,5,2027,True,ESPN team roster API
+MIL,Milwaukee Bucks,4395725,Tyler Herro,G,11,Active,active,26,8,2027,True,ESPN team roster API
+MIL,Milwaukee Bucks,5214640,Kasparas Jakucionis,G,25,Active,active,20,2,2027,True,ESPN team roster API
+MIL,Milwaukee Bucks,4432848,Jaime Jaquez Jr.,F,24,Active,active,25,4,2027,True,ESPN team roster API
+MIL,Milwaukee Bucks,4697268,Kam Jones,G,19,Active,active,24,2,2027,False,ESPN team roster API
+MIL,Milwaukee Bucks,3134907,Kyle Kuzma,F,18,Active,active,31,10,2027,True,ESPN team roster API
+MIL,Milwaukee Bucks,2991043,Caris LeVert,G,12,Active,active,32,11,2027,False,ESPN team roster API
+MIL,Milwaukee Bucks,5214989,Bogoljub Markovic,F,23,Active,active,21,0,2027,False,ESPN team roster API
+MIL,Milwaukee Bucks,4397233,Pete Nance,F,35,Active,active,26,4,2027,False,ESPN team roster API
+MIL,Milwaukee Bucks,4397140,Kevin Porter Jr.,G,7,Active,active,26,7,2027,True,ESPN team roster API
+MIL,Milwaukee Bucks,4591725,Ryan Rollins,G,13,Active,active,24,5,2027,True,ESPN team roster API
+MIL,Milwaukee Bucks,4397114,Cormac Ryan,G,30,Active,active,27,2,2027,False,ESPN team roster API
+MIL,Milwaukee Bucks,4277922,Jericho Sims,C,00,Active,active,27,6,2027,False,ESPN team roster API
+MIL,Milwaukee Bucks,4398257,Jake Stephens,C,88,Active,active,26,0,2027,False,ESPN team roster API
+MIL,Milwaukee Bucks,4277843,Gary Trent Jr.,G,5,Active,active,27,9,2027,False,ESPN team roster API
+MIL,Milwaukee Bucks,3133628,Myles Turner,C,3,Active,active,30,12,2027,True,ESPN team roster API
+MIL,Milwaukee Bucks,5105623,Kel'el Ware,C,9,Active,active,22,3,2027,True,ESPN team roster API
+MIN,Minnesota Timberwolves,4432816,LaMelo Ball,G,1,Active,active,25,7,2027,True,ESPN team roster API
+MIN,Minnesota Timberwolves,5279133,Joan Beringer,F,19,Active,active,19,2,2027,True,ESPN team roster API
+MIN,Minnesota Timberwolves,4432247,Jaylen Clark,G,7,Active,active,24,3,2027,False,ESPN team roster API
+MIN,Minnesota Timberwolves,3934673,Donte DiVincenzo,G,0,Active,active,29,9,2027,False,ESPN team roster API
+MIN,Minnesota Timberwolves,4397002,Ayo Dosunmu,G,13,Active,active,26,6,2027,True,ESPN team roster API
+MIN,Minnesota Timberwolves,4594268,Anthony Edwards,G,5,Active,active,25,7,2027,True,ESPN team roster API
+MIN,Minnesota Timberwolves,5061585,Isaiah Evans,F,33,Active,active,20,0,2027,False,ESPN team roster API
+MIN,Minnesota Timberwolves,4592699,Enrique Freeman,F,25,Active,active,26,3,2027,False,ESPN team roster API
+MIN,Minnesota Timberwolves,3032976,Rudy Gobert,C,27,Active,active,34,14,2027,True,ESPN team roster API
+MIN,Minnesota Timberwolves,4592492,Bones Hyland,G,8,Active,active,26,6,2027,True,ESPN team roster API
+MIN,Minnesota Timberwolves,4433247,Jonathan Kuminga,F,24,Active,active,24,5,2027,True,ESPN team roster API
+MIN,Minnesota Timberwolves,3136196,Trey Lyles,F,41,Active,active,30,11,2027,False,ESPN team roster API
+MIN,Minnesota Timberwolves,4431828,KJ Martin,F,99,Active,active,25,5,2027,False,ESPN team roster API
+MIN,Minnesota Timberwolves,4431671,Jaden McDaniels,F,3,Active,active,26,7,2027,True,ESPN team roster API
+MIN,Minnesota Timberwolves,4702134,Norchad Omier,F,,Active,active,25,2,2027,False,ESPN team roster API
+MIN,Minnesota Timberwolves,4592979,Zyon Pullin,G,15,Active,active,25,3,2027,False,ESPN team roster API
+MIN,Minnesota Timberwolves,4592686,Antonio Reeves,G,12,Active,active,25,3,2027,False,ESPN team roster API
+MIN,Minnesota Timberwolves,4432847,Terrence Shannon Jr.,G,4,Active,active,26,3,2027,False,ESPN team roster API
+MIN,Minnesota Timberwolves,4431695,Drew Timme,F,17,Active,active,26,2,2027,False,ESPN team roster API
+MIN,Minnesota Timberwolves,4895758,Cody Williams,F,9,Active,active,21,3,2027,False,ESPN team roster API
+MIN,Minnesota Timberwolves,5157587,Rocco Zikarsky,C,44,Active,active,20,2,2027,False,ESPN team roster API
+NO,New Orleans Pelicans,4397136,Saddiq Bey,G,41,Active,active,27,6,2027,True,ESPN team roster API
+NO,New Orleans Pelicans,4683736,Kobe Bufkin,G,4,Active,active,23,4,2027,False,ESPN team roster API
+NO,New Orleans Pelicans,4712862,Malik Dia,F,8,Active,active,22,0,2027,False,ESPN team roster API
+NO,New Orleans Pelicans,5144091,Jeremiah Fears,G,0,Active,active,19,2,2027,True,ESPN team roster API
+NO,New Orleans Pelicans,4433623,Caleb Houstan,F,33,Active,active,23,5,2027,False,ESPN team roster API
+NO,New Orleans Pelicans,5170947,AJ Johnson,G,14,Active,active,21,3,2027,False,ESPN team roster API
+NO,New Orleans Pelicans,4277813,Herbert Jones,F,2,Active,active,28,6,2027,True,ESPN team roster API
+NO,New Orleans Pelicans,3442,DeAndre Jordan,C,6,Active,active,38,19,2027,False,ESPN team roster API
+NO,New Orleans Pelicans,4431778,Christian Koloko,C,35,Active,active,26,4,2027,False,ESPN team roster API
+NO,New Orleans Pelicans,4683634,Bennedict Mathurin,G,24,Active,active,24,5,2027,True,ESPN team roster API
+NO,New Orleans Pelicans,4997538,Karlo Matkovic,F,17,Active,active,25,3,2027,True,ESPN team roster API
+NO,New Orleans Pelicans,4576086,Bryce McGowens,G,11,Active,active,23,5,2027,False,ESPN team roster API
+NO,New Orleans Pelicans,5061589,Yves Missi,C,21,Active,active,22,3,2027,True,ESPN team roster API
+NO,New Orleans Pelicans,4397688,Trey Murphy III,F,25,Active,active,26,6,2027,True,ESPN team roster API
+NO,New Orleans Pelicans,3907497,Dejounte Murray,G,5,Active,active,30,10,2027,True,ESPN team roster API
+NO,New Orleans Pelicans,4703115,Jaron Pierre Jr.,G,10,Active,active,24,0,2027,False,ESPN team roster API
+NO,New Orleans Pelicans,4277956,Jordan Poole,G,3,Active,active,27,8,2027,True,ESPN team roster API
+NO,New Orleans Pelicans,4869780,Derik Queen,C,22,Active,active,21,2,2027,True,ESPN team roster API
+NO,New Orleans Pelicans,4683742,Julian Reese,F,13,Active,active,23,2,2027,False,ESPN team roster API
+NO,New Orleans Pelicans,4431675,Trendon Watford,F,9,Active,active,25,6,2027,False,ESPN team roster API
+NO,New Orleans Pelicans,4395628,Zion Williamson,F,1,Active,active,26,7,2027,True,ESPN team roster API
+NY,New York Knicks,4397018,Ochai Agbaji,G,30,Active,active,26,5,2027,False,ESPN team roster API
+NY,New York Knicks,4683730,Jaden Akins,G,14,Active,active,23,0,2027,False,ESPN team roster API
+NY,New York Knicks,4277869,Jose Alvarado,G,5,Active,active,28,6,2027,False,ESPN team roster API
+NY,New York Knicks,3934719,OG Anunoby,F,8,Active,active,29,10,2027,True,ESPN team roster API
+NY,New York Knicks,4065673,Tony Bradley,C,13,Active,active,28,9,2027,False,ESPN team roster API
+NY,New York Knicks,3147657,Mikal Bridges,G,25,Active,active,30,9,2027,True,ESPN team roster API
+NY,New York Knicks,4065670,Bruce Brown,G,1,Active,active,30,9,2027,False,ESPN team roster API
+NY,New York Knicks,3934672,Jalen Brunson,G,11,Active,active,30,9,2027,True,ESPN team roster API
+NY,New York Knicks,2528426,Jordan Clarkson,G,00,Active,active,34,13,2027,False,ESPN team roster API
+NY,New York Knicks,5211983,Pacome Dadiet,F,4,Active,active,21,3,2027,False,ESPN team roster API
+NY,New York Knicks,5289900,Mohamed Diawara,F,51,Active,active,21,2,2027,False,ESPN team roster API
+NY,New York Knicks,6585,Andre Drummond,C,0,Active,active,33,15,2027,True,ESPN team roster API
+NY,New York Knicks,3914285,Drew Eubanks,F,19,Active,active,29,9,2027,False,ESPN team roster API
+NY,New York Knicks,3062679,Josh Hart,G,3,Active,active,31,10,2027,True,ESPN team roster API
+NY,New York Knicks,4433225,Tyler Kolek,G,13,Active,active,25,3,2027,False,ESPN team roster API
+NY,New York Knicks,4431823,Miles McBride,G,2,Active,active,26,6,2027,True,ESPN team roster API
+NY,New York Knicks,4411057,Kevin McCullar Jr.,G,9,Active,active,25,3,2027,False,ESPN team roster API
+NY,New York Knicks,4838721,Tyler Nickel,F,55,Active,active,23,0,2027,False,ESPN team roster API
+NY,New York Knicks,3914044,Landry Shamet,G,44,Active,active,29,9,2027,True,ESPN team roster API
+NY,New York Knicks,3136195,Karl-Anthony Towns,C,32,Active,active,30,12,2027,True,ESPN team roster API
+NY,New York Knicks,4432808,James Wiseman,C,35,Active,active,25,7,2027,False,ESPN team roster API
+OKC,Oklahoma City Thunder,4684208,Brooks Barnhizer,F,23,Active,active,24,2,2027,False,ESPN team roster API
+OKC,Oklahoma City Thunder,2991350,Alex Caruso,G,9,Active,active,32,10,2027,True,ESPN team roster API
+OKC,Oklahoma City Thunder,5105800,Josh Dix,G,21,Active,active,22,0,2027,False,ESPN team roster API
+OKC,Oklahoma City Thunder,4278073,Shai Gilgeous-Alexander,G,2,Active,active,28,9,2027,True,ESPN team roster API
+OKC,Oklahoma City Thunder,4222252,Isaiah Hartenstein,C,55,Active,active,28,9,2027,True,ESPN team roster API
+OKC,Oklahoma City Thunder,5116468,Andrew Holifield,F,17,Active,active,22,0,2027,False,ESPN team roster API
+OKC,Oklahoma City Thunder,4433255,Chet Holmgren,C,7,Active,active,24,4,2027,True,ESPN team roster API
+OKC,Oklahoma City Thunder,5174983,Aday Mara,C,15,Active,active,21,0,2027,False,ESPN team roster API
+OKC,Oklahoma City Thunder,4683778,Jared McCain,G,3,Active,active,22,3,2027,True,ESPN team roster API
+OKC,Oklahoma City Thunder,4900671,Ajay Mitchell,G,25,Active,active,24,3,2027,True,ESPN team roster API
+OKC,Oklahoma City Thunder,5106270,Otega Oweh,G,13,Active,active,23,0,2027,False,ESPN team roster API
+OKC,Oklahoma City Thunder,4897155,Anthony Pritchard,G,5,Active,active,23,0,2027,False,ESPN team roster API
+OKC,Oklahoma City Thunder,4277923,Zhaire Smith,G,40,Active,active,27,3,2027,False,ESPN team roster API
+OKC,Oklahoma City Thunder,5061603,Thomas Sorber,C,12,Active,active,20,0,2027,False,ESPN team roster API
+OKC,Oklahoma City Thunder,5241364,Bennett Stirtz,G,14,Active,active,23,0,2027,False,ESPN team roster API
+OKC,Oklahoma City Thunder,5109790,Christoph Tilly,C,33,Active,active,23,0,2027,False,ESPN team roster API
+OKC,Oklahoma City Thunder,5159925,Nikola Topic,G,44,Active,active,21,2,2027,False,ESPN team roster API
+OKC,Oklahoma City Thunder,4683692,Cason Wallace,G,22,Active,active,22,4,2027,True,ESPN team roster API
+OKC,Oklahoma City Thunder,4593803,Jalen Williams,G,8,Active,active,25,5,2027,True,ESPN team roster API
+OKC,Oklahoma City Thunder,4432823,Jaylin Williams,F,6,Active,active,24,5,2027,True,ESPN team roster API
+OKC,Oklahoma City Thunder,3133626,Kenrich Williams,G,34,Active,active,31,9,2027,True,ESPN team roster API
+ORL,Orlando Magic,4432573,Paolo Banchero,F,5,Active,active,23,5,2027,True,ESPN team roster API
+ORL,Orlando Magic,4066320,Desmond Bane,G,3,Active,active,28,7,2027,True,ESPN team roster API
+ORL,Orlando Magic,4348700,Goga Bitadze,C,35,Active,active,27,8,2027,True,ESPN team roster API
+ORL,Orlando Magic,4712849,Anthony Black,G,0,Active,active,22,4,2027,True,ESPN team roster API
+ORL,Orlando Magic,4565201,Malaki Branham,F,12,Active,active,23,5,2027,False,ESPN team roster API
+ORL,Orlando Magic,4278572,Jamal Cain,F,8,Active,active,27,5,2027,False,ESPN team roster API
+ORL,Orlando Magic,3133635,Jevon Carter,G,2,Active,active,31,9,2027,False,ESPN team roster API
+ORL,Orlando Magic,4277847,Wendell Carter Jr.,C,34,Active,active,27,9,2027,True,ESPN team roster API
+ORL,Orlando Magic,4397204,Colin Castleton,C,14,Active,active,26,4,2027,False,ESPN team roster API
+ORL,Orlando Magic,4702382,Tristan da Silva,F,23,Active,active,25,3,2027,True,ESPN team roster API
+ORL,Orlando Magic,4576085,JD Davison,G,20,Active,active,24,5,2027,False,ESPN team roster API
+ORL,Orlando Magic,4065654,Jonathan Isaac,F,1,Active,active,29,10,2027,False,ESPN team roster API
+ORL,Orlando Magic,4278075,Kevin Knox II,F,24,Active,active,27,8,2027,False,ESPN team roster API
+ORL,Orlando Magic,4593034,Alex Morales,G,30,Active,active,28,2,2027,False,ESPN team roster API
+ORL,Orlando Magic,5107251,Izaiyah Nelson,F,25,Active,active,23,0,2027,False,ESPN team roster API
+ORL,Orlando Magic,5214637,Noah Penda,F,93,Active,active,21,2,2027,False,ESPN team roster API
+ORL,Orlando Magic,5239561,Jase Richardson,G,11,Active,active,20,2,2027,False,ESPN team roster API
+ORL,Orlando Magic,4432165,Jalen Suggs,G,4,Active,active,25,6,2027,True,ESPN team roster API
+ORL,Orlando Magic,6478,Nikola Vucevic,C,9,Active,active,35,16,2027,True,ESPN team roster API
+ORL,Orlando Magic,4566434,Franz Wagner,F,22,Active,active,25,6,2027,True,ESPN team roster API
+PHI,Philadelphia 76ers,4870562,Dominick Barlow,F,25,Active,active,23,5,2027,True,ESPN team roster API
+PHI,Philadelphia 76ers,5105637,Adem Bona,C,30,Active,active,23,3,2027,True,ESPN team roster API
+PHI,Philadelphia 76ers,3917376,Jaylen Brown,G,7,Active,active,29,11,2027,True,ESPN team roster API
+PHI,Philadelphia 76ers,2581018,Kentavious Caldwell-Pope,G,1,Active,active,33,14,2027,True,ESPN team roster API
+PHI,Philadelphia 76ers,5124612,VJ Edgecombe,G,77,Active,active,21,2,2027,True,ESPN team roster API
+PHI,Philadelphia 76ers,4711297,Justin Edwards,F,11,Active,active,22,3,2027,False,ESPN team roster API
+PHI,Philadelphia 76ers,3059318,Joel Embiid,C,21,Active,active,32,11,2027,True,ESPN team roster API
+PHI,Philadelphia 76ers,3904625,Tacko Fall,C,99,Active,active,30,4,2027,False,ESPN team roster API
+PHI,Philadelphia 76ers,4871141,Ariel Hukporti,C,55,Active,active,24,3,2027,False,ESPN team roster API
+PHI,Philadelphia 76ers,1966,LeBron James,F,23,Active,active,41,24,2027,True,ESPN team roster API
+PHI,Philadelphia 76ers,4702159,Dillon Jones,F,35,Active,active,24,3,2027,False,ESPN team roster API
+PHI,Philadelphia 76ers,4433144,Caleb Love,G,8,Active,active,25,2,2027,False,ESPN team roster API
+PHI,Philadelphia 76ers,4431678,Tyrese Maxey,G,0,Active,active,25,7,2027,True,ESPN team roster API
+PHI,Philadelphia 76ers,4702049,Duke Miles,G,31,Active,active,24,0,2027,False,ESPN team roster API
+PHI,Philadelphia 76ers,4592444,Jameer Nelson Jr.,G,14,Active,active,25,0,2027,False,ESPN team roster API
+PHI,Philadelphia 76ers,4873090,Labaron Philon Jr.,G,00,Active,active,20,0,2027,False,ESPN team roster API
+PHI,Philadelphia 76ers,5099752,Rayan Rupert,G,12,Active,active,22,4,2027,False,ESPN team roster API
+PHI,Philadelphia 76ers,4351851,Anfernee Simons,G,5,Active,active,27,9,2027,True,ESPN team roster API
+PHI,Philadelphia 76ers,4897471,Saint Thomas,F,19,Active,active,23,0,2027,False,ESPN team roster API
+PHI,Philadelphia 76ers,3912848,Dean Wade,F,45,Active,active,29,8,2027,True,ESPN team roster API
+PHI,Philadelphia 76ers,4432446,Jabari Walker,F,33,Active,active,24,5,2027,False,ESPN team roster API
+PHX,Phoenix Suns,3136193,Devin Booker,G,15,Active,active,29,12,2027,True,ESPN team roster API
+PHX,Phoenix Suns,4280245,Jamaree Bouyea,G,17,Active,active,27,5,2027,False,ESPN team roster API
+PHX,Phoenix Suns,4591259,Koby Brea,G,14,Active,active,23,2,2027,False,ESPN team roster API
+PHX,Phoenix Suns,4066383,Miles Bridges,F,22,Active,active,28,8,2027,True,ESPN team roster API
+PHX,Phoenix Suns,3155526,Dillon Brooks,F,3,Active,active,30,10,2027,True,ESPN team roster API
+PHX,Phoenix Suns,4432646,Kennedy Chandler,G,2,Active,active,24,3,2027,False,ESPN team roster API
+PHX,Phoenix Suns,4888725,Ryan Dunn,F,0,Active,active,23,3,2027,True,ESPN team roster API
+PHX,Phoenix Suns,5105977,Rasheer Fleming,F,20,Active,active,22,2,2027,False,ESPN team roster API
+PHX,Phoenix Suns,4278585,Collin Gillespie,G,12,Active,active,27,4,2027,True,ESPN team roster API
+PHX,Phoenix Suns,4278402,Jordan Goodwin,G,23,Active,active,27,6,2027,True,ESPN team roster API
+PHX,Phoenix Suns,4437244,Jalen Green,G,4,Active,active,24,6,2027,True,ESPN team roster API
+PHX,Phoenix Suns,4291678,Haywood Highsmith,F,19,Active,active,29,7,2027,False,ESPN team roster API
+PHX,Phoenix Suns,4702602,CJ Huntley,F,21,Active,active,24,2,2027,False,ESPN team roster API
+PHX,Phoenix Suns,4601023,Oso Ighodaro,F,11,Active,active,24,3,2027,True,ESPN team roster API
+PHX,Phoenix Suns,3913174,Luke Kennard,G,8,Active,active,30,10,2027,True,ESPN team roster API
+PHX,Phoenix Suns,5203685,Khaman Maluach,C,10,Active,active,20,2,2027,True,ESPN team roster API
+PHX,Phoenix Suns,5041953,Koa Peat,F,18,Active,active,19,0,2027,False,ESPN team roster API
+PHX,Phoenix Suns,4066268,Duop Reath,C,26,Active,active,30,4,2027,False,ESPN team roster API
+PHX,Phoenix Suns,4592714,Pat Spencer,G,61,Active,active,30,4,2027,False,ESPN team roster API
+PHX,Phoenix Suns,4909710,Phillip Wheeler,F,,Active,active,24,1,2027,False,ESPN team roster API
+PHX,Phoenix Suns,4701232,Mark Williams,C,25,Active,active,24,5,2027,True,ESPN team roster API
+POR,Portland Trail Blazers,4683021,Deni Avdija,F,8,Active,active,25,7,2027,True,ESPN team roster API
+POR,Portland Trail Blazers,4431736,Toumani Camara,F,33,Active,active,26,4,2027,True,ESPN team roster API
+POR,Portland Trail Blazers,4592435,Branden Carlson,C,10,Active,active,27,3,2027,False,ESPN team roster API
+POR,Portland Trail Blazers,5081727,Sidy Cissoko,G,91,Active,active,22,4,2027,False,ESPN team roster API
+POR,Portland Trail Blazers,5105565,Donovan Clingan,C,23,Active,active,22,3,2027,True,ESPN team roster API
+POR,Portland Trail Blazers,5217746,Yang Hansen,C,16,Active,active,21,2,2027,False,ESPN team roster API
+POR,Portland Trail Blazers,4683678,Scoot Henderson,G,00,Active,active,22,4,2027,True,ESPN team roster API
+POR,Portland Trail Blazers,3995,Jrue Holiday,G,5,Active,active,36,18,2027,True,ESPN team roster API
+POR,Portland Trail Blazers,4703889,Jayson Kent,G,29,Active,active,24,2,2027,False,ESPN team roster API
+POR,Portland Trail Blazers,4578893,Vit Krejci,G,27,Active,active,26,6,2027,False,ESPN team roster API
+POR,Portland Trail Blazers,6606,Damian Lillard,G,0,Active,active,36,15,2027,True,ESPN team roster API
+POR,Portland Trail Blazers,4279888,Ja Morant,G,1,Active,active,27,8,2027,True,ESPN team roster API
+POR,Portland Trail Blazers,4066399,Micah Potter,C,9,Active,active,28,6,2027,False,ESPN team roster API
+POR,Portland Trail Blazers,4914336,Shaedon Sharpe,G,17,Active,active,23,5,2027,True,ESPN team roster API
+POR,Portland Trail Blazers,4610139,Jeremy Sochan,F,4,Active,active,23,5,2027,False,ESPN team roster API
+POR,Portland Trail Blazers,4593043,John Tonje,F,2,Active,active,25,2,2027,False,ESPN team roster API
+POR,Portland Trail Blazers,4066211,Robert Williams III,C,35,Active,active,28,9,2027,True,ESPN team roster API
+POR,Portland Trail Blazers,4706557,Chris Youngblood,G,11,Active,active,24,2,2027,False,ESPN team roster API
+SA,San Antonio Spurs,6578,Harrison Barnes,F,40,Active,active,34,15,2027,True,ESPN team roster API
+SA,San Antonio Spurs,5105337,Maliq Brown,F,15,Active,active,22,0,2027,False,ESPN team roster API
+SA,San Antonio Spurs,5061568,Carter Bryant,F,11,Active,active,20,2,2027,False,ESPN team roster API
+SA,San Antonio Spurs,4845367,Stephon Castle,G,5,Active,active,21,3,2027,True,ESPN team roster API
+SA,San Antonio Spurs,4592479,Julian Champagnie,F,30,Active,active,25,5,2027,True,ESPN team roster API
+SA,San Antonio Spurs,4433176,RJ Davis,G,14,Active,active,24,2,2027,False,ESPN team roster API
+SA,San Antonio Spurs,3155937,Jon Elmore,G,33,Active,active,30,0,2027,False,ESPN team roster API
+SA,San Antonio Spurs,4066259,De'Aaron Fox,G,4,Active,active,28,10,2027,True,ESPN team roster API
+SA,San Antonio Spurs,5107968,Ja'Kobi Gillespie,G,17,Active,active,22,0,2027,False,ESPN team roster API
+SA,San Antonio Spurs,5037871,Dylan Harper,G,2,Active,active,20,2,2027,True,ESPN team roster API
+SA,San Antonio Spurs,6440,Tobias Harris,F,23,Active,active,34,16,2027,True,ESPN team roster API
+SA,San Antonio Spurs,4395723,Keldon Johnson,F,3,Active,active,26,8,2027,True,ESPN team roster API
+SA,San Antonio Spurs,4713010,David Jones Garcia,F,25,Active,active,24,2,2027,False,ESPN team roster API
+SA,San Antonio Spurs,3064560,Luke Kornet,C,7,Active,active,31,10,2027,True,ESPN team roster API
+SA,San Antonio Spurs,3134916,Jordan McLaughlin,G,0,Active,active,30,8,2027,False,ESPN team roster API
+SA,San Antonio Spurs,4703421,Taelon Peter,G,8,Active,active,24,2,2027,False,ESPN team roster API
+SA,San Antonio Spurs,5101845,Jayden Quaintance,F,22,Active,active,19,0,2027,False,ESPN team roster API
+SA,San Antonio Spurs,5105809,Tarris Reed Jr.,C,10,Active,active,23,0,2027,False,ESPN team roster API
+SA,San Antonio Spurs,4395630,Devin Vassell,G,24,Active,active,26,7,2027,True,ESPN team roster API
+SA,San Antonio Spurs,5104157,Victor Wembanyama,F,1,Active,active,22,4,2027,True,ESPN team roster API
+SA,San Antonio Spurs,4277880,Malik Williams,C,35,Active,active,28,2,2027,False,ESPN team roster API
+SAC,Sacramento Kings,4431679,Precious Achiuwa,F,9,Active,active,27,7,2027,True,ESPN team roster API
+SAC,Sacramento Kings,5142620,Darius Acuff Jr.,G,5,Active,active,19,0,2027,True,ESPN team roster API
+SAC,Sacramento Kings,4395650,Leaky Black,F,19,Active,active,27,3,2027,False,ESPN team roster API
+SAC,Sacramento Kings,4433174,Dylan Cardwell,C,32,Active,active,24,2,2027,True,ESPN team roster API
+SAC,Sacramento Kings,4702384,Nique Clifford,G,10,Active,active,24,2,2027,True,ESPN team roster API
+SAC,Sacramento Kings,4397654,Adam Flagler,G,20,Active,active,26,3,2027,False,ESPN team roster API
+SAC,Sacramento Kings,4065732,De'Andre Hunter,F,15,Active,active,28,8,2027,True,ESPN team roster API
+SAC,Sacramento Kings,4917149,Alex Karaban,F,33,Active,active,23,0,2027,False,ESPN team roster API
+SAC,Sacramento Kings,3064440,Zach LaVine,G,8,Active,active,31,13,2027,True,ESPN team roster API
+SAC,Sacramento Kings,5107897,Jonathan Mogbo,F,22,Active,active,24,3,2027,False,ESPN team roster API
+SAC,Sacramento Kings,4066262,Malik Monk,G,0,Active,active,28,10,2027,True,ESPN team roster API
+SAC,Sacramento Kings,4594327,Keegan Murray,F,13,Active,active,26,5,2027,True,ESPN team roster API
+SAC,Sacramento Kings,4592965,Tristen Newton,G,00,Active,active,25,3,2027,False,ESPN team roster API
+SAC,Sacramento Kings,2583639,Elfrid Payton,G,3,Active,active,32,10,2027,False,ESPN team roster API
+SAC,Sacramento Kings,4279318,Daeqwon Plowden,G,29,Active,active,28,3,2027,False,ESPN team roster API
+SAC,Sacramento Kings,4898371,Maxime Raynaud,C,42,Active,active,23,2,2027,True,ESPN team roster API
+SAC,Sacramento Kings,3155942,Domantas Sabonis,F,11,Active,active,30,11,2027,True,ESPN team roster API
+SAC,Sacramento Kings,5106058,Emanuel Sharp,G,34,Active,active,22,0,2027,False,ESPN team roster API
+SAC,Sacramento Kings,3907387,Ben Simmons,G,25,Active,active,30,10,2027,False,ESPN team roster API
+TOR,Toronto Raptors,2993874,Kyle Anderson,F,12,Active,active,33,12,2027,True,ESPN team roster API
+TOR,Toronto Raptors,4433134,Scottie Barnes,F,4,Active,active,25,5,2027,True,ESPN team roster API
+TOR,Toronto Raptors,4395625,RJ Barrett,F,9,Active,active,26,7,2027,True,ESPN team roster API
+TOR,Toronto Raptors,4431893,Jamison Battle,F,77,Active,active,25,2,2027,False,ESPN team roster API
+TOR,Toronto Raptors,4432586,Nate Bittle,C,,Active,active,23,0,2027,False,ESPN team roster API
+TOR,Toronto Raptors,4432737,Jaden Bradley,G,8,Active,active,23,0,2027,False,ESPN team roster API
+TOR,Toronto Raptors,4433138,Nimari Burnett,G,25,Active,active,24,0,2027,False,ESPN team roster API
+TOR,Toronto Raptors,5149115,Allen Graves,F,22,Active,active,20,0,2027,True,ESPN team roster API
+TOR,Toronto Raptors,4590360,Chucky Hepburn,G,24,Active,active,23,1,2027,False,ESPN team roster API
+TOR,Toronto Raptors,4431684,Trayce Jackson-Davis,F,32,Active,active,26,3,2027,False,ESPN team roster API
+TOR,Toronto Raptors,4395623,Trey Jemison III,C,50,Active,active,26,3,2027,False,ESPN team roster API
+TOR,Toronto Raptors,4279143,Tyreke Key,G,11,Active,active,27,2,2027,False,ESPN team roster API
+TOR,Toronto Raptors,6450,Kawhi Leonard,F,2,Active,active,35,15,2027,True,ESPN team roster API
+TOR,Toronto Raptors,4702656,Alijah Martin,G,55,Active,active,24,1,2027,False,ESPN team roster API
+TOR,Toronto Raptors,5093267,Collin Murray-Boyles,F,30,Active,active,21,1,2027,True,ESPN team roster API
+TOR,Toronto Raptors,3134908,Jakob Poeltl,C,19,Active,active,30,10,2027,True,ESPN team roster API
+TOR,Toronto Raptors,4395724,Immanuel Quickley,G,5,Active,active,27,6,2027,True,ESPN team roster API
+TOR,Toronto Raptors,4432241,Jamal Shead,G,23,Active,active,24,2,2027,True,ESPN team roster API
+TOR,Toronto Raptors,4397784,Malachi Smith,G,18,Active,active,26,1,2027,False,ESPN team roster API
+TOR,Toronto Raptors,4684272,Ja'Kobe Walter,G,14,Active,active,22,2,2027,True,ESPN team roster API
+UTAH,Utah Jazz,4684682,Jonas Aidoo,C,13,Active,active,23,0,2027,False,ESPN team roster API
+UTAH,Utah Jazz,4433268,Trey Alexander,G,15,Active,active,23,3,2027,False,ESPN team roster API
+UTAH,Utah Jazz,4873138,Ace Bailey,G,19,Active,active,20,2,2027,True,ESPN team roster API
+UTAH,Utah Jazz,4277919,Mo Bamba,C,44,Active,active,28,9,2027,False,ESPN team roster API
+UTAH,Utah Jazz,4683933,Tamar Bates,G,0,Active,active,23,0,2027,False,ESPN team roster API
+UTAH,Utah Jazz,4683766,Isaiah Collier,G,8,Active,active,21,3,2027,True,ESPN team roster API
+UTAH,Utah Jazz,4684793,Kyle Filipowski,F,2,Active,active,22,3,2027,True,ESPN team roster API
+UTAH,Utah Jazz,4278395,Taylor Funk,F,,Active,active,28,0,2027,False,ESPN team roster API
+UTAH,Utah Jazz,4433627,Keyonte George,G,3,Active,active,22,4,2027,True,ESPN team roster API
+UTAH,Utah Jazz,4432811,Josh Green,G,5,Active,active,25,7,2027,False,ESPN team roster API
+UTAH,Utah Jazz,4397077,Jaxson Hayes,C,11,Active,active,26,8,2027,True,ESPN team roster API
+UTAH,Utah Jazz,4396963,Blake Hinson,F,25,Active,active,26,2,2027,False,ESPN team roster API
+UTAH,Utah Jazz,4433618,Harrison Ingram,F,00,Active,active,23,3,2027,False,ESPN team roster API
+UTAH,Utah Jazz,4277961,Jaren Jackson Jr.,F,20,Active,active,27,9,2027,True,ESPN team roster API
+UTAH,Utah Jazz,4066336,Lauri Markkanen,F,23,Active,active,29,10,2027,True,ESPN team roster API
+UTAH,Utah Jazz,3133602,Svi Mykhailiuk,G,10,Active,active,29,9,2027,False,ESPN team roster API
+UTAH,Utah Jazz,3102530,Jusuf Nurkic,C,30,Active,active,32,13,2027,True,ESPN team roster API
+UTAH,Utah Jazz,4065663,Josh Okogie,G,21,Active,active,28,9,2027,False,ESPN team roster API
+UTAH,Utah Jazz,5041955,Darryn Peterson,G,22,Active,active,19,0,2027,True,ESPN team roster API
+UTAH,Utah Jazz,5105839,Brice Sensabaugh,F,28,Active,active,22,4,2027,True,ESPN team roster API
+WSH,Washington Wizards,4278129,Deandre Ayton,C,6,Active,active,28,9,2027,True,ESPN team roster API
+WSH,Washington Wizards,4432187,Reece Beekman,G,26,Active,active,24,2,2027,False,ESPN team roster API
+WSH,Washington Wizards,4845374,Bub Carrington,G,7,Active,active,21,3,2027,True,ESPN team roster API
+WSH,Washington Wizards,4432907,Justin Champagnie,F,9,Active,active,25,6,2027,True,ESPN team roster API
+WSH,Washington Wizards,5104155,Bilal Coulibaly,G,0,Active,active,22,4,2027,True,ESPN team roster API
+WSH,Washington Wizards,6583,Anthony Davis,F,23,Active,active,33,15,2027,True,ESPN team roster API
+WSH,Washington Wizards,5142718,AJ Dybantsa,F,4,Active,active,19,0,2027,True,ESPN team roster API
+WSH,Washington Wizards,5174563,Kyshawn George,F,18,Active,active,22,3,2027,True,ESPN team roster API
+WSH,Washington Wizards,2581184,Anthony Gill,F,16,Active,active,33,7,2027,False,ESPN team roster API
+WSH,Washington Wizards,5238230,Tre Johnson,G,12,Active,active,20,2,2027,True,ESPN team roster API
+WSH,Washington Wizards,4432645,Trevor Keels,G,13,Active,active,23,3,2027,False,ESPN team roster API
+WSH,Washington Wizards,4433622,Chris Livingston,F,24,Active,active,22,4,2027,False,ESPN team roster API
+WSH,Washington Wizards,4432819,Tre Mann,G,1,Active,active,25,6,2027,False,ESPN team roster API
+WSH,Washington Wizards,6609,Khris Middleton,F,22,Active,active,35,15,2027,False,ESPN team roster API
+WSH,Washington Wizards,5105841,Felix Okpara,F,34,Active,active,22,0,2027,False,ESPN team roster API
+WSH,Washington Wizards,5144126,Will Riley,G,27,Active,active,20,2,2027,False,ESPN team roster API
+WSH,Washington Wizards,5160992,Alex Sarr,C,20,Active,active,21,3,2027,False,ESPN team roster API
+WSH,Washington Wizards,4704043,Steve Settle III,F,14,Active,active,25,0,2027,False,ESPN team roster API
+WSH,Washington Wizards,4997537,Tristan Vukcevic,F,00,Active,active,23,4,2027,False,ESPN team roster API
+WSH,Washington Wizards,4606840,Jamir Watkins,G,5,Active,active,25,2,2027,False,ESPN team roster API
+WSH,Washington Wizards,4277905,Trae Young,G,3,Active,active,28,9,2027,True,ESPN team roster API

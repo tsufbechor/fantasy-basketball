@@ -1,0 +1,11 @@
+{
+  "retrieved_at_utc": "2026-10-07T21:59:37+00:00",
+  "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/teams/lal/roster?season=2027",
+  "http_status": 200,
+  "sha256": "be97670adfe0b8c3d60fca401675fb0900e7d8b600c25180a4dd75cfbcf818f6",
+  "season_id": 2027,
+  "source_timestamp": "2026-10-07T21:58:36Z",
+  "team_id": "13",
+  "team_abbreviation": "LAL",
+  "player_count": 21
+}

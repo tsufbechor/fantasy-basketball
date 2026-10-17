@@ -1,0 +1,232 @@
+[
+  {
+    "article_id": "espn_roundtable",
+    "publisher": "ESPN",
+    "title": "Fantasy basketball: Sleepers, breakouts and busts for 2025-26",
+    "url": "https://www.espn.com/fantasy/basketball/story/_/id/46293178/fantasy-basketball-sleepers-breakouts-busts-nba-2025-26",
+    "published": "2025-09-18",
+    "updated": null,
+    "authors": [
+      "André Snellings",
+      "Eric Moody",
+      "Eric Karabell",
+      "Jim McCormick",
+      "Steve Alexander"
+    ],
+    "season": "2025-26",
+    "format": "ESPN standard leagues; category/points unspecified",
+    "kind": "preseason sleepers roundtable",
+    "source_family": "ESPN:2025-sleepers-roundtable",
+    "notes": "Defines sleeper as expected to far surpass ADP in standard ESPN leagues. Search-indexed full text reviewed."
+  },
+  {
+    "article_id": "espn_mccormick",
+    "publisher": "ESPN",
+    "title": "Fantasy basketball: Matas Buzelis, Tari Eason and other top sleepers to target",
+    "url": "https://www.espn.com/fantasy/basketball/story/_/id/46421889/fantasy-basketball-top-sleepers-target-nba-2025-26",
+    "published": "2025-09-29",
+    "updated": null,
+    "authors": [
+      "Jim McCormick"
+    ],
+    "season": "2025-26",
+    "format": "General redraft; explicit category/roto insight",
+    "kind": "preseason sleeper column",
+    "source_family": "ESPN:2025-mccormick-sleepers",
+    "notes": "Reviewed search-indexed full text. Column says category/roto managers should value defensive “stocks”."
+  },
+  {
+    "article_id": "rw_barutha_sep11",
+    "publisher": "RotoWire",
+    "title": "Fantasy Basketball Sleepers & Breakouts 2025-26: Best Upside Picks",
+    "url": "https://www.rotowire.com/basketball/article/fantasy-basketball-breakout-sleepers-2025-2026-96016",
+    "published": "2025-09-11",
+    "updated": null,
+    "authors": [
+      "Alex Barutha"
+    ],
+    "season": "2025-26",
+    "format": "Fantrax ADP; format general",
+    "kind": "preseason sleepers and breakouts",
+    "source_family": "RotoWire:Barutha-Sep11",
+    "notes": "Article divides breakouts, sleepers, and deep cuts by ADP. Direct article reviewed."
+  },
+  {
+    "article_id": "rw_barner_sep24",
+    "publisher": "RotoWire",
+    "title": "Fantasy Basketball Sleepers: Best NBA Value Picks to Target in 2025-26",
+    "url": "https://www.rotowire.com/basketball/article/five-fantasy-basketball-sleepers-to-watch-this-nba-season-96453",
+    "published": "2025-09-24",
+    "updated": null,
+    "authors": [
+      "Mike Barner"
+    ],
+    "season": "2025-26",
+    "format": "General fantasy formats",
+    "kind": "preseason sleepers",
+    "source_family": "RotoWire:Barner-Sep24",
+    "notes": "Five-sleeper feature. Direct article reviewed."
+  },
+  {
+    "article_id": "rw_barutha_whalen_sep29",
+    "publisher": "RotoWire",
+    "title": "2025-26 Fantasy Basketball Sleepers: Underrated & Undervalued",
+    "url": "https://www.rotowire.com/basketball/article/fantasy-basketball-sleepers-2025-26-96622",
+    "published": "2025-09-29",
+    "updated": null,
+    "authors": [
+      "Alex Barutha",
+      "Nick Whalen"
+    ],
+    "season": "2025-26",
+    "format": "Explicit 8-category and roto references; general",
+    "kind": "preseason sleeper discussion recap",
+    "source_family": "RotoWire:Barutha-Whalen-Sep29",
+    "notes": "Article based on discussion between the listed authors. Direct article reviewed."
+  },
+  {
+    "article_id": "nba_centers",
+    "publisher": "NBA.com / RotoWire",
+    "title": "NBA Fantasy: 6 Sleeper Picks - Centers in 2025-26",
+    "url": "https://www.nba.com/news/nba-fantasy-6-center-sleeper-picks-for-2025-26",
+    "published": "2025-09-10",
+    "updated": null,
+    "authors": [
+      "Jonas Nader"
+    ],
+    "season": "2025-26",
+    "format": "Yahoo rankings reference; explicit 9-category context",
+    "kind": "preseason positional sleepers",
+    "source_family": "RotoWire:Jonas-Nader-positional",
+    "notes": "RotoWire-authored article syndicated by NBA.com. 6 players; available text reviewed. NBA page gives publish time."
+  },
+  {
+    "article_id": "nba_forwards",
+    "publisher": "NBA.com / RotoWire",
+    "title": "NBA Fantasy: 6 Sleeper Picks - Forwards in 2025-26",
+    "url": "https://www.nba.com/news/nba-fantasy-6-sleeper-picks-forwards-in-2025-26",
+    "published": "2025-09-05",
+    "updated": null,
+    "authors": [
+      "Jonas Nader"
+    ],
+    "season": "2025-26",
+    "format": "Explicit standard 9-category context",
+    "kind": "preseason positional sleepers",
+    "source_family": "RotoWire:Jonas-Nader-positional",
+    "notes": "RotoWire-authored feature syndicated by NBA.com. Direct full text reviewed."
+  },
+  {
+    "article_id": "nba_guards",
+    "publisher": "NBA.com / RotoWire",
+    "title": "NBA Fantasy: 6 Sleeper Picks - Guards in 2025-26",
+    "url": "https://www.nba.com/news/nba-fantasy-6-sleeper-picks-guards-in-2025-26",
+    "published": null,
+    "updated": "2025-10-13",
+    "authors": [
+      "Jonas Nader"
+    ],
+    "season": "2025-26",
+    "format": "Yahoo Top 150 ranking reference; format general",
+    "kind": "preseason positional sleepers",
+    "source_family": "RotoWire:Jonas-Nader-positional",
+    "notes": "Page says Updated Oct 13, 2025; original publish date not displayed. This date is stored as update and publication left null only when unknown. NBA mirror of RotoWire-authored feature; direct full text reviewed."
+  },
+  {
+    "article_id": "rotoballer_guards",
+    "publisher": "RotoBaller",
+    "title": "Fantasy Basketball Sleepers: Guards - Draft Values for 2025-2026",
+    "url": "https://www.rotoballer.com/fantasy-basketball-sleepers-guards-values-for-2025-2026/1707888",
+    "published": "2025-09-27",
+    "updated": null,
+    "authors": [
+      "Aidin Ebrahimi"
+    ],
+    "season": "2025-26",
+    "format": "General redraft; ADP/value picks",
+    "kind": "preseason positional sleepers",
+    "source_family": "RotoBaller:Ebrahimi-Sep27",
+    "notes": "Four guards; direct article reviewed."
+  },
+  {
+    "article_id": "rotoballer_forwards",
+    "publisher": "RotoBaller",
+    "title": "Fantasy Basketball Forwards Sleepers: ADP Analysis for 2025-2026 Drafts",
+    "url": "https://www.rotoballer.com/fantasy-basketball-sleepers-forwards-2025/1703322",
+    "published": "2025-09-30",
+    "updated": null,
+    "authors": [
+      "Andrew Ball"
+    ],
+    "season": "2025-26",
+    "format": "General redraft; ADP/value picks",
+    "kind": "preseason positional sleepers",
+    "source_family": "RotoBaller:Ball-Sep30",
+    "notes": "Five forward-eligible picks; direct article reviewed."
+  },
+  {
+    "article_id": "yahoo_ftw",
+    "publisher": "For The Win / Yahoo Sports",
+    "title": "7 fantasy basketball sleepers for your 2025-26 draft",
+    "url": "https://sports.yahoo.com/article/7-fantasy-basketball-sleepers-2025-192750896.html",
+    "published": "2025-10-14",
+    "updated": null,
+    "authors": [
+      "Charles Curtis"
+    ],
+    "season": "2025-26",
+    "format": "General redraft",
+    "kind": "preseason sleepers",
+    "source_family": "FTW:Curtis-Oct14",
+    "notes": "Yahoo syndicates For The Win article; read full search result text (direct page returned rate limit)."
+  },
+  {
+    "article_id": "draftkings_bill_yin",
+    "publisher": "DraftKings Network",
+    "title": "Top Fantasy Basketball Sleepers and Breakouts for 2025-26",
+    "url": "https://dknetwork.draftkings.com/2025/10/09/top-fantasy-basketball-sleepers-and-breakouts-for-2025-26/",
+    "published": "2025-10-09",
+    "updated": "2025-10-09",
+    "authors": [
+      "Bill Yin"
+    ],
+    "season": "2025-26",
+    "format": "Aggregate ADP, explicit 9-category ranks in commentary",
+    "kind": "preseason sleepers and breakouts",
+    "source_family": "DKN:Yin-Oct9",
+    "notes": "Direct article reviewed. Includes sleep and breakout labels, retained as tagged by author."
+  },
+  {
+    "article_id": "yahoo_high_score",
+    "publisher": "Yahoo Sports",
+    "title": "Fantasy Basketball High Score Sleepers: Late-round guards to target for Yahoo's new hoops format",
+    "url": "https://sports.yahoo.com/fantasy/article/fantasy-basketball-high-score-sleepers-late-round-guards-to-target-for-yahoos-new-hoops-format-175332466.html",
+    "published": "2025-10-02",
+    "updated": null,
+    "authors": [
+      "Dan Titus"
+    ],
+    "season": "2025-26",
+    "format": "Yahoo High Score points; not category league",
+    "kind": "preseason sleepers",
+    "source_family": "Yahoo:Titus-HighScore-Oct2",
+    "notes": "Included as useful format-separated coverage; not comparable to category sleeper recommendations. Full search-indexed article intro reviewed."
+  },
+  {
+    "article_id": "cbs_sportsline",
+    "publisher": "CBS Sports / SportsLine",
+    "title": "Fantasy basketball rankings 2025-26: Sleepers, breakouts and busts from proven NBA model",
+    "url": "https://www.cbssports.com/fantasy/basketball/news/fantasy-basketball-rankings-2025-nba-breakouts-busts-sleepers-picks-adp/",
+    "published": "2025-10-21",
+    "updated": null,
+    "authors": [
+      "Ross Kelly",
+      "SportsLine model"
+    ],
+    "season": "2025-26",
+    "format": "Standard formats; format detail not stated",
+    "kind": "preseason/draft-day sleepers",
+    "source_family": "CBS:SportsLine-Oct21",
+    "notes": "Published opening night, so draft utility was time-sensitive. One featured sleeper was accessible in full search result; excluded model paywalled recommendations."
+  }
+]

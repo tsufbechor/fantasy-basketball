@@ -1,0 +1,11 @@
+{
+  "retrieved_at_utc": "2026-10-07T22:00:30+00:00",
+  "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/teams/ind/roster?season=2027",
+  "http_status": 200,
+  "sha256": "d92fdcaee5c0e5b7f22ed404ec67404cc6bb4411f7b9e26d9ed7307c47f5e18e",
+  "season_id": 2027,
+  "source_timestamp": "2026-10-07T22:00:20Z",
+  "team_id": "11",
+  "team_abbreviation": "IND",
+  "player_count": 18
+}

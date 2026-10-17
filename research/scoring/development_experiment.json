@@ -1,0 +1,347 @@
+{
+  "validation_season_starts": [
+    2015,
+    2016,
+    2017,
+    2018
+  ],
+  "test_season_starts": [
+    2023,
+    2024,
+    2025
+  ],
+  "tuning": [
+    {
+      "target": "mpg",
+      "with_age": false,
+      "alpha": 1,
+      "validation_mae": 3.9484172058774867
+    },
+    {
+      "target": "mpg",
+      "with_age": true,
+      "alpha": 10,
+      "validation_mae": 3.7729770752961285
+    },
+    {
+      "target": "pts_per_min",
+      "with_age": false,
+      "alpha": 1,
+      "validation_mae": 0.06095806205334923
+    },
+    {
+      "target": "pts_per_min",
+      "with_age": true,
+      "alpha": 1,
+      "validation_mae": 0.05853299219638315
+    },
+    {
+      "target": "reb_per_min",
+      "with_age": false,
+      "alpha": 1,
+      "validation_mae": 0.02533011408859231
+    },
+    {
+      "target": "reb_per_min",
+      "with_age": true,
+      "alpha": 10,
+      "validation_mae": 0.02537620935474125
+    },
+    {
+      "target": "ast_per_min",
+      "with_age": false,
+      "alpha": 1,
+      "validation_mae": 0.018332668588941694
+    },
+    {
+      "target": "ast_per_min",
+      "with_age": true,
+      "alpha": 1,
+      "validation_mae": 0.018209154168527284
+    },
+    {
+      "target": "stl_per_min",
+      "with_age": false,
+      "alpha": 1,
+      "validation_mae": 0.006362929049974731
+    },
+    {
+      "target": "stl_per_min",
+      "with_age": true,
+      "alpha": 1,
+      "validation_mae": 0.006347827831962033
+    },
+    {
+      "target": "blk_per_min",
+      "with_age": false,
+      "alpha": 1,
+      "validation_mae": 0.005640523131355082
+    },
+    {
+      "target": "blk_per_min",
+      "with_age": true,
+      "alpha": 10,
+      "validation_mae": 0.00564162196788983
+    },
+    {
+      "target": "three_pm_per_min",
+      "with_age": false,
+      "alpha": 1,
+      "validation_mae": 0.010756627240127822
+    },
+    {
+      "target": "three_pm_per_min",
+      "with_age": true,
+      "alpha": 1,
+      "validation_mae": 0.010703912585715656
+    },
+    {
+      "target": "fga_per_min",
+      "with_age": false,
+      "alpha": 1,
+      "validation_mae": 0.04271952457289074
+    },
+    {
+      "target": "fga_per_min",
+      "with_age": true,
+      "alpha": 1,
+      "validation_mae": 0.04116836059004804
+    },
+    {
+      "target": "fta_per_min",
+      "with_age": false,
+      "alpha": 1,
+      "validation_mae": 0.021791162039324435
+    },
+    {
+      "target": "fta_per_min",
+      "with_age": true,
+      "alpha": 10,
+      "validation_mae": 0.021512229320967465
+    }
+  ],
+  "results": [
+    {
+      "target": "mpg",
+      "model": "history",
+      "n": 908,
+      "mae": 3.7959372907150533,
+      "bias": -0.12376984527528456,
+      "rmse": 4.91762291493707
+    },
+    {
+      "target": "mpg",
+      "model": "history_plus_age",
+      "n": 908,
+      "mae": 3.7339733223282865,
+      "bias": 0.25649522219862103,
+      "rmse": 4.840988416647229
+    },
+    {
+      "target": "mpg",
+      "model": "last_season",
+      "n": 908,
+      "mae": 3.873814159259361,
+      "bias": 1.0123663860476657,
+      "rmse": 5.20276095381593
+    },
+    {
+      "target": "pts_per_min",
+      "model": "history",
+      "n": 908,
+      "mae": 0.06462568255015182,
+      "bias": -0.0059882112295060195,
+      "rmse": 0.08903314045639234
+    },
+    {
+      "target": "pts_per_min",
+      "model": "history_plus_age",
+      "n": 908,
+      "mae": 0.06427820780749532,
+      "bias": -0.0023167012776584826,
+      "rmse": 0.08735775884611396
+    },
+    {
+      "target": "pts_per_min",
+      "model": "last_season",
+      "n": 908,
+      "mae": 0.06862676729123708,
+      "bias": 0.010558962142972713,
+      "rmse": 0.09928344995494552
+    },
+    {
+      "target": "reb_per_min",
+      "model": "history",
+      "n": 908,
+      "mae": 0.024447674396475848,
+      "bias": 0.0016280952487369618,
+      "rmse": 0.03555439323635319
+    },
+    {
+      "target": "reb_per_min",
+      "model": "history_plus_age",
+      "n": 908,
+      "mae": 0.024453895375317957,
+      "bias": 0.0021915991703225736,
+      "rmse": 0.035508990442496474
+    },
+    {
+      "target": "reb_per_min",
+      "model": "last_season",
+      "n": 908,
+      "mae": 0.02600871630366584,
+      "bias": 0.0014368891109052075,
+      "rmse": 0.03855570474524581
+    },
+    {
+      "target": "ast_per_min",
+      "model": "history",
+      "n": 908,
+      "mae": 0.020448805233859068,
+      "bias": -0.004779908122133211,
+      "rmse": 0.02923237116872548
+    },
+    {
+      "target": "ast_per_min",
+      "model": "history_plus_age",
+      "n": 908,
+      "mae": 0.020033588660377136,
+      "bias": -0.0039707211846716686,
+      "rmse": 0.028691989695843953
+    },
+    {
+      "target": "ast_per_min",
+      "model": "last_season",
+      "n": 908,
+      "mae": 0.02210427843645265,
+      "bias": -0.0021453327210046655,
+      "rmse": 0.03146319373396236
+    },
+    {
+      "target": "stl_per_min",
+      "model": "history",
+      "n": 908,
+      "mae": 0.008314749831423671,
+      "bias": -0.0032541773644182335,
+      "rmse": 0.01795452291728575
+    },
+    {
+      "target": "stl_per_min",
+      "model": "history_plus_age",
+      "n": 908,
+      "mae": 0.008286618025526951,
+      "bias": -0.003129973667230087,
+      "rmse": 0.017930047547907182
+    },
+    {
+      "target": "stl_per_min",
+      "model": "last_season",
+      "n": 908,
+      "mae": 0.009613076646809464,
+      "bias": -0.0017247484258352864,
+      "rmse": 0.019464035466899284
+    },
+    {
+      "target": "blk_per_min",
+      "model": "history",
+      "n": 908,
+      "mae": 0.006231445394885277,
+      "bias": -0.00015559632583142803,
+      "rmse": 0.010221538359712243
+    },
+    {
+      "target": "blk_per_min",
+      "model": "history_plus_age",
+      "n": 908,
+      "mae": 0.006225137439266573,
+      "bias": -9.270002881410872e-05,
+      "rmse": 0.010213723542099387
+    },
+    {
+      "target": "blk_per_min",
+      "model": "last_season",
+      "n": 908,
+      "mae": 0.0069795457521449064,
+      "bias": 0.0004927937841223447,
+      "rmse": 0.011294837497679304
+    },
+    {
+      "target": "three_pm_per_min",
+      "model": "history",
+      "n": 908,
+      "mae": 0.012301548346592042,
+      "bias": -0.0008059643873625905,
+      "rmse": 0.017356044865045512
+    },
+    {
+      "target": "three_pm_per_min",
+      "model": "history_plus_age",
+      "n": 908,
+      "mae": 0.012288113255176519,
+      "bias": -0.00042438404961124424,
+      "rmse": 0.017306972861586164
+    },
+    {
+      "target": "three_pm_per_min",
+      "model": "last_season",
+      "n": 908,
+      "mae": 0.012771301146212489,
+      "bias": -0.0002413891638735905,
+      "rmse": 0.01935391116906271
+    },
+    {
+      "target": "fga_per_min",
+      "model": "history",
+      "n": 908,
+      "mae": 0.045073139046986684,
+      "bias": -0.0036855279912235014,
+      "rmse": 0.061027236563874515
+    },
+    {
+      "target": "fga_per_min",
+      "model": "history_plus_age",
+      "n": 908,
+      "mae": 0.04465339511706608,
+      "bias": -0.0011660473961063518,
+      "rmse": 0.06048314370373368
+    },
+    {
+      "target": "fga_per_min",
+      "model": "last_season",
+      "n": 908,
+      "mae": 0.048199388184181395,
+      "bias": 0.004568560165290865,
+      "rmse": 0.06766315977746534
+    },
+    {
+      "target": "fta_per_min",
+      "model": "history",
+      "n": 908,
+      "mae": 0.023607428692929783,
+      "bias": -0.0026916787719744035,
+      "rmse": 0.03488825923304211
+    },
+    {
+      "target": "fta_per_min",
+      "model": "history_plus_age",
+      "n": 908,
+      "mae": 0.02369660302784667,
+      "bias": -0.000987862959855882,
+      "rmse": 0.03476106411925365
+    },
+    {
+      "target": "fta_per_min",
+      "model": "last_season",
+      "n": 908,
+      "mae": 0.02546925548952741,
+      "bias": 0.001301091424603007,
+      "rmse": 0.03835580502488584
+    }
+  ],
+  "limitations": [
+    "Conditional on target participation and three preceding consecutive seasons; excludes rookies and exits.",
+    "Per-minute rates are not pace-adjusted; historical season trends and role changes are not modeled.",
+    "No injury, teammate, true experience, uncertainty or Hashtag-residual features.",
+    "Age-feature comparison is an exploratory model-family test, not a calibrated scoring adjustment."
+  ]
+}

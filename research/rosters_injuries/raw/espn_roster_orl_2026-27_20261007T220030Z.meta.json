@@ -1,0 +1,11 @@
+{
+  "retrieved_at_utc": "2026-10-07T22:00:30+00:00",
+  "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/teams/orl/roster?season=2027",
+  "http_status": 200,
+  "sha256": "74ede484e1ee6425b01091f6a15f5d05af7e8d6cd882d3f38e398535002e5aee",
+  "season_id": 2027,
+  "source_timestamp": "2026-10-07T22:00:24Z",
+  "team_id": "19",
+  "team_abbreviation": "ORL",
+  "player_count": 20
+}

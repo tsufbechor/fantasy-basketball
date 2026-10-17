@@ -1,0 +1,11 @@
+{
+  "retrieved_at_utc": "2026-10-07T21:59:37+00:00",
+  "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/teams/mem/roster?season=2027",
+  "http_status": 200,
+  "sha256": "b825292f18d45a6136230c47a840ff710c209389c856ce276df7d2fd579389a0",
+  "season_id": 2027,
+  "source_timestamp": "2026-10-07T21:58:36Z",
+  "team_id": "29",
+  "team_abbreviation": "MEM",
+  "player_count": 21
+}

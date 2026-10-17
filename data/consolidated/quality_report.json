@@ -1,0 +1,511 @@
+{
+  "source_counts": {
+    "hashtag_ids_union": 366,
+    "nba_mapped": 356,
+    "nba_unmatched": 10,
+    "espn_exact_roster_join": 340,
+    "espn_unjoined_or_ambiguous": 26,
+    "current_projection_rows": 300,
+    "historical_actual_rows": 732,
+    "historical_nba_player_season_rows_2024_25_2025_26": 659,
+    "historical_multiteam_player_season_rows": 75,
+    "espn_hashtag_team_conflicts": 0,
+    "hashtag_rows_by_snapshot": {
+      "2024-25": 200,
+      "2025-26": 297,
+      "2026-27": 300
+    },
+    "historical_snapshot_duplicate_rows_collapsed": {
+      "2024-25": 0,
+      "2025-26": 3
+    },
+    "historical_sleeper_mention_rows": 72,
+    "unique_historical_sleeper_players": 34,
+    "evidence_event_rows": 106,
+    "news_summary_event_rows": 5,
+    "espn_injury_event_rows": 101,
+    "evidence_events_exact_espn_id_join": 83,
+    "evidence_events_unmatched": 23
+  },
+  "mapping_status_counts": {
+    "exact_normalized_name": 349,
+    "manual": 7,
+    "unmatched": 10
+  },
+  "espn_join_status_counts": {
+    "exact_normalized_name": 340,
+    "no_exact_roster_match": 26
+  },
+  "unmatched_nba_names": [
+    "AJ Dybantsa",
+    "Darryn Peterson",
+    "Cameron Boozer",
+    "Caleb Wilson",
+    "Keaton Wagler",
+    "Darius Acuff Jr.",
+    "Mikel Brown Jr.",
+    "Brayden Burries",
+    "Yaxel Lendeborg",
+    "Allen Graves"
+  ],
+  "unmatched_espn_names": [
+    "Chris Paul",
+    "D'Angelo Russell",
+    "Russell Westbrook",
+    "Cameron Payne",
+    "Jonas Valanciunas",
+    "Malcolm Brogdon",
+    "Malik Beasley",
+    "Lonzo Ball",
+    "DaQuan Jeffries",
+    "John Konchar",
+    "Killian Hayes",
+    "Cam Thomas",
+    "Jaden Ivey",
+    "David Roddy",
+    "Vince Williams Jr.",
+    "Alondes Williams",
+    "Mouhamadou Gueye",
+    "Dariq Whitehead",
+    "N'Faly Dante",
+    "Isaiah Stevens",
+    "Guerschon Yabusele",
+    "Marcus Bagley",
+    "DeJon Jarreau",
+    "Tyler Burton",
+    "Andersson Garcia",
+    "Adama Bal"
+  ],
+  "team_conflicts": [],
+  "page_settings": {
+    "2024-25": {
+      "source_file": "Fantasy Basketball Rankings 2022-25 _ Hashtag Basketball.html",
+      "season_label": "2024-25",
+      "dataset": "2024-25 NBA Regular Season",
+      "based_on": "Averages",
+      "type": "H2H",
+      "gp_penalty": "not exposed in snapshot",
+      "position_adp_source": "Yahoo",
+      "min_gp": "1",
+      "selected_categories": [
+        "FGP",
+        "FTP",
+        "3PM",
+        "PTS",
+        "REB",
+        "AST",
+        "STL",
+        "BLK"
+      ],
+      "raw_player_rows": 200,
+      "parsed_player_rows": 200,
+      "duplicate_source_rows_collapsed": 0,
+      "duplicate_hashtag_ids": []
+    },
+    "2025-26": {
+      "source_file": "Fantasy Basketball Rankings 2025-26 _ Hashtag Basketball.html",
+      "season_label": "2025-26",
+      "dataset": "2025-26 NBA Regular Season (Updated daily)",
+      "based_on": "Averages",
+      "type": "H2H",
+      "gp_penalty": "not exposed in snapshot",
+      "position_adp_source": "Yahoo",
+      "min_gp": "1",
+      "selected_categories": [
+        "FGP",
+        "FTP",
+        "3PM",
+        "PTS",
+        "REB",
+        "AST",
+        "STL",
+        "BLK"
+      ],
+      "raw_player_rows": 300,
+      "parsed_player_rows": 297,
+      "duplicate_source_rows_collapsed": 3,
+      "duplicate_hashtag_ids": [
+        "120291"
+      ]
+    },
+    "2026-27": {
+      "source_file": "hashtag_2026_27_no_to.html",
+      "season_label": "2026-27",
+      "dataset": "2026-27 Rest of Season Projections",
+      "based_on": "Averages",
+      "type": "H2H",
+      "gp_penalty": "20%",
+      "position_adp_source": "Yahoo",
+      "min_gp": "1",
+      "selected_categories": [
+        "FGP",
+        "FTP",
+        "3PM",
+        "PTS",
+        "REB",
+        "AST",
+        "STL",
+        "BLK"
+      ],
+      "raw_player_rows": 300,
+      "parsed_player_rows": 300,
+      "duplicate_source_rows_collapsed": 0,
+      "duplicate_hashtag_ids": []
+    }
+  },
+  "source_sha256": {
+    "Fantasy Basketball Rankings 2022-25 _ Hashtag Basketball.html": "d33864752fc0749193830585ab7b44300f4552b16444bcc83efa00241ce08f44",
+    "Fantasy Basketball Rankings 2025-26 _ Hashtag Basketball.html": "67819c89465cb446efa676df08a037345cfd7f6c44d88e23b02053dab19942c5",
+    "hashtag_2026_27_no_to.html": "c74e9977de48b1c91b4f64132e59818e43075a5bcec316b60844f44ff44293be",
+    "data/career/player_mapping.csv": "ce63ee6ece6bad86d12639c8594a2fdf3e35e8b819ccbc06ff95f8e5f3373f2a",
+    "data/career/player_seasons.csv": "26b33d964617079b09761d692ca903e7dd31f7be19694fc9f66300ff74ccf3bd",
+    "research/rosters_injuries/rosters_2026-27.csv": "eb43869cc45874f86f2d8e3d18ba00b88d1e4f4314214397d64a8a3a3760ce12",
+    "data/espn/league_9490871_2026_27.json": "f2afbb5f4e1d3bff6bf0c4f1a549fbbcf0caa1e33c481a71cd6b836a5a6da2d3",
+    "research/sleepers_2025_26/player_mentions.csv": "690e9a39e0a7f0655a88b887ebb91ed3d43e22e4b6535d57b34ed957798f0229",
+    "research/rosters_injuries/injuries_2026-27.csv": "a1301f1df4c53ff29ce3f0255dc459ed2cdaddc51d19920d5997c65b32dc39af",
+    "research/news_pipeline/data/news.json": "32c2d58942c32fe9bd554a0a72951762f01930abe71343f38a9c3708d40d4739"
+  },
+  "scoring": {
+    "method": "raw 8-category per-game z-score sum over the 2026-27 Top 300 projected universe",
+    "categories": [
+      "fg_impact",
+      "ft_impact",
+      "three_pm",
+      "points",
+      "rebounds",
+      "assists",
+      "steals",
+      "blocks"
+    ],
+    "category_order": [
+      "FG impact",
+      "FT impact",
+      "3PM",
+      "PTS",
+      "REB",
+      "AST",
+      "STL",
+      "BLK"
+    ],
+    "count_categories": [
+      "3PM",
+      "PTS",
+      "REB",
+      "AST",
+      "STL",
+      "BLK"
+    ],
+    "fg_reference_weighted_pct": 0.478617177031929,
+    "ft_reference_weighted_pct": 0.7871856459330145,
+    "category_mean_and_population_sd": {
+      "fg_impact": {
+        "mean": 1.3174646558885191e-15,
+        "population_sd": 0.5437435872566413
+      },
+      "ft_impact": {
+        "mean": -5.297614199169705e-16,
+        "population_sd": 0.25376953854853307
+      },
+      "three_pm": {
+        "mean": 1.466,
+        "population_sd": 0.8989126765153554
+      },
+      "points": {
+        "mean": 13.416666666666666,
+        "population_sd": 5.758708381418721
+      },
+      "rebounds": {
+        "mean": 5.0200000000000005,
+        "population_sd": 2.3146057979707906
+      },
+      "assists": {
+        "mean": 3.0363333333333333,
+        "population_sd": 1.8830772392254356
+      },
+      "steals": {
+        "mean": 0.9236666666666666,
+        "population_sd": 0.3423544297297109
+      },
+      "blocks": {
+        "mean": 0.5903333333333334,
+        "population_sd": 0.4485605372249721
+      }
+    },
+    "universe_size": 300,
+    "rounding": "Uses displayed Hashtag values (mostly 1 decimal); not hidden Hashtag category z inputs.",
+    "shooting_impact_makes_policy": "Displayed percentage × displayed attempts defines derived makes for impact; rounded displayed makes remain separately preserved.",
+    "hashtag_total_preserved": true,
+    "hashtag_gp_penalty_preserved": "20%",
+    "h2h_floor_applied_to_our_score": false
+  },
+  "gp_sensitivity": {
+    "scenarios": [
+      "Hashtag projected GP",
+      "Hashtag GP - 5",
+      "Hashtag GP + 5 capped at 82"
+    ],
+    "status": "mechanical stress test only; no probabilities, learned coefficients, replacement adjustment, or signed-z-score-times-GP shortcut",
+    "fixed_reference": "2026-27 Top 300 baseline projected total-category means and population SDs are frozen for all scenarios.",
+    "replacement_value_computed": false,
+    "replacement_reason": "waiver pool, scoring-week schedule/lineup limits and roster/IR slot semantics are not joined to a certified fantasy replacement set"
+  },
+  "team_count": 12,
+  "league_scoring_type": "H2H_CATEGORY",
+  "league_settings_snapshot": {
+    "league_name": "NBA Fantasy Matan",
+    "team_count": 12,
+    "scoring_type": "H2H_CATEGORY",
+    "scoring_item_ids_and_values": [
+      {
+        "isReverseItem": false,
+        "leagueRanking": 0.0,
+        "leagueTotal": 0.0,
+        "points": 1.0,
+        "pointsOverrides": {},
+        "statId": 20
+      },
+      {
+        "isReverseItem": false,
+        "leagueRanking": 0.0,
+        "leagueTotal": 0.0,
+        "points": 1.0,
+        "pointsOverrides": {},
+        "statId": 6
+      },
+      {
+        "isReverseItem": false,
+        "leagueRanking": 0.0,
+        "leagueTotal": 0.0,
+        "points": 1.0,
+        "pointsOverrides": {},
+        "statId": 0
+      },
+      {
+        "isReverseItem": false,
+        "leagueRanking": 0.0,
+        "leagueTotal": 0.0,
+        "points": 1.0,
+        "pointsOverrides": {},
+        "statId": 1
+      },
+      {
+        "isReverseItem": false,
+        "leagueRanking": 0.0,
+        "leagueTotal": 0.0,
+        "points": 1.0,
+        "pointsOverrides": {},
+        "statId": 17
+      },
+      {
+        "isReverseItem": false,
+        "leagueRanking": 0.0,
+        "leagueTotal": 0.0,
+        "points": 1.0,
+        "pointsOverrides": {},
+        "statId": 2
+      },
+      {
+        "isReverseItem": false,
+        "leagueRanking": 0.0,
+        "leagueTotal": 0.0,
+        "points": 1.0,
+        "pointsOverrides": {},
+        "statId": 3
+      },
+      {
+        "isReverseItem": false,
+        "leagueRanking": 0.0,
+        "leagueTotal": 0.0,
+        "points": 1.0,
+        "pointsOverrides": {},
+        "statId": 19
+      }
+    ],
+    "roster_slot_counts_raw": {
+      "0": 1,
+      "1": 1,
+      "2": 1,
+      "3": 1,
+      "4": 1,
+      "5": 1,
+      "6": 1,
+      "7": 0,
+      "8": 0,
+      "9": 1,
+      "10": 0,
+      "11": 4,
+      "12": 6,
+      "13": 2,
+      "14": 0
+    },
+    "bench_unlimited_flag": true,
+    "matchup_period_count": 19,
+    "matchup_period_length": 1,
+    "acquisition_settings": {
+      "acquisitionBudget": 100,
+      "acquisitionLimit": -1,
+      "acquisitionType": "FREEAGENCY",
+      "finalPlaceTransactionEligible": 0,
+      "isUsingAcquisitionBudget": false,
+      "matchupAcquisitionLimit": 0.2857142857142857,
+      "matchupLimitPerScoringPeriod": true,
+      "minimumBid": 1,
+      "transactionLockingEnabled": false,
+      "waiverHours": 24,
+      "waiverOrderReset": false,
+      "waiverProcessDays": [
+        "SUNDAY"
+      ],
+      "waiverProcessHour": 8
+    }
+  },
+  "stale_injury_data_used_in_score": false,
+  "evidence_events_used_in_score": false,
+  "evidence_events": {
+    "news_source_last_fetch_at": "2026-10-07T22:12:55Z",
+    "news_source_record_count": 5,
+    "injury_event_count": 101,
+    "join_counts_by_source_type": {
+      "news_summary": {
+        "exact_espn_id": 5
+      },
+      "espn_injury_event": {
+        "exact_espn_id": 78,
+        "unmatched_espn_id": 23
+      }
+    },
+    "unmatched_events": [
+      {
+        "event_id": "espn-injury:2027:5105571:2026-09-21T19:50Z:Out",
+        "player_name": "Henri Veesaar",
+        "espn_player_id": "5105571"
+      },
+      {
+        "event_id": "espn-injury:2027:4870564:2026-10-05T16:55Z:Day-To-Day",
+        "player_name": "Joshua Jefferson",
+        "espn_player_id": "4870564"
+      },
+      {
+        "event_id": "espn-injury:2027:5060701:2026-10-06T21:16Z:Day-To-Day",
+        "player_name": "Christian Anderson",
+        "espn_player_id": "5060701"
+      },
+      {
+        "event_id": "espn-injury:2027:4684269:2026-10-05T21:28Z:Day-To-Day",
+        "player_name": "Kylan Boswell",
+        "espn_player_id": "4684269"
+      },
+      {
+        "event_id": "espn-injury:2027:4873153:2026-10-07T20:58Z:Day-To-Day",
+        "player_name": "Morez Johnson Jr.",
+        "espn_player_id": "4873153"
+      },
+      {
+        "event_id": "espn-injury:2027:2990969:2026-10-07T14:40Z:Day-To-Day",
+        "player_name": "Georges Niang",
+        "espn_player_id": "2990969"
+      },
+      {
+        "event_id": "espn-injury:2027:4592829:2026-10-04T15:25Z:Day-To-Day",
+        "player_name": "Quenton Jackson",
+        "espn_player_id": "4592829"
+      },
+      {
+        "event_id": "espn-injury:2027:5157066:2026-02-09T21:43Z:Out",
+        "player_name": "Johnny Furphy",
+        "espn_player_id": "5157066"
+      },
+      {
+        "event_id": "espn-injury:2027:4433599:2026-10-07T01:03Z:Day-To-Day",
+        "player_name": "Arthur Kaluma",
+        "espn_player_id": "4433599"
+      },
+      {
+        "event_id": "espn-injury:2027:4432185:2026-10-06T02:01Z:Day-To-Day",
+        "player_name": "Micah Peavy",
+        "espn_player_id": "4432185"
+      },
+      {
+        "event_id": "espn-injury:2027:4431786:2026-10-07T18:04Z:Out",
+        "player_name": "Keshad Johnson",
+        "espn_player_id": "4431786"
+      },
+      {
+        "event_id": "espn-injury:2027:5061603:2026-10-05T17:52Z:Day-To-Day",
+        "player_name": "Thomas Sorber",
+        "espn_player_id": "5061603"
+      },
+      {
+        "event_id": "espn-injury:2027:5159925:2026-10-05T17:51Z:Day-To-Day",
+        "player_name": "Nikola Topic",
+        "espn_player_id": "5159925"
+      },
+      {
+        "event_id": "espn-injury:2027:4065654:2026-10-06T15:42Z:Day-To-Day",
+        "player_name": "Jonathan Isaac",
+        "espn_player_id": "4065654"
+      },
+      {
+        "event_id": "espn-injury:2027:5214637:2026-10-04T16:34Z:Day-To-Day",
+        "player_name": "Noah Penda",
+        "espn_player_id": "5214637"
+      },
+      {
+        "event_id": "espn-injury:2027:5107251:2026-09-28T21:33Z:Out",
+        "player_name": "Izaiyah Nelson",
+        "espn_player_id": "5107251"
+      },
+      {
+        "event_id": "espn-injury:2027:4871141:2026-10-06T19:17Z:Out",
+        "player_name": "Ariel Hukporti",
+        "espn_player_id": "4871141"
+      },
+      {
+        "event_id": "espn-injury:2027:3904625:2026-10-01T22:07Z:Day-To-Day",
+        "player_name": "Tacko Fall",
+        "espn_player_id": "3904625"
+      },
+      {
+        "event_id": "espn-injury:2027:5101845:2026-10-05T21:43Z:Out",
+        "player_name": "Jayden Quaintance",
+        "espn_player_id": "5101845"
+      },
+      {
+        "event_id": "espn-injury:2027:4713010:2026-07-22T19:16Z:Day-To-Day",
+        "player_name": "David Jones Garcia",
+        "espn_player_id": "4713010"
+      },
+      {
+        "event_id": "espn-injury:2027:4431684:2026-10-06T16:35Z:Day-To-Day",
+        "player_name": "Trayce Jackson-Davis",
+        "espn_player_id": "4431684"
+      },
+      {
+        "event_id": "espn-injury:2027:4431893:2026-10-05T20:19Z:Day-To-Day",
+        "player_name": "Jamison Battle",
+        "espn_player_id": "4431893"
+      },
+      {
+        "event_id": "espn-injury:2027:4432586:2026-10-04T02:56Z:Day-To-Day",
+        "player_name": "Nate Bittle",
+        "espn_player_id": "4432586"
+      }
+    ],
+    "join_key": "exact ESPN player ID only; unmatched source rows retained",
+    "current_status_policy": "always not_inferred; reported_status retained separately for ESPN injury events",
+    "news_summary_policy": "preserved as unverified_machine_summary, not treated as verified claims",
+    "scoring_effect": false
+  },
+  "qualitative_hashtag_notes_used_in_score": false,
+  "sleeper_2025_26_mentions_used_in_score": false,
+  "sleeper_mentions_source": "research/sleepers_2025_26/player_mentions.csv; joined by Hashtag ID, counts and labels are historical annotations only",
+  "outputs_are_deterministic": true,
+  "integrity_checks": [
+    "366 unique tracked Hashtag IDs; source snapshot rows checked for duplicate IDs",
+    "732 unique tracked-player by historical-season rows",
+    "300 unique 2026-27 Hashtag projection rows",
+    "900 unique player by GP sensitivity scenario rows",
+    "projected GP in [0,82], shooting percentages in [0,1], nonnegative counts, makes <= attempts within display rounding tolerance",
+    "ESPN player IDs are unique across tracked Hashtag IDs; ambiguous name/team collisions are left unjoined and listed"
+  ]
+}

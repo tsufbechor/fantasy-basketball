@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "My Basketball Draft Board",
+  "version": "0.2.0",
+  "description": "Personal rankings and watchlist with ESPN draft availability.",
+  "permissions": ["storage", "sidePanel"],
+  "host_permissions": ["https://lm-api-reads.fantasy.espn.com/*"],
+  "action": {"default_title": "Open my draft board"},
+  "background": {"service_worker": "background.mjs", "type": "module"},
+  "side_panel": {"default_path": "panel.html"},
+  "content_scripts": [{"matches": ["https://fantasy.espn.com/basketball/draft*"], "js": ["room-reader.js"], "run_at": "document_idle"}],
+  "web_accessible_resources": [{"resources": ["draft.mjs"], "matches": ["https://fantasy.espn.com/*"]}]
+}

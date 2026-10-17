@@ -1,0 +1,11 @@
+{
+  "retrieved_at_utc": "2026-10-07T22:00:30+00:00",
+  "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/teams/min/roster?season=2027",
+  "http_status": 200,
+  "sha256": "b5d341e6ba7d53a4ac7851e7c31f9222f68f86785794ac755760c3d61fdf961d",
+  "season_id": 2027,
+  "source_timestamp": "2026-10-07T22:00:22Z",
+  "team_id": "16",
+  "team_abbreviation": "MIN",
+  "player_count": 21
+}

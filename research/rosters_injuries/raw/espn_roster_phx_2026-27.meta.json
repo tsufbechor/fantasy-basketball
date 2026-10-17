@@ -1,0 +1,11 @@
+{
+  "retrieved_at_utc": "2026-10-07T21:59:37+00:00",
+  "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/teams/phx/roster?season=2027",
+  "http_status": 200,
+  "sha256": "d4e736bce3d867d43adbf08205c85fd36c7f52a463a4a19b2e675d5c1613feb9",
+  "season_id": 2027,
+  "source_timestamp": "2026-10-07T21:58:37Z",
+  "team_id": "21",
+  "team_abbreviation": "PHX",
+  "player_count": 21
+}

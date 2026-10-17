@@ -1,0 +1,11 @@
+{
+  "retrieved_at_utc": "2026-10-07T21:59:37+00:00",
+  "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/teams/sa/roster?season=2027",
+  "http_status": 200,
+  "sha256": "fda1fcf42101db782a93bee41e656777235212f19c01aefcec57380b3cd47c61",
+  "season_id": 2027,
+  "source_timestamp": "2026-10-07T21:58:37Z",
+  "team_id": "24",
+  "team_abbreviation": "SA",
+  "player_count": 21
+}

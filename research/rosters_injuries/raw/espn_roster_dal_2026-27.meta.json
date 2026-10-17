@@ -1,0 +1,11 @@
+{
+  "retrieved_at_utc": "2026-10-07T21:59:37+00:00",
+  "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/teams/dal/roster?season=2027",
+  "http_status": 200,
+  "sha256": "2b0cef4088f674255493bef3f508bb8cb31c48e7235f22e70190861ffd66a2dd",
+  "season_id": 2027,
+  "source_timestamp": "2026-10-07T21:58:36Z",
+  "team_id": "6",
+  "team_abbreviation": "DAL",
+  "player_count": 20
+}

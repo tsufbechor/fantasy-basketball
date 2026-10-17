@@ -1,0 +1,11 @@
+{
+  "retrieved_at_utc": "2026-10-07T22:00:30+00:00",
+  "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/teams/mia/roster?season=2027",
+  "http_status": 200,
+  "sha256": "07f96ad8345d9ed3b67c0b53f157874332fca70f2b3b842561e20ed513526ae0",
+  "season_id": 2027,
+  "source_timestamp": "2026-10-07T22:00:21Z",
+  "team_id": "14",
+  "team_abbreviation": "MIA",
+  "player_count": 21
+}

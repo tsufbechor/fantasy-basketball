@@ -1,0 +1,11 @@
+{
+  "retrieved_at_utc": "2026-10-07T22:00:30+00:00",
+  "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/teams/ny/roster?season=2027",
+  "http_status": 200,
+  "sha256": "1548e1fdfe4d234f567409bf40cc7a1adab4f0fff2dbbabe7a02e54aee8d8485",
+  "season_id": 2027,
+  "source_timestamp": "2026-10-07T22:00:23Z",
+  "team_id": "18",
+  "team_abbreviation": "NY",
+  "player_count": 21
+}

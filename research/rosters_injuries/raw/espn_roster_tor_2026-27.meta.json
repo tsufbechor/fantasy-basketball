@@ -1,0 +1,11 @@
+{
+  "retrieved_at_utc": "2026-10-07T21:59:37+00:00",
+  "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/teams/tor/roster?season=2027",
+  "http_status": 200,
+  "sha256": "4c738dc11db8a57d7ac6ed06d253719d1c8e89aa94b4e27eb6814ddbb02ef160",
+  "season_id": 2027,
+  "source_timestamp": "2026-10-07T21:58:37Z",
+  "team_id": "28",
+  "team_abbreviation": "TOR",
+  "player_count": 20
+}

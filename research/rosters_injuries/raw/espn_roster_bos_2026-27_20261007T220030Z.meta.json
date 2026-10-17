@@ -1,0 +1,11 @@
+{
+  "retrieved_at_utc": "2026-10-07T22:00:30+00:00",
+  "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/teams/bos/roster?season=2027",
+  "http_status": 200,
+  "sha256": "6abf507991970886297d864fab8f53dc4f066826c5f6a25fbe3092f7bc32f2e6",
+  "season_id": 2027,
+  "source_timestamp": "2026-10-07T22:00:17Z",
+  "team_id": "2",
+  "team_abbreviation": "BOS",
+  "player_count": 21
+}

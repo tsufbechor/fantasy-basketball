@@ -1,0 +1,11 @@
+{
+  "retrieved_at_utc": "2026-10-07T21:59:37+00:00",
+  "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/teams/gs/roster?season=2027",
+  "http_status": 200,
+  "sha256": "f12fc6746fd96776918ea2f7641c2aed8ec4ee9e73e5320c8842efd2fa8ae5f5",
+  "season_id": 2027,
+  "source_timestamp": "2026-10-07T21:58:36Z",
+  "team_id": "9",
+  "team_abbreviation": "GS",
+  "player_count": 21
+}

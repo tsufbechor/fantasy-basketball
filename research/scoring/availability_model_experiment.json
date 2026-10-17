@@ -1,0 +1,87 @@
+{
+  "selected_ridge_alpha": 1,
+  "tuning": [
+    {
+      "alpha": 1,
+      "validation_mae_gp_equivalent": 14.748388883336276
+    },
+    {
+      "alpha": 10,
+      "validation_mae_gp_equivalent": 14.751051396419259
+    },
+    {
+      "alpha": 100,
+      "validation_mae_gp_equivalent": 14.765032391527823
+    },
+    {
+      "alpha": 1000,
+      "validation_mae_gp_equivalent": 14.894549746808426
+    }
+  ],
+  "sample_count": 6160,
+  "features": [
+    "availability_lag1",
+    "availability_lag2",
+    "availability_lag3",
+    "last_age",
+    "last_age_squared",
+    "last_mpg",
+    "availability_sd3"
+  ],
+  "fit_on_all_observed_data_intercept": 0.7183478753323719,
+  "standardized_feature_coefficients": {
+    "availability_lag1": 0.07537388873399747,
+    "availability_lag2": 0.030396638603470895,
+    "availability_lag3": 0.02114442144281633,
+    "last_age": 0.0628412644887574,
+    "last_age_squared": -0.09302581671541402,
+    "last_mpg": 0.05589549256298587,
+    "availability_sd3": 0.025041364841157293
+  },
+  "feature_mean": [
+    0.7702184971348064,
+    0.7891184381029266,
+    0.7827573621869763,
+    28.30551948051948,
+    815.8038961038961,
+    24.56684771516284,
+    0.12395757578094763
+  ],
+  "feature_sd": [
+    0.23215872625398273,
+    0.22198683834625513,
+    0.23229029079173844,
+    3.821186077885843,
+    223.84107415380325,
+    8.895794302579617,
+    0.09376900710206044
+  ],
+  "pooled_holdout": {
+    "lag1": {
+      "n": 908,
+      "mae_gp_equivalent": 16.63215859030837,
+      "rmse_gp_equivalent": 22.13131614217785,
+      "bias_gp_equivalent": 4.295154185022026
+    },
+    "mean3": {
+      "n": 908,
+      "mae_gp_equivalent": 16.26821259585577,
+      "rmse_gp_equivalent": 21.3920026547629,
+      "bias_gp_equivalent": 4.815100342633382
+    },
+    "ridge": {
+      "n": 908,
+      "mae_gp_equivalent": 14.868741929312714,
+      "rmse_gp_equivalent": 19.099954351026348,
+      "bias_gp_equivalent": 2.4450917658663025
+    }
+  },
+  "limitations": [
+    "Conditional on appearing in the target season and three preceding consecutive seasons.",
+    "No injury, rest, NBA-exit, rookie or current-roster features.",
+    "All windows touching 2019-20 excluded; shortened uniform schedules normalized.",
+    "GP capped at schedule denominator for traded players; not exact individual opportunity.",
+    "No calibrated uncertainty intervals; not a final injury-aware forecast.",
+    "Feature coefficients are predictive associations, not causal weights."
+  ]
+}

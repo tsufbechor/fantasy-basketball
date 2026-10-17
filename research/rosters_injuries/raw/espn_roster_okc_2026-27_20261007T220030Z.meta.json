@@ -1,0 +1,11 @@
+{
+  "retrieved_at_utc": "2026-10-07T22:00:30+00:00",
+  "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/teams/okc/roster?season=2027",
+  "http_status": 200,
+  "sha256": "e0fa89e3b4b01395da3fde36b5aaf68602bf090aced07dc9335d203d9f1f8e7e",
+  "season_id": 2027,
+  "source_timestamp": "2026-10-07T22:00:23Z",
+  "team_id": "25",
+  "team_abbreviation": "OKC",
+  "player_count": 21
+}

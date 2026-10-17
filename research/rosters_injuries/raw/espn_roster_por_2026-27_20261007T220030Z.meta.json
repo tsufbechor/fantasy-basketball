@@ -1,0 +1,11 @@
+{
+  "retrieved_at_utc": "2026-10-07T22:00:30+00:00",
+  "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/teams/por/roster?season=2027",
+  "http_status": 200,
+  "sha256": "338c13cc5092468081b04712d69240e9dd604830094bb2e3b46452b296e6aa35",
+  "season_id": 2027,
+  "source_timestamp": "2026-10-07T22:00:27Z",
+  "team_id": "22",
+  "team_abbreviation": "POR",
+  "player_count": 18
+}

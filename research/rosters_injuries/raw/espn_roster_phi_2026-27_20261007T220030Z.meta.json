@@ -1,0 +1,11 @@
+{
+  "retrieved_at_utc": "2026-10-07T22:00:30+00:00",
+  "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/teams/phi/roster?season=2027",
+  "http_status": 200,
+  "sha256": "c80a8398b2ca6ada9ea0337cdde4cf39cc2d81363728ccbd9e8d6b569ce1e26a",
+  "season_id": 2027,
+  "source_timestamp": "2026-10-07T22:00:24Z",
+  "team_id": "20",
+  "team_abbreviation": "PHI",
+  "player_count": 21
+}

@@ -1,0 +1,11 @@
+{
+  "retrieved_at_utc": "2026-10-07T22:00:30+00:00",
+  "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/teams/atl/roster?season=2027",
+  "http_status": 200,
+  "sha256": "80ec581612f1fa660788995df136bcc83e39c8bb6b36cc467e1a48da92936571",
+  "season_id": 2027,
+  "source_timestamp": "2026-10-07T22:00:17Z",
+  "team_id": "1",
+  "team_abbreviation": "ATL",
+  "player_count": 20
+}

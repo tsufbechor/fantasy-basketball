@@ -1,0 +1,11 @@
+{
+  "retrieved_at_utc": "2026-10-07T22:00:30+00:00",
+  "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/teams/den/roster?season=2027",
+  "http_status": 200,
+  "sha256": "4326dc6cdab6d463b7ead72a47bfa11d0ea6cd56634f63e3c97f56147d264e13",
+  "season_id": 2027,
+  "source_timestamp": "2026-10-07T21:59:39Z",
+  "team_id": "7",
+  "team_abbreviation": "DEN",
+  "player_count": 21
+}

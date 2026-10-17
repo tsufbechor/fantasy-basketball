@@ -1,0 +1,102 @@
+team_abbreviation,team_name,player_id,player_name,status,event_date_utc,injury_type,injury_location,injury_detail,return_date,fantasy_status,news_source,season_id,feed_source_timestamp
+ATL,Atlanta Hawks,4397183,Aaron Wiggins,Day-To-Day,2026-10-06T00:29Z,Lips,Head,Laceration,2026-10-08,GTD,basic/manual,2027,2026-10-07T22:00:29Z
+ATL,Atlanta Hawks,4397020,Luguentz Dort,Day-To-Day,2026-10-05T21:17Z,Knee,Leg,Bruise,2026-10-08,GTD,basic/manual,2027,2026-10-07T22:00:29Z
+ATL,Atlanta Hawks,2490149,CJ McCollum,Day-To-Day,2026-10-05T21:16Z,Nose,Head,Bruise,2026-10-08,GTD,basic/manual,2027,2026-10-07T22:00:29Z
+ATL,Atlanta Hawks,5105571,Henri Veesaar,Out,2026-09-21T19:50Z,Knee,Leg,,2027-07-01,OFS,basic/manual,2027,2026-10-07T22:00:29Z
+ATL,Atlanta Hawks,4712863,Mouhamed Gueye,Day-To-Day,2026-07-19T00:14Z,Foot,Leg,Fracture,2026-10-21,GTD,basic/manual,2027,2026-10-07T22:00:29Z
+BKN,Brooklyn Nets,4870564,Joshua Jefferson,Day-To-Day,2026-10-05T16:55Z,Back,Torso,,2026-10-08,GTD,basic/manual,2027,2026-10-07T22:00:29Z
+BKN,Brooklyn Nets,5101761,Mikel Brown Jr.,Day-To-Day,2026-10-05T16:51Z,Ankle,Leg,,2026-10-08,GTD,basic/manual,2027,2026-10-07T22:00:29Z
+CHA,Charlotte Hornets,4433287,Brandon Miller,Day-To-Day,2026-10-06T21:21Z,Leg,Leg,Bruise,2026-10-11,GTD,basic/manual,2027,2026-10-07T22:00:29Z
+CHA,Charlotte Hornets,5060701,Christian Anderson,Day-To-Day,2026-10-06T21:16Z,Ankle,Leg,Sprain,2026-10-11,GTD,basic/manual,2027,2026-10-07T22:00:29Z
+CHA,Charlotte Hornets,4684269,Kylan Boswell,Day-To-Day,2026-10-05T21:28Z,Knee,Leg,,2026-10-21,GTD,basic/manual,2027,2026-10-07T22:00:29Z
+CHA,Charlotte Hornets,4395651,Coby White,Day-To-Day,2026-10-05T20:56Z,Calf,Leg,Strain,2026-10-21,GTD,basic/manual,2027,2026-10-07T22:00:29Z
+CHA,Charlotte Hornets,5061575,Kon Knueppel,Day-To-Day,2026-09-28T14:25Z,Hamstring,Leg,,2026-10-21,GTD,basic/manual,2027,2026-10-07T22:00:29Z
+CHA,Charlotte Hornets,4066218,Grant Williams,Day-To-Day,2026-09-25T23:03Z,Hamstring,Leg,,2026-10-21,GTD,basic/manual,2027,2026-10-07T22:00:29Z
+CHI,Chicago Bulls,4066650,Zach Collins,Day-To-Day,2026-10-06T17:37Z,Toe,Leg,Surgery,2026-10-07,GTD,basic/manual,2027,2026-10-07T22:00:29Z
+CHI,Chicago Bulls,4278067,Nic Claxton,Day-To-Day,2026-10-05T18:00Z,Hamstring,Leg,,2026-10-21,GTD,basic/manual,2027,2026-10-07T22:00:29Z
+DEN,Denver Nuggets,4576087,Peyton Watson,Day-To-Day,2026-09-25T22:58Z,Hamstring,Leg,Strain,2026-10-08,GTD,basic/manual,2027,2026-10-07T22:00:29Z
+DAL,Dallas Mavericks,4873153,Morez Johnson Jr.,Day-To-Day,2026-10-07T20:58Z,Lower Leg,Leg,Soreness,2026-10-09,GTD,basic/manual,2027,2026-10-07T22:00:29Z
+MEM,Memphis Grizzlies,4593125,Santi Aldama,Day-To-Day,2026-09-26T18:15Z,Undisclosed,Other,,2026-10-09,GTD,basic/manual,2027,2026-10-07T22:00:29Z
+DAL,Dallas Mavericks,4683688,Dereck Lively II,Day-To-Day,2026-09-25T15:34Z,Foot,Leg,Surgery,2026-10-09,GTD,basic/manual,2027,2026-10-07T22:00:29Z
+DEN,Denver Nuggets,4592427,Spencer Jones,Day-To-Day,2026-10-07T04:17Z,Hamstring,Leg,,2026-10-11,GTD,basic/manual,2027,2026-10-07T22:00:29Z
+DET,Detroit Pistons,4433621,Jalen Duren,Day-To-Day,2026-10-07T18:57Z,Rest,Other,,2026-10-10,GTD,basic/manual,2027,2026-10-07T22:00:29Z
+GS,Golden State Warriors,3213,Al Horford,Day-To-Day,2026-10-07T20:40Z,Rest,Other,,2026-10-10,GTD,basic/manual,2027,2026-10-07T22:00:29Z
+GS,Golden State Warriors,4997536,Gui Santos,Day-To-Day,2026-10-07T14:45Z,Rest,Other,,2026-10-10,GTD,basic/manual,2027,2026-10-07T22:00:29Z
+GS,Golden State Warriors,4709138,Brandin Podziemski,Day-To-Day,2026-10-07T14:43Z,Rest,Other,,2026-10-10,GTD,basic/manual,2027,2026-10-07T22:00:29Z
+GS,Golden State Warriors,3134903,Gary Payton II,Day-To-Day,2026-10-07T14:42Z,Rest,Other,,2026-10-10,GTD,basic/manual,2027,2026-10-07T22:00:29Z
+GS,Golden State Warriors,2990969,Georges Niang,Day-To-Day,2026-10-07T14:40Z,Rest,Other,,2026-10-10,GTD,basic/manual,2027,2026-10-07T22:00:29Z
+GS,Golden State Warriors,4066436,De'Anthony Melton,Day-To-Day,2026-10-07T14:38Z,Rest,Other,,2026-10-10,GTD,basic/manual,2027,2026-10-07T22:00:29Z
+GS,Golden State Warriors,5175737,Yaxel Lendeborg,Day-To-Day,2026-10-07T14:21Z,Rest,Other,,2026-10-10,GTD,basic/manual,2027,2026-10-07T22:00:29Z
+GS,Golden State Warriors,3975,Stephen Curry,Day-To-Day,2026-10-07T13:20Z,Rest,Other,,2026-10-10,GTD,basic/manual,2027,2026-10-07T22:00:29Z
+GS,Golden State Warriors,6589,Draymond Green,Day-To-Day,2026-10-07T04:48Z,Rest,Other,,2026-10-10,GTD,basic/manual,2027,2026-10-07T22:00:29Z
+GS,Golden State Warriors,3102531,Kristaps Porzingis,Day-To-Day,2026-10-06T20:04Z,Undisclosed,Other,,2026-10-21,GTD,basic/manual,2027,2026-10-07T22:00:29Z
+GS,Golden State Warriors,6430,Jimmy Butler III,Out,2026-10-02T18:48Z,Knee,Leg,Surgery,2027-01-02,OUT,basic/manual,2027,2026-10-07T22:00:29Z
+GS,Golden State Warriors,4432171,Moses Moody,Out,2026-09-28T15:06Z,Knee,Leg,Surgery,2026-12-01,OUT,basic/manual,2027,2026-10-07T22:00:29Z
+IND,Indiana Pacers,4592829,Quenton Jackson,Day-To-Day,2026-10-04T15:25Z,Undisclosed,Other,,2026-10-07,GTD,basic/manual,2027,2026-10-07T22:00:29Z
+IND,Indiana Pacers,2530530,T.J. McConnell,Day-To-Day,2026-10-04T15:21Z,Undisclosed,Other,,2026-10-07,GTD,basic/manual,2027,2026-10-07T22:00:29Z
+IND,Indiana Pacers,2580365,Larry Nance Jr.,Day-To-Day,2026-10-04T15:17Z,Hamstring,Leg,,2026-10-07,GTD,basic/manual,2027,2026-10-07T22:00:29Z
+IND,Indiana Pacers,5157066,Johnny Furphy,Out,2026-02-09T21:43Z,Knee,Leg,Surgery,2027-01-01,OUT,basic/manual,2027,2026-10-07T22:00:29Z
+LAC,LA Clippers,4702352,Kobe Sanders,Day-To-Day,2026-10-07T20:42Z,Hip,Torso,,2026-10-10,GTD,basic/manual,2027,2026-10-07T22:00:29Z
+LAC,LA Clippers,6580,Bradley Beal,Day-To-Day,2026-10-07T20:35Z,Knee,Leg,Inflammation,2026-10-10,GTD,basic/manual,2027,2026-10-07T22:00:29Z
+LAC,LA Clippers,4065778,Max Strus,Out,2026-10-05T22:21Z,Foot,Leg,,2026-11-02,OUT,basic/manual,2027,2026-10-07T22:00:29Z
+LAC,LA Clippers,5108024,Yanic Konan Niederhauser,Out,2026-09-28T18:07Z,Foot,Leg,Surgery,2026-11-01,OUT,basic/manual,2027,2026-10-07T22:00:29Z
+TOR,Toronto Raptors,3913176,Brandon Ingram,Out,2026-09-28T18:01Z,Achilles,Leg,Surgery,2026-11-01,OUT,basic/manual,2027,2026-10-07T22:00:29Z
+LAC,LA Clippers,4396818,Jordan Miller,Out,2026-08-26T20:04Z,Shoulder,Arm,Surgery,2027-03-01,OUT,basic/manual,2027,2026-10-07T22:00:29Z
+LAL,Los Angeles Lakers,4433599,Arthur Kaluma,Day-To-Day,2026-10-07T01:03Z,Lower Body,,Not Specified,2026-10-08,GTD,basic/manual,2027,2026-10-07T22:00:29Z
+LAL,Los Angeles Lakers,4277811,Collin Sexton,Day-To-Day,2026-10-07T00:59Z,Lower Body,,,2026-10-08,GTD,basic/manual,2027,2026-10-07T22:00:29Z
+LAL,Los Angeles Lakers,4433137,Ziaire Williams,Day-To-Day,2026-10-07T00:55Z,Rest,Other,,2026-10-08,GTD,basic/manual,2027,2026-10-07T22:00:29Z
+LAL,Los Angeles Lakers,4433136,Walker Kessler,Day-To-Day,2026-10-07T00:55Z,Finger,Arm,,2026-10-08,GTD,basic/manual,2027,2026-10-07T22:00:29Z
+LAL,Los Angeles Lakers,3945274,Luka Doncic,Day-To-Day,2026-10-07T00:55Z,Undisclosed,Other,,2026-10-08,GTD,basic/manual,2027,2026-10-07T22:00:29Z
+LAL,Los Angeles Lakers,3907498,Matisse Thybulle,Day-To-Day,2026-10-07T00:54Z,Rest,Other,,2026-10-08,GTD,basic/manual,2027,2026-10-07T22:00:29Z
+LAL,Los Angeles Lakers,4066457,Austin Reaves,Day-To-Day,2026-10-07T00:53Z,Ankle,Leg,Not Specified,2026-10-08,GTD,basic/manual,2027,2026-10-07T22:00:29Z
+MEM,Memphis Grizzlies,4432185,Micah Peavy,Day-To-Day,2026-10-06T02:01Z,Ankle,Leg,,2026-10-07,GTD,basic/manual,2027,2026-10-07T22:00:29Z
+MEM,Memphis Grizzlies,4432810,Isaiah Stewart,Day-To-Day,2026-10-06T01:58Z,Ankle,Leg,,2026-10-07,GTD,basic/manual,2027,2026-10-07T22:00:29Z
+MEM,Memphis Grizzlies,4600663,Zach Edey,Day-To-Day,2026-10-05T23:03Z,Ankle,Leg,Surgery,2026-10-07,GTD,basic/manual,2027,2026-10-07T22:00:29Z
+MIA,Miami Heat,4431786,Keshad Johnson,Out,2026-10-07T18:04Z,Hamstring,Leg,,2026-10-26,OUT,basic/manual,2027,2026-10-07T22:00:29Z
+MIA,Miami Heat,4601025,Pelle Larsson,Day-To-Day,2026-10-07T18:01Z,Illness,Other,,2026-10-08,GTD,basic/manual,2027,2026-10-07T22:00:29Z
+MIA,Miami Heat,3059319,Andrew Wiggins,Day-To-Day,2026-10-07T18:01Z,Illness,Other,,2026-10-08,GTD,basic/manual,2027,2026-10-07T22:00:29Z
+MIA,Miami Heat,4066993,Dru Smith,Day-To-Day,2026-10-01T16:15Z,Calf,Leg,Strain,2026-10-16,GTD,basic/manual,2027,2026-10-07T22:00:29Z
+MIN,Minnesota Timberwolves,3934673,Donte DiVincenzo,Out,2026-10-05T20:53Z,Achilles,Leg,Surgery,2027-04-01,OUT,basic/manual,2027,2026-10-07T22:00:29Z
+NY,New York Knicks,4277869,Jose Alvarado,Day-To-Day,2026-10-05T21:45Z,Knee,Leg,Bruise,2026-10-08,GTD,basic/manual,2027,2026-10-07T22:00:29Z
+OKC,Oklahoma City Thunder,4432823,Jaylin Williams,Day-To-Day,2026-10-06T22:13Z,Heel,Leg,,2026-10-07,GTD,basic/manual,2027,2026-10-07T22:00:29Z
+OKC,Oklahoma City Thunder,5061603,Thomas Sorber,Day-To-Day,2026-10-05T17:52Z,Knee,Leg,Surgery,2026-10-07,GTD,basic/manual,2027,2026-10-07T22:00:29Z
+OKC,Oklahoma City Thunder,5159925,Nikola Topic,Day-To-Day,2026-10-05T17:51Z,Back,Torso,Surgery,2026-10-07,GTD,basic/manual,2027,2026-10-07T22:00:29Z
+OKC,Oklahoma City Thunder,4683692,Cason Wallace,Day-To-Day,2026-10-05T17:47Z,Rest,Other,,2026-10-07,GTD,basic/manual,2027,2026-10-07T22:00:29Z
+OKC,Oklahoma City Thunder,2991350,Alex Caruso,Day-To-Day,2026-10-05T17:46Z,Rest,Other,,2026-10-07,GTD,basic/manual,2027,2026-10-07T22:00:29Z
+OKC,Oklahoma City Thunder,4433255,Chet Holmgren,Day-To-Day,2026-10-05T17:45Z,Rest,Other,,2026-10-07,GTD,basic/manual,2027,2026-10-07T22:00:29Z
+OKC,Oklahoma City Thunder,4222252,Isaiah Hartenstein,Day-To-Day,2026-10-05T17:43Z,Rest,Other,,2026-10-07,GTD,basic/manual,2027,2026-10-07T22:00:29Z
+OKC,Oklahoma City Thunder,4593803,Jalen Williams,Day-To-Day,2026-10-05T17:41Z,Not Injury Related,,,2026-10-07,GTD,basic/manual,2027,2026-10-07T22:00:29Z
+OKC,Oklahoma City Thunder,4278073,Shai Gilgeous-Alexander,Day-To-Day,2026-10-05T17:40Z,Not Injury Related,,,2026-10-07,GTD,basic/manual,2027,2026-10-07T22:00:29Z
+ORL,Orlando Magic,4432165,Jalen Suggs,Day-To-Day,2026-10-06T15:56Z,Illness,Other,,2026-10-07,GTD,basic/manual,2027,2026-10-07T22:00:29Z
+ORL,Orlando Magic,4065654,Jonathan Isaac,Day-To-Day,2026-10-06T15:42Z,Knee,Leg,Sprain,2026-10-11,GTD,basic/manual,2027,2026-10-07T22:00:29Z
+ORL,Orlando Magic,5214637,Noah Penda,Day-To-Day,2026-10-04T16:34Z,Hamstring,Leg,,2026-10-07,GTD,basic/manual,2027,2026-10-07T22:00:29Z
+ORL,Orlando Magic,4712849,Anthony Black,Day-To-Day,2026-10-04T16:29Z,Ankle,Leg,Sprain,2026-10-07,GTD,basic/manual,2027,2026-10-07T22:00:29Z
+ORL,Orlando Magic,5107251,Izaiyah Nelson,Out,2026-09-28T21:33Z,Ankle,Leg,Surgery,2026-11-01,GTD,basic/manual,2027,2026-10-07T22:00:29Z
+PHI,Philadelphia 76ers,4870562,Dominick Barlow,Day-To-Day,2026-10-07T17:04Z,Back,Torso,,2026-10-16,GTD,basic/manual,2027,2026-10-07T22:00:29Z
+PHI,Philadelphia 76ers,4351851,Anfernee Simons,Day-To-Day,2026-10-07T17:00Z,Undisclosed,Other,,2026-10-16,GTD,basic/manual,2027,2026-10-07T22:00:29Z
+PHI,Philadelphia 76ers,5105637,Adem Bona,Day-To-Day,2026-10-07T16:56Z,Foot,Leg,Sprain,2026-10-16,GTD,basic/manual,2027,2026-10-07T22:00:29Z
+PHI,Philadelphia 76ers,4871141,Ariel Hukporti,Out,2026-10-06T19:17Z,Achilles,Leg,Ruptured,2027-10-01,OUT,basic/manual,2027,2026-10-07T22:00:29Z
+PHI,Philadelphia 76ers,4431678,Tyrese Maxey,Day-To-Day,2026-10-05T17:54Z,Rest,Other,,2026-10-08,GTD,basic/manual,2027,2026-10-07T22:00:29Z
+PHI,Philadelphia 76ers,1966,LeBron James,Day-To-Day,2026-10-05T17:52Z,Rest,Other,,2026-10-08,GTD,basic/manual,2027,2026-10-07T22:00:29Z
+PHI,Philadelphia 76ers,3059318,Joel Embiid,Day-To-Day,2026-10-05T17:49Z,Rest,Other,,2026-10-08,GTD,basic/manual,2027,2026-10-07T22:00:29Z
+PHI,Philadelphia 76ers,3904625,Tacko Fall,Day-To-Day,2026-10-01T22:07Z,Hip,Torso,,2026-10-16,GTD,basic/manual,2027,2026-10-07T22:00:29Z
+PHX,Phoenix Suns,4701232,Mark Williams,Out,2026-09-11T16:03Z,Shoulder,Arm,Surgery,2027-02-03,OUT,basic/manual,2027,2026-10-07T22:00:29Z
+POR,Portland Trail Blazers,4914336,Shaedon Sharpe,Out,2026-08-24T20:23Z,Knee,Leg,Surgery,2027-03-02,OUT,basic/manual,2027,2026-10-07T22:00:29Z
+SAC,Sacramento Kings,4594327,Keegan Murray,Day-To-Day,2026-10-06T01:08Z,Undisclosed,Other,,2026-10-08,GTD,basic/manual,2027,2026-10-07T22:00:29Z
+SAC,Sacramento Kings,4066262,Malik Monk,Day-To-Day,2026-10-06T01:06Z,Rest,Other,,2026-10-08,GTD,basic/manual,2027,2026-10-07T22:00:29Z
+SAC,Sacramento Kings,3907387,Ben Simmons,Day-To-Day,2026-10-06T01:05Z,Undisclosed,Other,,2026-10-08,GTD,basic/manual,2027,2026-10-07T22:00:29Z
+SA,San Antonio Spurs,5101845,Jayden Quaintance,Out,2026-10-05T21:43Z,Knee,Leg,Surgery,2026-12-01,OUT,basic/manual,2027,2026-10-07T22:00:29Z
+SA,San Antonio Spurs,6440,Tobias Harris,Day-To-Day,2026-10-05T01:27Z,Calf,Leg,Strain,2026-10-20,GTD,basic/manual,2027,2026-10-07T22:00:29Z
+SA,San Antonio Spurs,4713010,David Jones Garcia,Day-To-Day,2026-07-22T19:16Z,Ankle,Leg,Surgery,2026-10-08,GTD,basic/manual,2027,2026-10-07T22:00:29Z
+TOR,Toronto Raptors,4431684,Trayce Jackson-Davis,Day-To-Day,2026-10-06T16:35Z,Head,Head,,2026-10-10,GTD,basic/manual,2027,2026-10-07T22:00:29Z
+TOR,Toronto Raptors,4431893,Jamison Battle,Day-To-Day,2026-10-05T20:19Z,Back,Torso,Not Specified,2026-10-10,GTD,basic/manual,2027,2026-10-07T22:00:29Z
+TOR,Toronto Raptors,5149115,Allen Graves,Day-To-Day,2026-10-05T20:15Z,Groin,Groin,Not Specified,2026-10-10,GTD,basic/manual,2027,2026-10-07T22:00:29Z
+TOR,Toronto Raptors,6450,Kawhi Leonard,Day-To-Day,2026-10-05T18:19Z,Not Injury Related,,,2026-10-10,GTD,basic/manual,2027,2026-10-07T22:00:29Z
+TOR,Toronto Raptors,4432586,Nate Bittle,Day-To-Day,2026-10-04T02:56Z,Foot,Leg,,2026-10-10,GTD,basic/manual,2027,2026-10-07T22:00:29Z
+UTAH,Utah Jazz,4066336,Lauri Markkanen,Day-To-Day,2026-10-07T00:50Z,Neck,Head,Soreness,2026-10-12,GTD,basic/manual,2027,2026-10-07T22:00:29Z
+UTAH,Utah Jazz,5105839,Brice Sensabaugh,Day-To-Day,2026-10-07T00:28Z,Hip,Torso,,2026-10-12,GTD,basic/manual,2027,2026-10-07T22:00:29Z
+UTAH,Utah Jazz,3102530,Jusuf Nurkic,Day-To-Day,2026-10-07T00:23Z,Foot,Leg,,2026-10-12,GTD,basic/manual,2027,2026-10-07T22:00:29Z
+UTAH,Utah Jazz,4684793,Kyle Filipowski,Day-To-Day,2026-10-07T00:22Z,Back,Torso,,2026-10-12,GTD,basic/manual,2027,2026-10-07T22:00:29Z
+WSH,Washington Wizards,5160992,Alex Sarr,Day-To-Day,2026-10-05T21:10Z,Foot,Leg,Surgery,2026-10-08,GTD,basic/manual,2027,2026-10-07T22:00:29Z
+WSH,Washington Wizards,4997537,Tristan Vukcevic,Out,2026-10-01T19:11Z,Hip,Torso,,2026-11-02,OUT,basic/manual,2027,2026-10-07T22:00:29Z
+WSH,Washington Wizards,4606840,Jamir Watkins,Out,2026-07-30T20:11Z,Knee,Leg,,2027-04-01,OUT,basic/manual,2027,2026-10-07T22:00:29Z

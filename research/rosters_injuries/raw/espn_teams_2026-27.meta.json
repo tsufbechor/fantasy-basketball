@@ -1,0 +1,8 @@
+{
+  "retrieved_at_utc": "2026-10-07T21:59:37+00:00",
+  "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/teams?limit=1000",
+  "http_status": 200,
+  "sha256": "9133e21f5de866c269df1d9e6e49bf20cf84b9e856313cabfbdb4e1845895e99",
+  "season_id": 2027,
+  "team_count": 30
+}

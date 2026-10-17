@@ -1,0 +1,342 @@
+{
+  "id": 9490871,
+  "gameId": 3,
+  "seasonId": 2027,
+  "segmentId": 0,
+  "scoringPeriodId": 0,
+  "draftDetail": {
+    "drafted": false,
+    "inProgress": false
+  },
+  "settings": {
+    "acquisitionSettings": {
+      "acquisitionBudget": 100,
+      "acquisitionLimit": -1,
+      "acquisitionType": "FREEAGENCY",
+      "finalPlaceTransactionEligible": 0,
+      "isUsingAcquisitionBudget": false,
+      "matchupAcquisitionLimit": 0.2857142857142857,
+      "matchupLimitPerScoringPeriod": true,
+      "minimumBid": 1,
+      "transactionLockingEnabled": false,
+      "waiverHours": 24,
+      "waiverOrderReset": false,
+      "waiverProcessDays": [
+        "SUNDAY"
+      ],
+      "waiverProcessHour": 8
+    },
+    "draftSettings": {
+      "auctionBudget": 200,
+      "isTradingEnabled": true,
+      "keeperCount": 0,
+      "keeperCountFuture": 0,
+      "keeperOrderType": "TRADITIONAL",
+      "leagueSubType": "NONE",
+      "orderType": "MANUAL",
+      "pickOrder": [
+        3,
+        8,
+        12,
+        4,
+        1,
+        11,
+        2,
+        5,
+        9,
+        7,
+        6,
+        10
+      ],
+      "timePerSelection": 90,
+      "type": "SNAKE"
+    },
+    "financeSettings": {
+      "entryFee": 0.0,
+      "miscFee": 0.0,
+      "perLoss": 0.0,
+      "perTrade": 0.0,
+      "playerAcquisition": 0.0,
+      "playerDrop": 0.0,
+      "playerMoveToActive": 0.0,
+      "playerMoveToIR": 0.0
+    },
+    "isAutoReactivate": false,
+    "isCustomizable": true,
+    "isPublic": true,
+    "name": "NBA Fantasy Matan",
+    "restrictionType": "NONE",
+    "rosterSettings": {
+      "autoPilotTypeSupported": "NONE",
+      "isBenchUnlimited": true,
+      "isUsingUndroppableList": false,
+      "lineupLocktimeType": "INDIVIDUAL_GAME",
+      "lineupSlotCounts": {
+        "0": 1,
+        "1": 1,
+        "2": 1,
+        "3": 1,
+        "4": 1,
+        "5": 1,
+        "6": 1,
+        "7": 0,
+        "8": 0,
+        "9": 1,
+        "10": 0,
+        "11": 4,
+        "12": 6,
+        "13": 2,
+        "14": 0
+      },
+      "lineupSlotStatLimits": {},
+      "moveLimit": -1,
+      "positionLimits": {
+        "0": 0,
+        "1": -1,
+        "2": -1,
+        "3": -1,
+        "4": -1,
+        "5": -1
+      },
+      "rosterLocktimeType": "FIRSTGAME_SCORINGPERIOD",
+      "universeIds": [
+        0
+      ]
+    },
+    "scheduleSettings": {
+      "consolationLadderDisabled": false,
+      "divisions": [
+        {
+          "id": 0,
+          "name": "Division 1",
+          "size": 12
+        }
+      ],
+      "matchupPeriodCount": 19,
+      "matchupPeriodLength": 1,
+      "matchupPeriods": {
+        "1": [
+          1
+        ],
+        "2": [
+          2
+        ],
+        "3": [
+          3
+        ],
+        "4": [
+          4
+        ],
+        "5": [
+          5
+        ],
+        "6": [
+          6
+        ],
+        "7": [
+          7
+        ],
+        "8": [
+          8
+        ],
+        "9": [
+          9
+        ],
+        "10": [
+          10
+        ],
+        "11": [
+          11
+        ],
+        "12": [
+          12
+        ],
+        "13": [
+          13
+        ],
+        "14": [
+          14
+        ],
+        "15": [
+          15
+        ],
+        "16": [
+          16
+        ],
+        "17": [
+          17
+        ],
+        "18": [
+          18
+        ],
+        "19": [
+          19
+        ],
+        "20": [
+          20
+        ],
+        "21": [
+          21
+        ],
+        "22": [
+          22
+        ]
+      },
+      "periodTypeId": 2,
+      "playoffMatchupPeriodLength": 1,
+      "playoffReseed": false,
+      "playoffSeedingRule": "H2H_RECORD",
+      "playoffSeedingRuleBy": 0,
+      "playoffTeamCount": 8,
+      "variablePlayoffMatchupPeriodLength": false
+    },
+    "scoringSettings": {
+      "allowOutOfPositionScoring": false,
+      "homeTeamBonus": 0,
+      "matchupTieRule": "HOME_TEAM_WINS",
+      "matchupTieRuleBy": 0,
+      "playerRankType": "ROTO",
+      "playoffHomeTeamBonus": 0,
+      "playoffMatchupTieRule": "NONE",
+      "playoffMatchupTieRuleBy": 0,
+      "scoringItems": [
+        {
+          "isReverseItem": false,
+          "leagueRanking": 0.0,
+          "leagueTotal": 0.0,
+          "points": 1.0,
+          "pointsOverrides": {},
+          "statId": 20
+        },
+        {
+          "isReverseItem": false,
+          "leagueRanking": 0.0,
+          "leagueTotal": 0.0,
+          "points": 1.0,
+          "pointsOverrides": {},
+          "statId": 6
+        },
+        {
+          "isReverseItem": false,
+          "leagueRanking": 0.0,
+          "leagueTotal": 0.0,
+          "points": 1.0,
+          "pointsOverrides": {},
+          "statId": 0
+        },
+        {
+          "isReverseItem": false,
+          "leagueRanking": 0.0,
+          "leagueTotal": 0.0,
+          "points": 1.0,
+          "pointsOverrides": {},
+          "statId": 1
+        },
+        {
+          "isReverseItem": false,
+          "leagueRanking": 0.0,
+          "leagueTotal": 0.0,
+          "points": 1.0,
+          "pointsOverrides": {},
+          "statId": 17
+        },
+        {
+          "isReverseItem": false,
+          "leagueRanking": 0.0,
+          "leagueTotal": 0.0,
+          "points": 1.0,
+          "pointsOverrides": {},
+          "statId": 2
+        },
+        {
+          "isReverseItem": false,
+          "leagueRanking": 0.0,
+          "leagueTotal": 0.0,
+          "points": 1.0,
+          "pointsOverrides": {},
+          "statId": 3
+        },
+        {
+          "isReverseItem": false,
+          "leagueRanking": 0.0,
+          "leagueTotal": 0.0,
+          "points": 1.0,
+          "pointsOverrides": {},
+          "statId": 19
+        }
+      ],
+      "scoringType": "H2H_CATEGORY"
+    },
+    "size": 12,
+    "tradeSettings": {
+      "allowOutOfUniverse": false,
+      "deadlineDate": 1806055200000,
+      "max": -1,
+      "revisionHours": 0,
+      "vetoVotesRequired": 0
+    }
+  },
+  "teams": [
+    {
+      "id": 1,
+      "name": "Los Angeles Lakers",
+      "abbrev": "LAL"
+    },
+    {
+      "id": 2,
+      "name": "THE JEWS",
+      "abbrev": "JEW"
+    },
+    {
+      "id": 3,
+      "name": "The Shpiglers ",
+      "abbrev": "TPT"
+    },
+    {
+      "id": 4,
+      "name": "Wade Nation",
+      "abbrev": "LLT"
+    },
+    {
+      "id": 5,
+      "name": "TEAM No Name",
+      "abbrev": "EBO"
+    },
+    {
+      "id": 6,
+      "name": "Shark's Squad",
+      "abbrev": "SHA"
+    },
+    {
+      "id": 7,
+      "name": "Nico Susu",
+      "abbrev": "SULt"
+    },
+    {
+      "id": 8,
+      "name": "Team Stoli Bond Bondi Stoli",
+      "abbrev": "STOL"
+    },
+    {
+      "id": 9,
+      "name": "Bnei Metula",
+      "abbrev": "BMT"
+    },
+    {
+      "id": 10,
+      "name": "Kfar Saba Invaders",
+      "abbrev": "KFS"
+    },
+    {
+      "id": 11,
+      "name": "The Bingo",
+      "abbrev": "NIV"
+    },
+    {
+      "id": 12,
+      "name": "Returned",
+      "abbrev": "Retu"
+    }
+  ],
+  "source_url": "https://lm-api-reads.fantasy.espn.com/apis/v3/games/fba/seasons/2027/segments/0/leagues/9490871?view=mSettings&view=mTeam"
+}

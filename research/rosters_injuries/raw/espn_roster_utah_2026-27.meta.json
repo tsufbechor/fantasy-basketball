@@ -1,0 +1,11 @@
+{
+  "retrieved_at_utc": "2026-10-07T21:59:37+00:00",
+  "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/teams/utah/roster?season=2027",
+  "http_status": 200,
+  "sha256": "2a051f31e6a1eb0ad551ee2b08e7a7900a26205ef3db9fd4dd826e30930955e5",
+  "season_id": 2027,
+  "source_timestamp": "2026-10-07T21:58:37Z",
+  "team_id": "26",
+  "team_abbreviation": "UTAH",
+  "player_count": 20
+}

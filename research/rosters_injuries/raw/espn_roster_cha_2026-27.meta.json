@@ -1,0 +1,11 @@
+{
+  "retrieved_at_utc": "2026-10-07T21:59:37+00:00",
+  "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/teams/cha/roster?season=2027",
+  "http_status": 200,
+  "sha256": "40ee3344b8f303c87d16f0794b1acba924a6d48914ec79e5bb826794df568fd4",
+  "season_id": 2027,
+  "source_timestamp": "2026-10-07T21:58:35Z",
+  "team_id": "30",
+  "team_abbreviation": "CHA",
+  "player_count": 20
+}

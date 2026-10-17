@@ -1,0 +1,121 @@
+{
+  "generated_at": "2026-10-07T22:12:55Z",
+  "count": 5,
+  "records": [
+    {
+      "event_id": "rotowire:nba533473",
+      "source": "RotoWire",
+      "source_item_id": "nba533473",
+      "source_url": "https://www.rotowire.com/basketball/player/jalen-duren-5703",
+      "published_at": "2026-10-07T18:58:00Z",
+      "published_at_source_tz": "Wed, 07 Oct 2026 11:58:00 AM PDT",
+      "fetched_at": "2026-10-07T22:12:55Z",
+      "player_name": "Jalen Duren",
+      "player_match": {
+        "status": "matched",
+        "player_id": "4433621",
+        "team_abbreviation": "DET",
+        "season_id": "2027"
+      },
+      "summary": "Jalen Duren is expected to return during preseason.",
+      "tags": [
+        "return"
+      ],
+      "report_kind": "historical_news_event",
+      "current_status": "not_inferred; verify against a current roster/injury source",
+      "revision_count": 0
+    },
+    {
+      "event_id": "rotowire:nba533471",
+      "source": "RotoWire",
+      "source_item_id": "nba533471",
+      "source_url": "https://www.rotowire.com/basketball/player/andrew-wiggins-3571",
+      "published_at": "2026-10-07T18:02:00Z",
+      "published_at_source_tz": "Wed, 07 Oct 2026 11:02:00 AM PDT",
+      "fetched_at": "2026-10-07T22:12:55Z",
+      "player_name": "Andrew Wiggins",
+      "player_match": {
+        "status": "matched",
+        "player_id": "3059319",
+        "team_abbreviation": "MIA",
+        "season_id": "2027"
+      },
+      "summary": "An illness is reported to be affecting Andrew Wiggins.",
+      "tags": [
+        "injury"
+      ],
+      "report_kind": "historical_news_event",
+      "current_status": "not_inferred; verify against a current roster/injury source",
+      "revision_count": 0
+    },
+    {
+      "event_id": "rotowire:nba533456",
+      "source": "RotoWire",
+      "source_item_id": "nba533456",
+      "source_url": "https://www.rotowire.com/basketball/player/anfernee-simons-4373",
+      "published_at": "2026-10-07T17:00:00Z",
+      "published_at_source_tz": "Wed, 07 Oct 2026 10:00:00 AM PDT",
+      "fetched_at": "2026-10-07T22:12:55Z",
+      "player_name": "Anfernee Simons",
+      "player_match": {
+        "status": "matched",
+        "player_id": "4351851",
+        "team_abbreviation": "PHI",
+        "season_id": "2027"
+      },
+      "summary": "Anfernee Simons is reported unavailable for the next two games.",
+      "tags": [
+        "availability"
+      ],
+      "report_kind": "historical_news_event",
+      "current_status": "not_inferred; verify against a current roster/injury source",
+      "revision_count": 0
+    },
+    {
+      "event_id": "rotowire:nba533435",
+      "source": "RotoWire",
+      "source_item_id": "nba533435",
+      "source_url": "https://www.rotowire.com/basketball/player/yaxel-lendeborg-6562",
+      "published_at": "2026-10-07T14:22:00Z",
+      "published_at_source_tz": "Wed, 07 Oct 2026 7:22:00 AM PDT",
+      "fetched_at": "2026-10-07T22:12:55Z",
+      "player_name": "Yaxel Lendeborg",
+      "player_match": {
+        "status": "matched",
+        "player_id": "5175737",
+        "team_abbreviation": "GS",
+        "season_id": "2027"
+      },
+      "summary": "Yaxel Lendeborg is reported unavailable for an upcoming game.",
+      "tags": [
+        "availability"
+      ],
+      "report_kind": "historical_news_event",
+      "current_status": "not_inferred; verify against a current roster/injury source",
+      "revision_count": 0
+    },
+    {
+      "event_id": "rotowire:nba533416",
+      "source": "RotoWire",
+      "source_item_id": "nba533416",
+      "source_url": "https://www.rotowire.com/basketball/player/brandin-podziemski-5889",
+      "published_at": "2026-10-07T04:44:00Z",
+      "published_at_source_tz": "Tue, 06 Oct 2026 9:44:00 PM PDT",
+      "fetched_at": "2026-10-07T22:12:55Z",
+      "player_name": "Brandin Podziemski",
+      "player_match": {
+        "status": "matched",
+        "player_id": "4709138",
+        "team_abbreviation": "GS",
+        "season_id": "2027"
+      },
+      "summary": "A player-related update for Brandin Podziemski was reported.",
+      "tags": [
+        "general"
+      ],
+      "report_kind": "historical_news_event",
+      "current_status": "not_inferred; verify against a current roster/injury source",
+      "revision_count": 0
+    }
+  ]
+}

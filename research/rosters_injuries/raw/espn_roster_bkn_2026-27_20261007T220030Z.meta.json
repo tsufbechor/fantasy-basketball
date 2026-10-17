@@ -1,0 +1,11 @@
+{
+  "retrieved_at_utc": "2026-10-07T22:00:30+00:00",
+  "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/teams/bkn/roster?season=2027",
+  "http_status": 200,
+  "sha256": "b5193078771f0100a4430369fdc06c03340f78a669ef2368a46f604222ab36ea",
+  "season_id": 2027,
+  "source_timestamp": "2026-10-07T22:00:17Z",
+  "team_id": "17",
+  "team_abbreviation": "BKN",
+  "player_count": 19
+}

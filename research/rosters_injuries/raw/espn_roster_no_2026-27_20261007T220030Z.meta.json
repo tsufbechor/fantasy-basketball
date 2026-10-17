@@ -1,0 +1,11 @@
+{
+  "retrieved_at_utc": "2026-10-07T22:00:30+00:00",
+  "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/teams/no/roster?season=2027",
+  "http_status": 200,
+  "sha256": "fc09adc787ccb744098bfd959b525bb7b3c331062199976d557617c5da645008",
+  "season_id": 2027,
+  "source_timestamp": "2026-10-07T22:00:23Z",
+  "team_id": "3",
+  "team_abbreviation": "NO",
+  "player_count": 21
+}

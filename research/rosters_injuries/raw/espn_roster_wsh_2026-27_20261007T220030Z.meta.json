@@ -1,0 +1,11 @@
+{
+  "retrieved_at_utc": "2026-10-07T22:00:30+00:00",
+  "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/teams/wsh/roster?season=2027",
+  "http_status": 200,
+  "sha256": "5129cc99bacca3f83dfc9b2481e55098dfae95c21064c878c819240f2556bf35",
+  "season_id": 2027,
+  "source_timestamp": "2026-10-07T22:00:28Z",
+  "team_id": "27",
+  "team_abbreviation": "WSH",
+  "player_count": 21
+}

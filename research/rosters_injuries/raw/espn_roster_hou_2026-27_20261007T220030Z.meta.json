@@ -1,0 +1,11 @@
+{
+  "retrieved_at_utc": "2026-10-07T22:00:30+00:00",
+  "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/teams/hou/roster?season=2027",
+  "http_status": 200,
+  "sha256": "41fce8436c8f6f83c5409d814e8806cf40e1f4570027e8282d542b1d23646bdd",
+  "season_id": 2027,
+  "source_timestamp": "2026-10-07T22:00:19Z",
+  "team_id": "10",
+  "team_abbreviation": "HOU",
+  "player_count": 18
+}

@@ -1,0 +1,11 @@
+{
+  "retrieved_at_utc": "2026-10-07T21:59:37+00:00",
+  "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/teams/det/roster?season=2027",
+  "http_status": 200,
+  "sha256": "7648a7157c54d3d72220cf599b0a84053cdb433b6f33b7fdb27928cfaed5ab8d",
+  "season_id": 2027,
+  "source_timestamp": "2026-10-07T21:58:36Z",
+  "team_id": "8",
+  "team_abbreviation": "DET",
+  "player_count": 19
+}

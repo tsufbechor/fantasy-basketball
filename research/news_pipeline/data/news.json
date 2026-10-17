@@ -1,0 +1,160 @@
+{
+  "schema_version": 1,
+  "source": "RotoWire",
+  "records": [
+    {
+      "event_id": "rotowire:nba533473",
+      "source": "RotoWire",
+      "source_item_id": "nba533473",
+      "source_url": "https://www.rotowire.com/basketball/player/jalen-duren-5703",
+      "publisher_player_id": "5703",
+      "published_at": "2026-10-07T18:58:00Z",
+      "published_at_source_tz": "Wed, 07 Oct 2026 11:58:00 AM PDT",
+      "fetched_at": "2026-10-07T22:12:55Z",
+      "player_name": "Jalen Duren",
+      "player_name_as_reported": "Jalen Duren",
+      "player_match": {
+        "status": "matched",
+        "player_id": "4433621",
+        "team_abbreviation": "DET",
+        "season_id": "2027"
+      },
+      "summary": "Jalen Duren is expected to return during preseason.",
+      "tags": [
+        "return"
+      ],
+      "report_kind": "historical_news_event",
+      "current_status": "not_inferred; verify against a current roster/injury source",
+      "source_metadata_sha256": "dbff8f78bcb10c0d73841971f5bd599b19a0fe6e408324a446803163a29abf0c",
+      "first_seen_at": "2026-10-07T22:12:28Z",
+      "last_seen_at": "2026-10-07T22:12:55Z",
+      "revision_count": 0,
+      "revisions": []
+    },
+    {
+      "event_id": "rotowire:nba533471",
+      "source": "RotoWire",
+      "source_item_id": "nba533471",
+      "source_url": "https://www.rotowire.com/basketball/player/andrew-wiggins-3571",
+      "publisher_player_id": "3571",
+      "published_at": "2026-10-07T18:02:00Z",
+      "published_at_source_tz": "Wed, 07 Oct 2026 11:02:00 AM PDT",
+      "fetched_at": "2026-10-07T22:12:55Z",
+      "player_name": "Andrew Wiggins",
+      "player_name_as_reported": "Andrew Wiggins",
+      "player_match": {
+        "status": "matched",
+        "player_id": "3059319",
+        "team_abbreviation": "MIA",
+        "season_id": "2027"
+      },
+      "summary": "An illness is reported to be affecting Andrew Wiggins.",
+      "tags": [
+        "injury"
+      ],
+      "report_kind": "historical_news_event",
+      "current_status": "not_inferred; verify against a current roster/injury source",
+      "source_metadata_sha256": "4f50e57f3ccfb1699bedc16eadd8025abecbf1bf1bd736d7fa5468d63aeae9c6",
+      "first_seen_at": "2026-10-07T22:12:28Z",
+      "last_seen_at": "2026-10-07T22:12:55Z",
+      "revision_count": 0,
+      "revisions": []
+    },
+    {
+      "event_id": "rotowire:nba533456",
+      "source": "RotoWire",
+      "source_item_id": "nba533456",
+      "source_url": "https://www.rotowire.com/basketball/player/anfernee-simons-4373",
+      "publisher_player_id": "4373",
+      "published_at": "2026-10-07T17:00:00Z",
+      "published_at_source_tz": "Wed, 07 Oct 2026 10:00:00 AM PDT",
+      "fetched_at": "2026-10-07T22:12:55Z",
+      "player_name": "Anfernee Simons",
+      "player_name_as_reported": "Anfernee Simons",
+      "player_match": {
+        "status": "matched",
+        "player_id": "4351851",
+        "team_abbreviation": "PHI",
+        "season_id": "2027"
+      },
+      "summary": "Anfernee Simons is reported unavailable for the next two games.",
+      "tags": [
+        "availability"
+      ],
+      "report_kind": "historical_news_event",
+      "current_status": "not_inferred; verify against a current roster/injury source",
+      "source_metadata_sha256": "2f5d1e55bdafbaba5cac57c181df9a99dfa81b9592c4339af0c661a24fdf07b5",
+      "first_seen_at": "2026-10-07T22:12:28Z",
+      "last_seen_at": "2026-10-07T22:12:55Z",
+      "revision_count": 0,
+      "revisions": []
+    },
+    {
+      "event_id": "rotowire:nba533435",
+      "source": "RotoWire",
+      "source_item_id": "nba533435",
+      "source_url": "https://www.rotowire.com/basketball/player/yaxel-lendeborg-6562",
+      "publisher_player_id": "6562",
+      "published_at": "2026-10-07T14:22:00Z",
+      "published_at_source_tz": "Wed, 07 Oct 2026 7:22:00 AM PDT",
+      "fetched_at": "2026-10-07T22:12:55Z",
+      "player_name": "Yaxel Lendeborg",
+      "player_name_as_reported": "Yaxel Lendeborg",
+      "player_match": {
+        "status": "matched",
+        "player_id": "5175737",
+        "team_abbreviation": "GS",
+        "season_id": "2027"
+      },
+      "summary": "Yaxel Lendeborg is reported unavailable for an upcoming game.",
+      "tags": [
+        "availability"
+      ],
+      "report_kind": "historical_news_event",
+      "current_status": "not_inferred; verify against a current roster/injury source",
+      "source_metadata_sha256": "1b06bbe97c666aca886cd2821297f691cd27854c1a52c5a4e283844da937fde7",
+      "first_seen_at": "2026-10-07T22:12:28Z",
+      "last_seen_at": "2026-10-07T22:12:55Z",
+      "revision_count": 0,
+      "revisions": []
+    },
+    {
+      "event_id": "rotowire:nba533416",
+      "source": "RotoWire",
+      "source_item_id": "nba533416",
+      "source_url": "https://www.rotowire.com/basketball/player/brandin-podziemski-5889",
+      "publisher_player_id": "5889",
+      "published_at": "2026-10-07T04:44:00Z",
+      "published_at_source_tz": "Tue, 06 Oct 2026 9:44:00 PM PDT",
+      "fetched_at": "2026-10-07T22:12:55Z",
+      "player_name": "Brandin Podziemski",
+      "player_name_as_reported": "Brandin Podziemski",
+      "player_match": {
+        "status": "matched",
+        "player_id": "4709138",
+        "team_abbreviation": "GS",
+        "season_id": "2027"
+      },
+      "summary": "A player-related update for Brandin Podziemski was reported.",
+      "tags": [
+        "general"
+      ],
+      "report_kind": "historical_news_event",
+      "current_status": "not_inferred; verify against a current roster/injury source",
+      "source_metadata_sha256": "ba4e51f7d6f6ee6fbd422745abfa540f9fe1e2314dcdf0252bc54eb4b028e04b",
+      "first_seen_at": "2026-10-07T22:12:28Z",
+      "last_seen_at": "2026-10-07T22:12:55Z",
+      "revision_count": 0,
+      "revisions": []
+    }
+  ],
+  "last_fetch_at": "2026-10-07T22:12:55Z",
+  "source_url": "https://www.rotowire.com/rss/news.php?sport=NBA",
+  "source_http": {
+    "http_date": "Wed, 07 Oct 2026 22:12:55 GMT",
+    "http_last_modified": "Wed, 07 Oct 2026 22:10:25 GMT",
+    "cache_control": "public, max-age=300",
+    "etag": null,
+    "retrieval_method": "publisher_provided_rss"
+  }
+}

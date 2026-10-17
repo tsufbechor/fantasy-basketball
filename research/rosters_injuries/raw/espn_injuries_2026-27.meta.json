@@ -1,0 +1,15 @@
+{
+  "retrieved_at_utc": "2026-10-07T21:59:37+00:00",
+  "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/injuries",
+  "http_status": 200,
+  "sha256": "3081fa48948957bfd46a3e4443bf1ae5b2174348b9f8bf7dd3f280f083d1556e",
+  "season_id": 2027,
+  "source_timestamp": "2026-10-07T21:59:38Z",
+  "season": {
+    "year": 2027,
+    "type": 1,
+    "name": "Preseason",
+    "displayName": "2026-27"
+  },
+  "injury_groups": 26
+}

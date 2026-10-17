@@ -1,0 +1,11 @@
+{
+  "retrieved_at_utc": "2026-10-07T21:59:37+00:00",
+  "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/teams/sac/roster?season=2027",
+  "http_status": 200,
+  "sha256": "bd48e1b53fc2a5f407c97c380f026d347eb0916d3c5f78be5334a0d4a486bfc0",
+  "season_id": 2027,
+  "source_timestamp": "2026-10-07T21:58:37Z",
+  "team_id": "23",
+  "team_abbreviation": "SAC",
+  "player_count": 19
+}

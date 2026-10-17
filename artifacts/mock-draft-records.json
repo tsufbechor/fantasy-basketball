@@ -1,0 +1,792 @@
+[
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4594268.png&w=96&h=70&cb=1",
+    "info": "R1, P1 - THE JEWS",
+    "name": "Anthony Edwards"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/5104157.png&w=96&h=70&cb=1",
+    "info": "R1, P2 - Kfar Saba Invaders",
+    "name": "Victor Wembanyama"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3112335.png&w=96&h=70&cb=1",
+    "info": "R1, P3 - Team Stoli Bond Bondi Stoli",
+    "name": "Nikola Jokic"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4278073.png&w=96&h=70&cb=1",
+    "info": "R1, P4 - TEAM No Name",
+    "name": "Shai Gilgeous-Alexander"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3908809.png&w=96&h=70&cb=1",
+    "info": "R1, P5 - Returned",
+    "name": "Donovan Mitchell"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3945274.png&w=96&h=70&cb=1",
+    "info": "R1, P6 - Bnei Metula",
+    "name": "Luka Doncic"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4065648.png&w=96&h=70&cb=1",
+    "info": "R1, P7 - Shark's Squad",
+    "name": "Jayson Tatum"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/5041939.png&w=96&h=70&cb=1",
+    "info": "R1, P8 - Los Angeles Lakers",
+    "name": "Cooper Flagg"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4431678.png&w=96&h=70&cb=1",
+    "info": "R1, P9 - The Shpiglers ",
+    "name": "Tyrese Maxey"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4432166.png&w=96&h=70&cb=1",
+    "info": "R1, P10 - Wade Nation",
+    "name": "Cade Cunningham"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4701230.png&w=96&h=70&cb=1",
+    "info": "R1, P11 - The Bingo",
+    "name": "Jalen Johnson"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4432816.png&w=96&h=70&cb=1",
+    "info": "R1, P12 - Nico Susu",
+    "name": "LaMelo Ball"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4433134.png&w=96&h=70&cb=1",
+    "info": "R2, P1 - Nico Susu",
+    "name": "Scottie Barnes"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4684740.png&w=96&h=70&cb=1",
+    "info": "R2, P2 - The Bingo",
+    "name": "Amen Thompson"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/6583.png&w=96&h=70&cb=1",
+    "info": "R2, P3 - Wade Nation",
+    "name": "Anthony Davis"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4066261.png&w=96&h=70&cb=1",
+    "info": "R2, P4 - The Shpiglers ",
+    "name": "Bam Adebayo"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4396993.png&w=96&h=70&cb=1",
+    "info": "R2, P5 - Los Angeles Lakers",
+    "name": "Tyrese Haliburton"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3032977.png&w=96&h=70&cb=1",
+    "info": "R2, P6 - Shark's Squad",
+    "name": "Giannis Antetokounmpo"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/6450.png&w=96&h=70&cb=1",
+    "info": "R2, P7 - Bnei Metula",
+    "name": "Kawhi Leonard"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3078576.png&w=96&h=70&cb=1",
+    "info": "R2, P8 - Returned",
+    "name": "Derrick White"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3136195.png&w=96&h=70&cb=1",
+    "info": "R2, P9 - TEAM No Name",
+    "name": "Karl-Anthony Towns"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3936299.png&w=96&h=70&cb=1",
+    "info": "R2, P10 - Team Stoli Bond Bondi Stoli",
+    "name": "Jamal Murray"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4433621.png&w=96&h=70&cb=1",
+    "info": "R2, P11 - Kfar Saba Invaders",
+    "name": "Jalen Duren"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3149673.png&w=96&h=70&cb=1",
+    "info": "R2, P12 - THE JEWS",
+    "name": "Pascal Siakam"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4396971.png&w=96&h=70&cb=1",
+    "info": "R3, P1 - THE JEWS",
+    "name": "Naz Reid"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3992.png&w=96&h=70&cb=1",
+    "info": "R3, P2 - Kfar Saba Invaders",
+    "name": "James Harden"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3147657.png&w=96&h=70&cb=1",
+    "info": "R3, P3 - Team Stoli Bond Bondi Stoli",
+    "name": "Mikal Bridges"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3202.png&w=96&h=70&cb=1",
+    "info": "R3, P4 - TEAM No Name",
+    "name": "Kevin Durant"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4432158.png&w=96&h=70&cb=1",
+    "info": "R3, P5 - Returned",
+    "name": "Evan Mobley"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4871144.png&w=96&h=70&cb=1",
+    "info": "R3, P6 - Bnei Metula",
+    "name": "Alperen Sengun"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3155942.png&w=96&h=70&cb=1",
+    "info": "R3, P7 - Shark's Squad",
+    "name": "Domantas Sabonis"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3934672.png&w=96&h=70&cb=1",
+    "info": "R3, P8 - Los Angeles Lakers",
+    "name": "Jalen Brunson"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3975.png&w=96&h=70&cb=1",
+    "info": "R3, P9 - The Shpiglers ",
+    "name": "Stephen Curry"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4066336.png&w=96&h=70&cb=1",
+    "info": "R3, P10 - Wade Nation",
+    "name": "Lauri Markkanen"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4278039.png&w=96&h=70&cb=1",
+    "info": "R3, P11 - The Bingo",
+    "name": "Nickeil Alexander-Walker"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4593803.png&w=96&h=70&cb=1",
+    "info": "R3, P12 - Nico Susu",
+    "name": "Jalen Williams"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4869342.png&w=96&h=70&cb=1",
+    "info": "R4, P1 - Nico Susu",
+    "name": "Dyson Daniels"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4871145.png&w=96&h=70&cb=1",
+    "info": "R4, P2 - The Bingo",
+    "name": "Josh Giddey"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/5061575.png&w=96&h=70&cb=1",
+    "info": "R4, P3 - Wade Nation",
+    "name": "Kon Knueppel"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4066320.png&w=96&h=70&cb=1",
+    "info": "R4, P4 - The Shpiglers ",
+    "name": "Desmond Bane"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3136193.png&w=96&h=70&cb=1",
+    "info": "R4, P5 - Los Angeles Lakers",
+    "name": "Devin Booker"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4066457.png&w=96&h=70&cb=1",
+    "info": "R4, P6 - Shark's Squad",
+    "name": "Austin Reaves"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4278104.png&w=96&h=70&cb=1",
+    "info": "R4, P7 - Bnei Metula",
+    "name": "Michael Porter Jr."
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4397688.png&w=96&h=70&cb=1",
+    "info": "R4, P8 - Returned",
+    "name": "Trey Murphy III"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/5105623.png&w=96&h=70&cb=1",
+    "info": "R4, P9 - TEAM No Name",
+    "name": "Kel'el Ware"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/6442.png&w=96&h=70&cb=1",
+    "info": "R4, P10 - Team Stoli Bond Bondi Stoli",
+    "name": "Kyrie Irving"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4431680.png&w=96&h=70&cb=1",
+    "info": "R4, P11 - Kfar Saba Invaders",
+    "name": "Onyeka Okongwu"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/5105565.png&w=96&h=70&cb=1",
+    "info": "R4, P12 - THE JEWS",
+    "name": "Donovan Clingan"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4066328.png&w=96&h=70&cb=1",
+    "info": "R5, P1 - THE JEWS",
+    "name": "Jarrett Allen"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4277905.png&w=96&h=70&cb=1",
+    "info": "R5, P2 - Kfar Saba Invaders",
+    "name": "Trae Young"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4433136.png&w=96&h=70&cb=1",
+    "info": "R5, P3 - Team Stoli Bond Bondi Stoli",
+    "name": "Walker Kessler"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4433255.png&w=96&h=70&cb=1",
+    "info": "R5, P4 - TEAM No Name",
+    "name": "Chet Holmgren"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4066259.png&w=96&h=70&cb=1",
+    "info": "R5, P5 - Returned",
+    "name": "De'Aaron Fox"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4396907.png&w=96&h=70&cb=1",
+    "info": "R5, P6 - Bnei Metula",
+    "name": "Darius Garland"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3032976.png&w=96&h=70&cb=1",
+    "info": "R5, P7 - Shark's Squad",
+    "name": "Rudy Gobert"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/5095151.png&w=96&h=70&cb=1",
+    "info": "R5, P8 - Los Angeles Lakers",
+    "name": "Caleb Wilson"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4433287.png&w=96&h=70&cb=1",
+    "info": "R5, P9 - The Shpiglers ",
+    "name": "Brandon Miller"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/5124612.png&w=96&h=70&cb=1",
+    "info": "R5, P10 - Wade Nation",
+    "name": "VJ Edgecombe"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4683021.png&w=96&h=70&cb=1",
+    "info": "R5, P11 - The Bingo",
+    "name": "Deni Avdija"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4065733.png&w=96&h=70&cb=1",
+    "info": "R5, P12 - Nico Susu",
+    "name": "Ty Jerome"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4711272.png&w=96&h=70&cb=1",
+    "info": "R6, P1 - Nico Susu",
+    "name": "Reed Sheppard"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4395725.png&w=96&h=70&cb=1",
+    "info": "R6, P2 - The Bingo",
+    "name": "Tyler Herro"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3907497.png&w=96&h=70&cb=1",
+    "info": "R6, P3 - Wade Nation",
+    "name": "Dejounte Murray"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3917376.png&w=96&h=70&cb=1",
+    "info": "R6, P4 - The Shpiglers ",
+    "name": "Jaylen Brown"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/5160992.png&w=96&h=70&cb=1",
+    "info": "R6, P5 - Los Angeles Lakers",
+    "name": "Alex Sarr"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4711294.png&w=96&h=70&cb=1",
+    "info": "R6, P6 - Shark's Squad",
+    "name": "Matas Buzelis"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2595516.png&w=96&h=70&cb=1",
+    "info": "R6, P7 - Bnei Metula",
+    "name": "Norman Powell"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4709138.png&w=96&h=70&cb=1",
+    "info": "R6, P8 - Returned",
+    "name": "Brandin Podziemski"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4566434.png&w=96&h=70&cb=1",
+    "info": "R6, P9 - TEAM No Name",
+    "name": "Franz Wagner"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3934719.png&w=96&h=70&cb=1",
+    "info": "R6, P10 - Team Stoli Bond Bondi Stoli",
+    "name": "OG Anunoby"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/6606.png&w=96&h=70&cb=1",
+    "info": "R6, P11 - Kfar Saba Invaders",
+    "name": "Damian Lillard"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4277961.png&w=96&h=70&cb=1",
+    "info": "R6, P12 - THE JEWS",
+    "name": "Jaren Jackson Jr."
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/1966.png&w=96&h=70&cb=1",
+    "info": "R7, P1 - THE JEWS",
+    "name": "LeBron James"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4017837.png&w=96&h=70&cb=1",
+    "info": "R7, P2 - Kfar Saba Invaders",
+    "name": "Ivica Zubac"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2991230.png&w=96&h=70&cb=1",
+    "info": "R7, P3 - Team Stoli Bond Bondi Stoli",
+    "name": "Fred VanVleet"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4066383.png&w=96&h=70&cb=1",
+    "info": "R7, P4 - TEAM No Name",
+    "name": "Miles Bridges"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/5041935.png&w=96&h=70&cb=1",
+    "info": "R7, P5 - Returned",
+    "name": "Cameron Boozer"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4684742.png&w=96&h=70&cb=1",
+    "info": "R7, P6 - Bnei Metula",
+    "name": "Ausar Thompson"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4594327.png&w=96&h=70&cb=1",
+    "info": "R7, P7 - Shark's Squad",
+    "name": "Keegan Murray"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4431671.png&w=96&h=70&cb=1",
+    "info": "R7, P8 - Los Angeles Lakers",
+    "name": "Jaden McDaniels"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3102531.png&w=96&h=70&cb=1",
+    "info": "R7, P9 - The Shpiglers ",
+    "name": "Kristaps Porzingis"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3064514.png&w=96&h=70&cb=1",
+    "info": "R7, P10 - Wade Nation",
+    "name": "Julius Randle"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3059319.png&w=96&h=70&cb=1",
+    "info": "R7, P11 - The Bingo",
+    "name": "Andrew Wiggins"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4432573.png&w=96&h=70&cb=1",
+    "info": "R7, P12 - Nico Susu",
+    "name": "Paolo Banchero"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4869780.png&w=96&h=70&cb=1",
+    "info": "R8, P1 - Nico Susu",
+    "name": "Derik Queen"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2490149.png&w=96&h=70&cb=1",
+    "info": "R8, P2 - The Bingo",
+    "name": "CJ McCollum"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/5142718.png&w=96&h=70&cb=1",
+    "info": "R8, P3 - Wade Nation",
+    "name": "AJ Dybantsa"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3059318.png&w=96&h=70&cb=1",
+    "info": "R8, P4 - The Shpiglers ",
+    "name": "Joel Embiid"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4251.png&w=96&h=70&cb=1",
+    "info": "R8, P5 - Los Angeles Lakers",
+    "name": "Paul George"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4433627.png&w=96&h=70&cb=1",
+    "info": "R8, P6 - Shark's Squad",
+    "name": "Keyonte George"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4395724.png&w=96&h=70&cb=1",
+    "info": "R8, P7 - Bnei Metula",
+    "name": "Immanuel Quickley"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/6440.png&w=96&h=70&cb=1",
+    "info": "R8, P8 - Returned",
+    "name": "Tobias Harris"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3908845.png&w=96&h=70&cb=1",
+    "info": "R8, P9 - TEAM No Name",
+    "name": "John Collins"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4066354.png&w=96&h=70&cb=1",
+    "info": "R8, P10 - Team Stoli Bond Bondi Stoli",
+    "name": "Payton Pritchard"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4395628.png&w=96&h=70&cb=1",
+    "info": "R8, P11 - Kfar Saba Invaders",
+    "name": "Zion Williamson"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3133628.png&w=96&h=70&cb=1",
+    "info": "R8, P12 - THE JEWS",
+    "name": "Myles Turner"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4845367.png&w=96&h=70&cb=1",
+    "info": "R9, P1 - THE JEWS",
+    "name": "Stephon Castle"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3062679.png&w=96&h=70&cb=1",
+    "info": "R9, P2 - Kfar Saba Invaders",
+    "name": "Josh Hart"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4437244.png&w=96&h=70&cb=1",
+    "info": "R9, P3 - Team Stoli Bond Bondi Stoli",
+    "name": "Jalen Green"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/6478.png&w=96&h=70&cb=1",
+    "info": "R9, P4 - TEAM No Name",
+    "name": "Nikola Vucevic"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/5037871.png&w=96&h=70&cb=1",
+    "info": "R9, P5 - Returned",
+    "name": "Dylan Harper"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3978.png&w=96&h=70&cb=1",
+    "info": "R9, P6 - Bnei Metula",
+    "name": "DeMar DeRozan"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4591725.png&w=96&h=70&cb=1",
+    "info": "R9, P7 - Shark's Squad",
+    "name": "Ryan Rollins"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4278585.png&w=96&h=70&cb=1",
+    "info": "R9, P8 - Los Angeles Lakers",
+    "name": "Collin Gillespie"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4395651.png&w=96&h=70&cb=1",
+    "info": "R9, P9 - The Shpiglers ",
+    "name": "Coby White"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4397140.png&w=96&h=70&cb=1",
+    "info": "R9, P10 - Wade Nation",
+    "name": "Kevin Porter Jr."
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4576087.png&w=96&h=70&cb=1",
+    "info": "R9, P11 - The Bingo",
+    "name": "Peyton Watson"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/5175643.png&w=96&h=70&cb=1",
+    "info": "R9, P12 - Nico Susu",
+    "name": "Egor Demin"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3468.png&w=96&h=70&cb=1",
+    "info": "R10, P1 - Nico Susu",
+    "name": "Russell Westbrook"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4397002.png&w=96&h=70&cb=1",
+    "info": "R10, P2 - The Bingo",
+    "name": "Ayo Dosunmu"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4600663.png&w=96&h=70&cb=1",
+    "info": "R10, P3 - Wade Nation",
+    "name": "Zach Edey"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4683692.png&w=96&h=70&cb=1",
+    "info": "R10, P4 - The Shpiglers ",
+    "name": "Cason Wallace"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4432639.png&w=96&h=70&cb=1",
+    "info": "R10, P5 - Los Angeles Lakers",
+    "name": "Jabari Smith Jr."
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3448.png&w=96&h=70&cb=1",
+    "info": "R10, P6 - Shark's Squad",
+    "name": "Brook Lopez"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4351852.png&w=96&h=70&cb=1",
+    "info": "R10, P7 - Bnei Metula",
+    "name": "Mitchell Robinson"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4278049.png&w=96&h=70&cb=1",
+    "info": "R10, P8 - Returned",
+    "name": "Daniel Gafford"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4397014.png&w=96&h=70&cb=1",
+    "info": "R10, P9 - TEAM No Name",
+    "name": "Quentin Grimes"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4592479.png&w=96&h=70&cb=1",
+    "info": "R10, P10 - Team Stoli Bond Bondi Stoli",
+    "name": "Julian Champagnie"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3134908.png&w=96&h=70&cb=1",
+    "info": "R10, P11 - Kfar Saba Invaders",
+    "name": "Jakob Poeltl"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4397424.png&w=96&h=70&cb=1",
+    "info": "R10, P12 - THE JEWS",
+    "name": "Neemias Queta"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4279888.png&w=96&h=70&cb=1",
+    "info": "R11, P1 - THE JEWS",
+    "name": "Ja Morant"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/5144091.png&w=96&h=70&cb=1",
+    "info": "R11, P2 - Kfar Saba Invaders",
+    "name": "Jeremiah Fears"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4592691.png&w=96&h=70&cb=1",
+    "info": "R11, P3 - Team Stoli Bond Bondi Stoli",
+    "name": "Jake LaRavia"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4278067.png&w=96&h=70&cb=1",
+    "info": "R11, P4 - TEAM No Name",
+    "name": "Nic Claxton"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4601023.png&w=96&h=70&cb=1",
+    "info": "R11, P5 - Returned",
+    "name": "Oso Ighodaro"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4873138.png&w=96&h=70&cb=1",
+    "info": "R11, P6 - Bnei Metula",
+    "name": "Ace Bailey"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4712849.png&w=96&h=70&cb=1",
+    "info": "R11, P7 - Shark's Squad",
+    "name": "Anthony Black"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/5174563.png&w=96&h=70&cb=1",
+    "info": "R11, P8 - Los Angeles Lakers",
+    "name": "Kyshawn George"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4395630.png&w=96&h=70&cb=1",
+    "info": "R11, P9 - The Shpiglers ",
+    "name": "Devin Vassell"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4903027.png&w=96&h=70&cb=1",
+    "info": "R11, P10 - Wade Nation",
+    "name": "Cedric Coward"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4222252.png&w=96&h=70&cb=1",
+    "info": "R11, P11 - The Bingo",
+    "name": "Isaiah Hartenstein"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4397136.png&w=96&h=70&cb=1",
+    "info": "R11, P12 - Nico Susu",
+    "name": "Saddiq Bey"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/5041955.png&w=96&h=70&cb=1",
+    "info": "R12, P1 - Nico Susu",
+    "name": "Darryn Peterson"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4431785.png&w=96&h=70&cb=1",
+    "info": "R12, P2 - The Bingo",
+    "name": "Scotty Pippen Jr."
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3155526.png&w=96&h=70&cb=1",
+    "info": "R12, P3 - Wade Nation",
+    "name": "Dillon Brooks"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4432194.png&w=96&h=70&cb=1",
+    "info": "R12, P4 - The Shpiglers ",
+    "name": "Day'Ron Sharpe"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2991350.png&w=96&h=70&cb=1",
+    "info": "R12, P5 - Los Angeles Lakers",
+    "name": "Alex Caruso"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4431736.png&w=96&h=70&cb=1",
+    "info": "R12, P6 - Shark's Squad",
+    "name": "Toumani Camara"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/5142620.png&w=96&h=70&cb=1",
+    "info": "R12, P7 - Bnei Metula",
+    "name": "Darius Acuff Jr."
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4395625.png&w=96&h=70&cb=1",
+    "info": "R12, P8 - Returned",
+    "name": "RJ Barrett"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3995.png&w=96&h=70&cb=1",
+    "info": "R12, P9 - TEAM No Name",
+    "name": "Jrue Holiday"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3913176.png&w=96&h=70&cb=1",
+    "info": "R12, P10 - Team Stoli Bond Bondi Stoli",
+    "name": "Brandon Ingram"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4684793.png&w=96&h=70&cb=1",
+    "info": "R12, P11 - Kfar Saba Invaders",
+    "name": "Kyle Filipowski"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3138196.png&w=96&h=70&cb=1",
+    "info": "R12, P12 - THE JEWS",
+    "name": "Cameron Johnson"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4432810.png&w=96&h=70&cb=1",
+    "info": "R13, P1 - THE JEWS",
+    "name": "Isaiah Stewart"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4432165.png&w=96&h=70&cb=1",
+    "info": "R13, P2 - Kfar Saba Invaders",
+    "name": "Jalen Suggs"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4433083.png&w=96&h=70&cb=1",
+    "info": "R13, P3 - Team Stoli Bond Bondi Stoli",
+    "name": "Cam Spencer"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4683688.png&w=96&h=70&cb=1",
+    "info": "R13, P4 - TEAM No Name",
+    "name": "Dereck Lively II"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4432848.png&w=96&h=70&cb=1",
+    "info": "R13, P5 - Returned",
+    "name": "Jaime Jaquez Jr."
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2991070.png&w=96&h=70&cb=1",
+    "info": "R13, P6 - Bnei Metula",
+    "name": "Jerami Grant"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4278078.png&w=96&h=70&cb=1",
+    "info": "R13, P7 - Shark's Squad",
+    "name": "P.J. Washington"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4395723.png&w=96&h=70&cb=1",
+    "info": "R13, P8 - Los Angeles Lakers",
+    "name": "Keldon Johnson"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4277811.png&w=96&h=70&cb=1",
+    "info": "R13, P9 - The Shpiglers ",
+    "name": "Collin Sexton"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4431679.png&w=96&h=70&cb=1",
+    "info": "R13, P10 - Wade Nation",
+    "name": "Precious Achiuwa"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4395712.png&w=96&h=70&cb=1",
+    "info": "R13, P11 - The Bingo",
+    "name": "Andrew Nembhard"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4066648.png&w=96&h=70&cb=1",
+    "info": "R13, P12 - Nico Susu",
+    "name": "Rui Hachimura"
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2528210.png&w=96&h=70&cb=1",
+    "info": "R14, P1 - Nico Susu",
+    "name": "Tim Hardaway Jr."
+  },
+  {
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2583632.png&w=96&h=70&cb=1",
+    "info": "R14, P2 - The Bingo",
+    "name": "Royce O'Neale"
+  }
+]

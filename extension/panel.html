@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="en">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>My Draft Board</title><link rel="stylesheet" href="panel.css"></head>
+<body>
+  <header><div class="eyebrow">BASKETBALL / 2026–27</div><div class="title"><h1>My draft board<span>.</span></h1><a id="full-board" href="panel.html" target="_blank" title="Open as a full tab">↗</a></div><p>Your order. Your targets. Who’s still there.</p><div class="save-bar"><span id="save-status">Saved in this browser</span><button id="top-export" class="small">Download backup</button></div></header>
+  <section class="connection" aria-label="Draft connection">
+    <div><span id="status-dot" class="dot"></span><strong id="status">Not connected</strong><button id="connect" class="small">Connect ESPN</button></div>
+    <p id="sync-detail">Your rankings are saved locally. Connect to track picks.</p>
+    <p id="draft-date"></p>
+    <details><summary>League settings</summary><form id="settings"><label>League ID<input id="league-id" inputmode="numeric" value="9490871" required pattern="[0-9]+"></label><label>ESPN season<input id="season" inputmode="numeric" value="2027" required pattern="[0-9]{4}"></label><button>Save connection</button></form><p>ESPN uses 2027 for the 2026–27 season. Tracking runs while this board is open.</p></details>
+  </section>
+  <div class="stats"><div><strong id="available-count">—</strong><span>available</span></div><div><strong id="watch-count">—</strong><span>targets left</span></div><div><strong id="pick-count">0</strong><span>ESPN picks</span></div></div>
+  <div class="toolbar"><input id="search" type="search" placeholder="Search players…" aria-label="Search players"><select id="position" aria-label="Filter position"><option value="">All positions</option><option>PG</option><option>SG</option><option>SF</option><option>PF</option><option>C</option></select></div>
+  <nav aria-label="Player lists"><button class="active" data-view="available">Available</button><button data-view="watch">★ Watchlist</button><button data-view="all">All players</button></nav>
+  <div class="list-heading"><span>MY RANK / PLAYER</span><span>WATCH / STATUS</span></div><p class="rank-help">Grab ⠿ to drag a player into place. Rankings save automatically.</p><span id="reorder-status" class="sr-only" role="status"></span>
+  <p class="stat-guide">Hashtag per-game stats · FG/FT show made / attempted. <span class="color-key">Red = weak · neutral = average · green = strong</span></p>
+  <p id="message" role="status" hidden></p><div id="players"></div>
+  <footer><details><summary>Import & backup</summary><p>Starter order: saved Hashtag 2026–27 top 300 projections. Your stars and notes are private to this browser.</p><label>Paste your order, one player name per line<textarea id="ranking-import" rows="5" placeholder="1. Nikola Jokic&#10;2. Victor Wembanyama"></textarea></label><button id="apply-order">Apply order</button><p>Listed players move to the top. Unlisted players follow in their existing order.</p><div class="backup"><button id="export">Export backup</button><label class="file-label">Restore backup<input id="restore" type="file" accept=".json,application/json"></label></div></details><p class="footnote">The extension reads completed picks from your open ESPN draft page. Standalone HTML supports draft preparation; live tracking needs the extension. “Taken” is a manual correction.</p><button id="clear-overrides" class="text-button">Clear manual availability corrections</button></footer>
+  <script type="module" src="panel.mjs"></script>
+</body></html>
